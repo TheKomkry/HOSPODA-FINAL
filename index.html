@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/default.css">
-    <link rel="stylesheet" href="css/XXX.css">
+    <link rel="stylesheet" href="css/index.css">
     <title>U Tlustýho Kováře</title>
 </head>
 <body>
@@ -18,13 +18,6 @@
                 <li><a href="/fotogalerie.html">Fotky</a></li>
                 <li><a href="/info.html">Info & Akce</a></li>
                 <li><a href="/nabidka.html">Jídelní a Nápojový lístek</a></li>
-                <!-- <li><a href="">Jídelní & Nápojový lístek</a></li>
-                <li><a href="">Otevírací doba</a></li>
-                <li><a href="">O nás</a></li>
-                <li><a href="">Fotogalerie</a></li>
-                <li><a href="">Fotogalerie</a></li>
-                <li><a href="">Akce</a></li> -->
-                <!-- Kontakt -->
             </ul>
         </nav>
         <img src="images/menu-open.svg" alt="OPEN MENU" class="menu-icon" id="menu-icon" onclick="togglemenu()">
@@ -36,7 +29,18 @@
         </div>
     </div>
     <!-- ------------------PAGE-CONTAINER------------------ -->
-
+    <div class="redir-outer-container">
+        <div class="redir-inner-container">
+            <img src="images/icons/cutlery.png" alt="PRESMEROVAT K JIDLU" class="redir-img" onclick="redirect('/nabidka.html')" onmouseenter="pngToGif(this)" onmouseleave="gifToPng(this)">
+            <br>
+            <span>Naše nabídka jídla</span>
+        </div>
+        <div class="redir-inner-container">
+            <img src="images/icons/recipe-book.png" alt="PRESMEROVAT K MENU" class="redir-img" onclick="redirect('/menu.html')" onmouseenter="pngToGif(this)" onmouseleave="gifToPng(this)">
+            <br>
+            <span>Naše denní menu</span>
+        </div>
+    </div>
     <!-- ---------------------------------------------------- -->
     <footer class="footer">
         <a href="https://maps.google.com/maps?ll=49.35351,16.550508&z=15&t=m&hl=cs&gl=CZ&mapclient=embed&cid=5406292149844373798">&#xab; Lažany XX, 679 22 Lažany &#xbb;</a>
@@ -46,6 +50,7 @@
     <script src="js/header.js"></script>
     <script src="js/positionLogo.js"></script>
     <script src="js/redirect.js"></script>
+    <script src="js/change-png-to-gif.js"></script>
     <!-- <script src="js/openIMG.js"></script> -->
 </body>
 </html>
