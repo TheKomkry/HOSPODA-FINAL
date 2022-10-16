@@ -14,6 +14,9 @@ body{
 .navbar-brand{
     font-family: 'Lobster', cursive;
     font-size: 1.5rem;
+    text-decoration: none;
+    cursor: pointer;
+    color: #fff;
 }
 .navbar{
     position: fixed;
@@ -117,13 +120,19 @@ nav ul li a:hover{
     font-size: .75rem;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .footer a{
     color: #fff;
     text-decoration: none;
+    font-size: .75rem;
 }
 .footer a:hover{
     text-decoration: underline;
+}
+.copyright{
+    font-family: 'Lobster', cursive;
+    font-size: 1rem;
 }
 /* ----------------------PAGE TITLE------------------------ */
 .page-title{
@@ -155,7 +164,7 @@ nav ul li a:hover{
 
 
 /* ------------------MEDIA QUERIES------------------ */
-@media only screen and (max-width:700px){
+@media only screen and (max-width:800px){
     html{
         font-size: 12px;
     }
