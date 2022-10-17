@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/default.css">
+    <link rel="stylesheet" href="css/table-style.css">
+    <link rel="stylesheet" href="css/oteviraci-doba.css">
+    <title>U Tlustýho Kováře</title>
+</head>
+<body>
+    <div class="navbar" id="navbar">
+        <a class="navbar-brand" href="/">Hospoda <br>U Tlustýho Kováře</a>
+        <nav>
+            <ul id="menuList">
+                <li><a href="/oteviraci-doba.html">Otevírací doba</a></li>
+                <li><a href="/menu.html">Denní menu</a></li>
+                <li><a href="/fotogalerie.html">Fotky</a></li>
+                <li><a href="/info.html">Info & Akce</a></li>
+                <li><a href="/nabidka.html">Jídelní a Nápojový lístek</a></li>
+                <!-- <li><a href="">Jídelní & Nápojový lístek</a></li>
+                <li><a href="">Otevírací doba</a></li>
+                <li><a href="">O nás</a></li>
+                <li><a href="">Fotogalerie</a></li>
+                <li><a href="">Fotogalerie</a></li>
+                <li><a href="">Akce</a></li> -->
+                <!-- Kontakt -->
+            </ul>
+        </nav>
+        <img src="images/menu-open.svg" alt="OPEN MENU" class="menu-icon" id="menu-icon" onclick="togglemenu()">
+    </div>
+    <div class="header-container">
+        <img src="images/header.webp" alt="Obrázek hospody" class="header-image" id="header-image" onload="checkHeight()">
+        <div class="header-logo-container">
+            <img src="images/hospodaLogo.png" alt="Logo hospody" class="header-logo" id="header-logo">
+        </div>
+    </div>
+    <!-- ------------------PAGE-CONTAINER------------------ -->
+    <table class="container">
+        <h2 id="openStatus">V tabulce níže, uvidíte kdy máme otevřeno</h2>
+        <p id="time"></p>
+        <thead>
+            <tr>
+                <th><h1>DEN</h1></th>
+                <th colspan="2"><h1 style="text-align: center">OTEVÍRACÍ DOBA</h1></th>
+                <th><h1>Vaříme?</h1></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr id="pondeli">
+                <td>Pondělí</td>
+                <td>11:00 - 14:00</td>
+                <td>17:00 - 22:00</td>
+                <td>&#x2713;</td>
+            </tr>
+            <tr id="utery">
+                <td>Úterý</td>
+                <td>11:00 - 14:00</td>
+                <td>17:00 - 22:00</td>
+                <td>&#x2713;</td>
+            </tr>
+            <tr id="streda">
+                <td>Středa</td>
+                <td>11:00 - 14:00</td>
+                <td>17:00 - 22:00</td>
+                <td>&#x2713;</td>
+            </tr>
+            <tr id="ctvrtek">
+                <td>Čtvrtek</td>
+                <td>11:00 - 14:00</td>
+                <td>17:00 - 22:00</td>
+                <td>&#x2713;</td>
+            </tr>
+            <tr id="patek">
+                <td>Pátek</td>
+                <td>11:00 - 14:00</td>
+                <td>17:00 - 22:00</td>
+                <td>&#x2713;</td>
+            </tr>
+            <tr id="sobota">
+                <td>Sobota</td>
+                <td colspan="2">17:00 - 22:00</td>
+                <td>&#x2717;</td>
+            </tr>
+            <tr id="nedele">
+                <td>Neděle</td>
+                <td colspan="2">17:00 - 22:00</td>
+                <td>&#x2717;</td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- ---------------------------------------------------- -->
+    <footer class="footer">
+        <a href="https://maps.google.com/maps?ll=49.35351,16.550508&z=15&t=m&hl=cs&gl=CZ&mapclient=embed&cid=5406292149844373798">&#xab; Lažany XX, 679 22 Lažany &#xbb;</a>
+        <p class="copyright">&copy; Hospoda U Tlustýho Kováře</p>
+        <a href="tel:+42012345679">&#xab; Zavolejte nám: +420 123 465 789 &#xbb;</a>
+    </footer>
+    <script src="js/header.js"></script>
+    <script src="js/positionLogo.js"></script>
+    <script src="js/redirect.js"></script>
+    <script src="js/getTime.js"></script>
+    <!-- <script src="js/openIMG.js"></script> -->
+</body>
+</html>
