@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/default.css">
     <link rel="stylesheet" href="css/index.css">
+    <link rel="icon" href="images/hospodaLogo.png" type="image/png" sizes="64x64">     
     <title>U Tlustýho Kováře</title>
 </head>
 <body>
@@ -29,18 +30,62 @@
         </div>
     </div>
     <!-- ------------------PAGE-CONTAINER------------------ -->
-    <div class="redir-outer-container">
+    <div class="text-container">
+        
+        <div class="text-o-nas">
+            <h1>Krátce o nás</h1>
+            <p>Jsme domácí hospoda v selském stylu ve vesnici Lažany. Založena roku XXXX v 600 let staré budově</p>
+        </div>
+
+        <div class="text-lokace">
+            <h1>Kde nás najít?</h1>
+            <p>Lažany XX, 679 22 Lažany</p>
+            <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10395.712274280799!2d16.550508!3d49.35351!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4b0702110774f126!2zVSBUbHVzdMO9aG8gS292w6HFmWU!5e0!3m2!1scs!2scz!4v1665951033203!5m2!1scs!2scz" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <br><button onclick="toggleMap()" id="map-bttn">SCHOVAT MAPU</button>
+            <script>
+                function toggleMap() {
+                    var map = document.getElementById("map");
+                    var bttn = document.getElementById("map-bttn");
+                    if (map.style.display === "none") {
+                        map.style.display = "block";
+                        bttn.innerHTML = "SCHOVAT MAPU";
+                        bttn.style.marginBottom = "2%;"
+                        bttn.style.marginTop = "0";
+                    } else {
+                        map.style.display = "none";
+                        bttn.innerHTML = "ZOBRAZIT MAPU";
+                        bttn.style.marginBottom = "2%;"
+                        bttn.style.marginTop = "2%";
+                    }
+                }
+            </script>
+            <p>Přijďte si k nám něco dát nebo jen pozdravit.</p>
+        </div>
+
+        <div class="text-kontakt">
+            <h1>Kontakt</h1>
+            <p>&#x260F; Telefon: <a href="tel:+420123456798">+420 XXX XXX XXX</a></p>
+            <p>&#9993; Email: <a href="mailto:admin@utlustyhokovare.cz">admin@utlustyhokovare.cz</a></p>
+            <p>FB Facebook: <a href="https://www.facebook.com/profile.php?id=100064164399936">U Tlustýho Kováře</a></p>
+        </div>
+    </div>
+    <!-- <div class="redir-outer-container">
         <div class="redir-inner-container">
-            <img src="images/icons/cutlery.png" alt="PRESMEROVAT K JIDLU" class="redir-img" onclick="redirect('/nabidka.html')" onmouseenter="pngToGif(this)" onmouseleave="gifToPng(this)">
+            <img src="images/temp/food.jpg" alt="Jídelní lístek" class="redir-img" onclick="redirect('/nabidka.html')">
             <br>
             <span>Naše nabídka jídla</span>
         </div>
         <div class="redir-inner-container">
-            <img src="images/icons/recipe-book.png" alt="PRESMEROVAT K MENU" class="redir-img" onclick="redirect('/menu.html')" onmouseenter="pngToGif(this)" onmouseleave="gifToPng(this)">
+            <img src="images/icons/drink-icon.png" alt="Nápojový lístek" class="redir-img" onclick="redirect('/menu.html')">
             <br>
             <span>Naše denní menu</span>
         </div>
-    </div>
+        <div class="redir-inner-container">
+            <img src="images/icons/drink.png" alt="PRESMEROVAT K MENU" class="redir-img" onclick="redirect('/menu.html')">
+            <br>
+            <span>Naše nabídka nápojů</span>
+        </div>
+    </div> -->
     <!-- ---------------------------------------------------- -->
     <footer class="footer">
         <a href="https://maps.google.com/maps?ll=49.35351,16.550508&z=15&t=m&hl=cs&gl=CZ&mapclient=embed&cid=5406292149844373798">&#xab; Lažany XX, 679 22 Lažany &#xbb;</a>
