@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.day-nav ul{
+    list-style: none;
+    text-align: center;
+}
+.day-nav ul li{
+    list-style: none;
+    display: inline-block;
+}
+.day-nav li{
+    padding: 0 1vw;
+}
+.day-nav ul li a{
+    color: #fbd62d;
+    text-decoration: none;
+    transition: padding .5s ease;
+}
+.day-nav{
+    display: block;
+    text-align: center;
+    padding: 0.625rem;
+    background-color: rgba(255, 255, 255, .25);
+    width: max-content;
+    margin: 0 auto;
+    border-radius: 1rem;
+}
+.day-nav ul li a:hover{
+    background-color: #fbd62d;
+    padding: .3rem 1.25rem;
+    color: #000;
+    border-radius: 1rem;
+    text-transform: capitalize;
+    /* transition: none; */
+    transition: padding .5s ease;
+}
+.design p{
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
+/* ------------------------------------------- */
+.container div li{
+    margin-left: 4rem;
+}
+.container h2{
+    font-size: 1.5rem;
+}
+.container p{
+    margin-left: 6rem;
+}
+.container h1{
+    font-family: 'Lobster', cursive;
+}
+.container h1::after{
+    display: block;
+    width: 100%;
+    background-color: #fbd62d;
+    height: 1px;
+    content: '';
+}
+.container{
+    margin-bottom: 5vh;
+}
