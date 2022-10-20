@@ -1,97 +1,126 @@
 {
     "Pondeli": {
         "datum": "2019-01-07",
-        "jidlo1": {
-            "nazev": "Palačinky",
-            "cena": 50
-        },
-        "jidlo2": {
-            "nazev": "Hovězí guláš",
-            "cena": 100
-        },
-        "jidlo3": {
-            "nazev": "Knedlíky",
-            "cena": 30
-        },
-        "jidlo4": {
-            "nazev": "Kuřecí maso",
-            "cena": 120
-        }
+        "jidla": [
+            {
+                "nazev": "Palačinky",
+                "popis": "s medem a máslem",
+                "cena": 50
+            },
+            {
+                "nazev": "Hovězí guláš",
+                "popis": "s bramborovým knedlíkem",
+                "cena": 100
+            },
+            {
+                "nazev": "Knedlíky",
+                "popis": "",
+                "cena": 30
+            },
+            {
+                "nazev": "Kuřecí maso",
+                "cena": 120
+            }
+        ]
     },
     "Utery": {
         "datum": "2019-01-08",
-        "jidlo1": {
-            "nazev": "Palačinky",
-            "cena": 50
-        },
-        "jidlo2": {
-            "nazev": "Hovězí guláš",
-            "cena": 100
-        },
-        "jidlo3": {
-            "nazev": "Knedlíky",
-            "cena": 30
-        },
-        "jidlo4": {
-            "nazev": "Kuřecí maso",
-            "cena": 120
-        }
+        "jidla": [
+            {
+                "nazev": "Palačinky",
+                "popis": "s medem a máslem",
+                "cena": 50
+            },
+            {
+                "nazev": "Hovězí guláš",
+                "popis": "s bramborami",
+                "cena": 100
+            },
+            {
+                "nazev": "Knedlíky",
+                "popis": "",
+                "cena": 30
+            },
+            {
+                "nazev": "Kuřecí maso",
+                "popis": "",
+                "cena": 120
+            }
+        ]
     },
     "Streda": {
         "datum": "2019-01-09",
-        "jidlo1": {
-            "nazev": "Palačinky",
-            "cena": 50
-        },
-        "jidlo2": {
-            "nazev": "Hovězí guláš",
-            "cena": 100
-        },
-        "jidlo3": {
-            "nazev": "Knedlíky",
-            "cena": 30
-        },
-        "jidlo4": {
-            "nazev": "Kuřecí maso",
-            "cena": 120
-        }
+        "jidla": [
+            {
+                "nazev": "Palačinky",
+                "popis": "s medem a máslem",
+                "cena": 50
+            },
+            {
+                "nazev": "Hovězí guláš",
+                "popis": "",
+                "cena": 100
+            },
+            {
+                "nazev": "Knedlíky",
+                "popis": "",
+                "cena": 30
+            },
+            {
+                "nazev": "Kuřecí maso",
+                "popis": "",
+                "cena": 120
+            }
+        ]
     },
     "Ctvrtek": {
         "datum": "2019-01-10",
-        "jidlo1": {
-            "nazev": "Palačinky",
-            "cena": 50
-        },
-        "jidlo2": {
-            "nazev": "Hovězí guláš",
-            "cena": 100
-        },
-        "jidlo3": {
-            "nazev": "Knedlíky",
-            "cena": 30
-        },
-        "jidlo4": {
-            "nazev": "Kuřecí maso",
-            "cena": 120
-        }
+        "jidla": [
+            {
+                "nazev": "Palačinky",
+                "popis": "s medem a máslem",
+                "cena": 50
+            },
+            {
+                "nazev": "Hovězí guláš",
+                "popis": "",
+                "cena": 100
+            },
+            {
+                "nazev": "Knedlíky",
+                "popis": "",
+                "cena": 30
+            },
+            {
+                "nazev": "Kuřecí maso",
+                "popis": "",
+                "cena": 120
+            }
+        ]
     },
     "Patek": {
         "datum": "2019-01-11",
-        "jidlo1": {
-            "nazev": "Palačinky",
-            "cena": 50
-        },
-        "jidlo2": {
-            "nazev": "Hovězí guláš",
-            "cena": 100
-        },
-        "jidlo3": {
-            "nazev": "Knedlíky",
-            "cena": 30
-        },
-        "jidlo4": {
-            "nazev": "Kuřecí maso",
-            "cena": 120
-        }
+        "jidla": [
+            {
+                "nazev": "Palačinky",
+                "popis": "s medem a máslem",
+                "cena": 50
+            },
+            {
+                "nazev": "Hovězí guláš",
+                "popis": "",
+                "cena": 100
+            },
+            {
+                "nazev": "Knedlíky",
+                "popis": "",
+                "cena": 30
+            },
+            {
+                "nazev": "Kuřecí maso",
+                "popis": "",
+                "cena": 120
+            }
+        ]
     }
 }

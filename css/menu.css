@@ -62,3 +62,13 @@
 .container{
     margin-bottom: 5vh;
 }
+.container p{
+    margin-bottom: 2vh;
+    color: rgba(255, 255, 255, .5);
+}
+.container h1{
+    margin-bottom: 2vh;
+}
+small-date{
+    font-size: 1rem;
+}
