@@ -54,15 +54,18 @@ function isOpen(){
     if (inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) || inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.afternoon[0]), convertToSeconds(todayOpenHours.afternoon[1]))){
         textContainer.innerHTML = 'Otevřeno do ' + (inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) ? todayOpenHours.morning[1] : todayOpenHours.afternoon[1]);
         textContainer.style.color = 'lime';
-        return
+        return;
     }
-    else if (!inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) && inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.afternoon[0]), convertToSeconds(todayOpenHours.afternoon[1]))){
-        textContainer.innerHTML = 'Polední pauza, otevřeno od ' + todayOpenHours.morning[0];
+    else if (!inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) && inRange(convertToSeconds(now), convertToSeconds(now), convertToSeconds(todayOpenHours.afternoon[1]))){
+        textContainer.innerHTML = 'Polední pauza, otevřeno od ' + todayOpenHours.afternoon[0];
+        textContainer.style.color = '#FB667A';
+        return;
     }
     else {
         textContainer.innerHTML = 'Zavřeno, otevřeno od ' + tommorowOpenHours.morning[0];
+        textContainer.style.color = '#FB667A';
+        return;
     }
-    textContainer.style.color = '#FB667A';
 }   
 function convertToSeconds(time){
     var hours = time.split(':')[0];

@@ -95,16 +95,17 @@
     font-size: 1.5em;
 }
  
- .container tr:hover {
+ /* .container tr:hover {
     background-color: #464A52;
  -webkit-box-shadow: 0 6px 6px -6px #0E1119;
         -moz-box-shadow: 0 6px 6px -6px #0E1119;
              box-shadow: 0 6px 6px -6px #0E1119;
- }
+ } */
  
- .container td:hover {
+ .container tr:hover {
+   /* background-color: #464A52;
    background-color: #FFF842;
-   color: #403E10;
+   color: #403E10; */
    font-weight: bold;
    
    box-shadow: #7F7C21 -1px 1px, #7F7C21 -2px 2px, #7F7C21 -3px 3px, #7F7C21 -4px 4px, #7F7C21 -5px 5px, #7F7C21 -6px 6px;
@@ -118,6 +119,7 @@
  .container td:not(:first-child){
     text-align: center;
 }
+
 /* SCHOVAT POSLEDNÍ SLOUPEC, protože je zbytečnej */
 .container td:last-child, .container th:last-child {
     display: none;
