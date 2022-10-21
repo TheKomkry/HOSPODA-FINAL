@@ -1,0 +1,36 @@
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: auto;
+}
+.img-button{
+    height: 10vh;
+    transition: height 0.5s;
+}
+.img-button:hover{
+    cursor: pointer;
+    scale: 1.5;
+}
+.left{
+    rotate: 180deg;
+}
+#viewer{
+    max-width: 60vw;
+}
+.info{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.pic-checkbox{
+    display: inline-flex;
+}
+@media (hover: none) and (pointer: coarse) {
+    .img-button:hover{
+        cursor: pointer;
+        scale: 1;
+    }
+}

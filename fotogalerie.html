@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/default.css">
+    <link rel="stylesheet" href="css/fotogalerie.css">
+    <link rel="icon" href="images/hospodaLogo.png" type="image/png" sizes="64x64">
+    <title>U Tlustýho Kováře</title>
+</head>
+<body>
+    <div class="navbar" id="navbar">
+        <a class="navbar-brand" href="/">Hospoda <br>U Tlustýho Kováře</a>
+        <nav>
+            <ul id="menuList">
+                <li><a href="/oteviraci-doba.html">Otevírací doba</a></li>
+                <li><a href="/menu.html">Denní menu</a></li>
+                <li><a href="/fotogalerie.html">Fotky</a></li>
+                <li><a href="/info.html">Info & Akce</a></li>
+                <li><a href="/nabidka.html">Jídelní a Nápojový lístek</a></li>
+                <!-- <li><a href="">Jídelní & Nápojový lístek</a></li>
+                <li><a href="">Otevírací doba</a></li>
+                <li><a href="">O nás</a></li>
+                <li><a href="">Fotogalerie</a></li>
+                <li><a href="">Fotogalerie</a></li>
+                <li><a href="">Akce</a></li> -->
+                <!-- Kontakt -->
+            </ul>
+        </nav>
+        <img src="images/menu-open.svg" alt="OPEN MENU" class="menu-icon" id="menu-icon" onclick="togglemenu()">
+    </div>
+    <div class="header-container">
+        <img src="images/header.webp" alt="Obrázek hospody" class="header-image" id="header-image" onload="checkHeight()">
+        <div class="header-logo-container">
+            <img src="images/hospodaLogo.png" alt="Logo hospody" class="header-logo" id="header-logo">
+        </div>
+    </div>
+    <!-- ------------------PAGE-CONTAINER------------------ -->
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+	<div class="img-container">
+        <img src="images/icons/arrow-right.svg" alt="PŘEDCHOZÍ" class="img-button left">
+        <img id="viewer" src="" width="800px"/>
+        <img src="images/icons/arrow-right.svg" alt="DALŠÍ" class="img-button right">
+    </div>
+	<div class="info">
+        <div class="pic-checkbox">
+            <input type="checkbox" name="AutoNext" id="AutoNext-checkbox">
+            <p>Automaticky přeskakovat obrázky</p>
+        </div>
+        <p id="picNumber"></p>
+    </div>
+    <script src="js/gallery.js" onload=""></script>
+    <!-- ---------------------------------------------------- -->
+    <footer class="footer">
+        <a href="https://maps.google.com/maps?ll=49.35351,16.550508&z=15&t=m&hl=cs&gl=CZ&mapclient=embed&cid=5406292149844373798">&#xab; Lažany XX, 679 22 Lažany &#xbb;</a>
+        <p class="copyright">&copy; Hospoda U Tlustýho Kováře</p>
+        <a href="tel:+42012345679">&#xab; Zavolejte nám: +420 123 465 789 &#xbb;</a>
+    </footer>
+    <script src="js/header.js"></script>
+    <script src="js/positionLogo.js"></script>
+    <script src="js/redirect.js"></script>
+    <!-- <script src="js/openIMG.js"></script> -->
+</body>
+</html>
