@@ -5,9 +5,12 @@ $(function() {
     var pictures = [];
 
     function getFiles() {
-        $.ajax(baseUrl).success(function(data) {
-            pictures = [];
-            $(data).find("a[href]").each(function() {
+        $.ajax({
+            type: "GET",
+            url: baseUrl,
+            success: function (data) {
+                pictures = [];
+                $(data).find("a[href]").each(function() {
                 var href = $(this).attr('href');
                 if (href.indexOf('.jpg') > 0 || href.indexOf('.png') > 0 || href.indexOf('.jpeg') > 0) {
                     pictures.push(href);
@@ -15,6 +18,7 @@ $(function() {
             });
             console.log(pictures.length + " pictures loaded!");
             changePicture(0);
+            }
         });
     }
 
