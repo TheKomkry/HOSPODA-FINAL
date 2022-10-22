@@ -4,10 +4,12 @@ var modal = document.getElementById("myModal");
 var img = document.getElementById("myImg");
 var modalImg = document.getElementById("img01");
 var captionText = document.getElementById("caption");
+
 img.onclick = function(){
+    document.getElementById("caption").innerHTML = document.getElementById("picNumber").innerHTML;
     modal.style.display = "block";
-    modalImg.src = this.src;
-    captionText.innerHTML = this.alt;
+    modalImg.src = this.style.backgroundImage.split("\"")[1];
+    this.alt = captionText.innerHTM;
 }
 
 // Get the <span> element that closes the modal
