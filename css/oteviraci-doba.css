@@ -9,3 +9,18 @@
     margin-bottom: 1%;
     text-align: center;
 }
+tbody .not-open{
+    display: none;
+}
+.closed :not(.not-open):not(:first-child){
+    display: none;
+}
+.closed .not-open{
+    display: table-cell;
+    font-weight: bold;
+    margin: auto 0;
+    color: red;
+}
+.not-open a{
+    color: rgb(198, 4, 4);
+}

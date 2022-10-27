@@ -40,10 +40,16 @@ body{
     z-index: 10;
 }
 .menu-icon{
-    width: 25px;
-    cursor: pointer;
-    display: none;
+    width: 2rem;
     filter: invert(100%);
+}
+.menu-icon-container{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    gap: .5rem;
+    cursor: pointer;
 }
 nav{
     flex: 1;
@@ -57,7 +63,10 @@ nav ul{
 nav ul li{
     list-style: none;
     display: inline-block;
-    margin-right: 30px;
+    margin-right: 1.5rem;
+}
+nav ul li:last-child{
+    margin-right: 0;
 }
 nav ul li a{
     text-decoration: none;
@@ -187,12 +196,16 @@ nav ul li a:hover{
         display: block;
         margin-top: 10px;
         margin-bottom: 10px;
+        margin-right: 1.5rem;
     }
     nav ul li a{
         color: #fff;
     }
-    .menu-icon{
-        display: block;
+    nav ul li:last-child{
+        margin-right: 1.5rem;
+    }
+    .menu-icon-container{
+        display: flex;
     }
     #menuList{
         overflow: hidden;

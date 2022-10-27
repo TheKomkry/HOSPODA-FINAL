@@ -41,8 +41,9 @@ const openHours = {
 }
 function getOpenHours(day){
     var day = document.getElementById(day);
+    if (day.classList.contains('closed')) return ['NaN - NaN', 'NaN - NaN'];
     var childNum = day.childElementCount;
-    var openHoursString = (childNum == 3) ? [day.children[1].innerHTML, day.children[1].innerHTML] : [day.children[1].innerHTML, day.children[2].innerHTML];
+    var openHoursString = (childNum == 4) ? [day.children[2].innerHTML, day.children[2].innerHTML] : [day.children[2].innerHTML, day.children[3].innerHTML];
     return openHoursString;
 }
 function isOpen(){

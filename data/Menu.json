@@ -5,21 +5,29 @@
             {
                 "nazev": "Palačinky",
                 "popis": "s medem a máslem",
-                "cena": 50
+                "cena": 50,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Hovězí guláš",
                 "popis": "s bramborovým knedlíkem",
-                "cena": 100
+                "cena": 100,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Knedlíky",
                 "popis": "",
-                "cena": 30
+                "cena": 30,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Kuřecí maso",
-                "cena": 120
+                "cena": 120,
+                "mnozstvi": 150,
+                "jednotka": "g"
             }
         ]
     },
@@ -29,22 +37,30 @@
             {
                 "nazev": "Palačinky",
                 "popis": "s medem a máslem",
-                "cena": 50
+                "cena": 50,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Hovězí guláš",
                 "popis": "s bramborami",
-                "cena": 100
+                "cena": 100,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Knedlíky",
                 "popis": "",
-                "cena": 30
+                "cena": 30,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Kuřecí maso",
                 "popis": "",
-                "cena": 120
+                "cena": 120,
+                "mnozstvi": 150,
+                "jednotka": "g"
             }
         ]
     },
@@ -54,22 +70,30 @@
             {
                 "nazev": "Palačinky",
                 "popis": "s medem a máslem",
-                "cena": 50
+                "cena": 50,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Hovězí guláš",
                 "popis": "",
-                "cena": 100
+                "cena": 100,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Knedlíky",
                 "popis": "",
-                "cena": 30
+                "cena": 30,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Kuřecí maso",
                 "popis": "",
-                "cena": 120
+                "cena": 120,
+                "mnozstvi": 150,
+                "jednotka": "g"
             }
         ]
     },
@@ -79,22 +103,30 @@
             {
                 "nazev": "Palačinky",
                 "popis": "s medem a máslem",
-                "cena": 50
+                "cena": 50,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Hovězí guláš",
                 "popis": "",
-                "cena": 100
+                "cena": 100,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Knedlíky",
                 "popis": "",
-                "cena": 30
+                "cena": 30,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Kuřecí maso",
                 "popis": "",
-                "cena": 120
+                "cena": 120,
+                "mnozstvi": 150,
+                "jednotka": "g"
             }
         ]
     },
@@ -104,22 +136,30 @@
             {
                 "nazev": "Palačinky",
                 "popis": "s medem a máslem",
-                "cena": 50
+                "cena": 50,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Hovězí guláš",
                 "popis": "",
-                "cena": 100
+                "cena": 100,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Knedlíky",
                 "popis": "",
-                "cena": 30
+                "cena": 30,
+                "mnozstvi": 150,
+                "jednotka": "g"
             },
             {
                 "nazev": "Kuřecí maso",
                 "popis": "",
-                "cena": 120
+                "cena": 120,
+                "mnozstvi": 150,
+                "jednotka": "g"
             }
         ]
     }
