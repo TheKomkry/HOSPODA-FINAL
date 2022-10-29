@@ -75,17 +75,27 @@ small-date{
 }
 .container > div > div{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(333px, 1fr));
 }
 .container > div > div > div{
-    margin: 1rem;
+    margin: .5rem;
     padding: 1rem;
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba(255, 255, 255, .05);
     border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: revert;
+    flex-direction: column;
 }
 .container div > h2{
     grid-column: 1 / -1;
     margin-bottom: 1rem;
     color:#ae941f;
     /* text-align: center; */
+}
+@media only screen and (max-width:800px){
+    .container > div > div{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    }
 }
