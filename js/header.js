@@ -18,3 +18,14 @@ window.addEventListener("scroll", function(){
     var navbar = document.querySelector(".navbar");
     navbar.classList.toggle("sticky", window.scrollY > 0);
 });
+// window.addEventListener("scroll", function(){
+//     var navbar = document.querySelector(".header-container");
+//     var body = document.querySelector("body");
+//     if (window.scrollY > 0){
+//         navbar.style.display = "none";
+//         body.style.marginTop = "50vh"
+//     }else{
+//         navbar.style.display = "block";
+//         body.style.marginTop = "0"
+//     }
+// });

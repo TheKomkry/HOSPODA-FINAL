@@ -73,3 +73,19 @@
 small-date{
     font-size: 1rem;
 }
+.container > div > div{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+.container > div > div > div{
+    margin: 1rem;
+    padding: 1rem;
+    background-color: rgba(255, 255, 255, .1);
+    border-radius: 1rem;
+}
+.container div > h2{
+    grid-column: 1 / -1;
+    margin-bottom: 1rem;
+    color:#ae941f;
+    /* text-align: center; */
+}
