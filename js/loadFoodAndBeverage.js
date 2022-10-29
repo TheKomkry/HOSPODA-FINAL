@@ -30,7 +30,7 @@ function load(data, type){
             currentTypeContainer = document.createElement("div");
             containerForType.appendChild(currentTypeContainer);
                 currentType = element.typ;
-                currentTypeContainer.innerHTML += currentType!=undefined?`<h2>———— ${currentType.charAt(0).toUpperCase() + currentType.slice(1).toLowerCase()} ————</h2>`:"";
+                currentTypeContainer.innerHTML += currentType!=undefined?`<h2>─── ${currentType.charAt(0).toUpperCase() + currentType.slice(1).toLowerCase()} ───</h2>`:"";
         }
         // div > li > h2
         if (element.nazev != prevItem){
