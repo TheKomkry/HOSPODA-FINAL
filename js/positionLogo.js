@@ -1,7 +1,7 @@
 function checkHeight(){
     var headerImage = document.getElementById('header-image');
     var headerLogo = document.getElementById('header-logo');
-    headerLogo.style.marginTop = `-${headerImage.clientHeight / 2.425}` + "px";
+    headerLogo.style.marginTop = `-${headerImage.clientHeight / 2.1}` + "px";
 };
 window.addEventListener("resize", function(){
     checkHeight();

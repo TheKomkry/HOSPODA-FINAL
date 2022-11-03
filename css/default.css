@@ -81,17 +81,17 @@ nav ul li a:hover{
 .header-image{
     width: 100%;
     animation: panorama-move 50s infinite linear;
-    transform:scale(2.5) translateX(-25%);
+    transform:scale(1.6) translateX(15%);
 }
 @keyframes panorama-move {
     0%{
-        transform:scale(2.5) translateX(25%);
+        transform:scale(1.6) translateX(-15%);
     }
     50%{
-        transform:scale(2.5) translateX(-25%);
+        transform:scale(1.6) translateX(15%);
     }
     100%{
-        transform:scale(2.5) translateX(25%);
+        transform:scale(1.6) translateX(-15%);
     }
 }
 .header-container{
