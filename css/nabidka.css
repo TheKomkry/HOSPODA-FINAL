@@ -37,11 +37,13 @@
     -webkit-user-select: none; /* Safari */        
     -moz-user-select: none; /* Firefox */
     -ms-user-select: none; /* IE10+/Edge */
+    -o-user-select: none; /* Opera */
     user-select: none; /* Standard */
 }
 /* ------------------------------------------- */
 .container div li{
     margin-left: 4rem;
+    list-style: none;
 }
 .container h2{
     font-size: 1.5rem;
@@ -63,7 +65,8 @@
     margin-bottom: 5vh;
 }
 .container p{
-    margin-bottom: 2vh;
+    /* margin-bottom: 2vh; */
+    line-height: 1.5rem;
     color: rgba(255, 255, 255, .5);
 }
 .container h1{
