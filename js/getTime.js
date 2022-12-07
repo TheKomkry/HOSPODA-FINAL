@@ -56,8 +56,8 @@ function isOpen(){
         textContainer.innerHTML = 'Otevřeno do ' + (inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) ? todayOpenHours.morning[1] : todayOpenHours.afternoon[1]);
         textContainer.style.color = 'lime';
         return;
-    }
-    else if (!inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) && inRange(convertToSeconds(now), convertToSeconds(now), convertToSeconds(todayOpenHours.afternoon[1]))){
+    } // todayOpenHours.morning[0] != todayOpenHours.afternoon[0] kontroluji, protože pokud ten den není polední pauza, tak se to zobrazuje jako 8 - 16, 8 - 16
+    else if (todayOpenHours.morning[0] != todayOpenHours.afternoon[0] && !inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) && inRange(convertToSeconds(now), convertToSeconds(now), convertToSeconds(todayOpenHours.afternoon[1]))){
         textContainer.innerHTML = 'Polední pauza, otevřeno od ' + todayOpenHours.afternoon[0];
         textContainer.style.color = '#FB667A';
         return;

@@ -247,13 +247,6 @@
             "typ": "destiláty"
         },
         {
-            "nazev": "Zelená",
-            "cena": 35, 
-            "mnozstvi": 0.04,
-            "jednotka": "l",
-            "typ": "destiláty"
-        },
-        {
             "nazev": "Starorežná",
             "cena": 35, 
             "mnozstvi": 0.04,
