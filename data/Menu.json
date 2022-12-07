@@ -1,165 +1,136 @@
 {
     "Pondeli": {
-        "datum": "2019-01-07",
+        "datum": "05-12-2022",
         "jidla": [
             {
-                "nazev": "Palačinky",
-                "popis": "s medem a máslem",
-                "cena": 50,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Polévka - cibulačka s krutony"
             },
             {
-                "nazev": "Hovězí guláš",
-                "popis": "s bramborovým knedlíkem",
-                "cena": 100,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Pikantní masová směs se zeleninou",
+                "popis": "dušená rýže",
+                "cena": 140
             },
             {
-                "nazev": "Knedlíky",
-                "popis": "",
-                "cena": 30,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Špagety aglio olio peperoncino",
+                "popis": "restovaná zelenina",
+                "cena": 140
             },
             {
-                "nazev": "Kuřecí maso",
-                "cena": 120,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Smažené žampiony",
+                "popis": "vařené brambory, domácí tatarka",
+                "cena": 145
             }
         ]
     },
     "Utery": {
-        "datum": "2019-01-08",
+        "datum": "06-12-2022",
         "jidla": [
             {
-                "nazev": "Palačinky",
-                "popis": "s medem a máslem",
-                "cena": 50,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Polévka - Koprová s vejcem"
             },
             {
-                "nazev": "Hovězí guláš",
-                "popis": "s bramborami",
-                "cena": 100,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Jitrnicový a jelitový prejt",
+                "popis": "tuřanské zelí, brambory",
+                "cena": 140
             },
             {
-                "nazev": "Knedlíky",
-                "popis": "",
-                "cena": 30,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Filované kuřecí prso na papriece",
+                "popis": "houskový knedlík",
+                "cena": 140
             },
             {
-                "nazev": "Kuřecí maso",
-                "popis": "",
-                "cena": 120,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Smažené žampiony",
+                "popis": "vařené brambory, domácí tatarka",
+                "cena": 145
+            },
+            {
+                "nazev": "Mix listových salátů s balkánským sýrem",
+                "popis": "opečený toast",
+                "cena": 155
             }
         ]
     },
     "Streda": {
-        "datum": "2019-01-09",
+        "datum": "07-12-2022",
         "jidla": [
             {
-                "nazev": "Palačinky",
-                "popis": "s medem a máslem",
-                "cena": 50,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Polévka - Pórková s bramborem"
             },
             {
-                "nazev": "Hovězí guláš",
-                "popis": "",
-                "cena": 100,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Kuřecí paličky s cornflakes",
+                "popis": "zelný salát s mrkví, pita chléb",
+                "cena": 140
             },
             {
-                "nazev": "Knedlíky",
-                "popis": "",
-                "cena": 30,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Pečený bůček na česneku",
+                "popis": "kapusta, bramborový knedlík",
+                "cena": 140
             },
             {
-                "nazev": "Kuřecí maso",
-                "popis": "",
-                "cena": 120,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Smažené žampiony",
+                "popis": "vařené brambory, domácí tatarka",
+                "cena": 145
+            },
+            {
+                "nazev": "Mix listových salátů s balkánským sýrem",
+                "popis": "opečený toast",
+                "cena": 155
             }
         ]
     },
     "Ctvrtek": {
-        "datum": "2019-01-10",
+        "datum": "08-12-2022",
         "jidla": [
             {
-                "nazev": "Palačinky",
-                "popis": "s medem a máslem",
-                "cena": 50,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Polévka - Gulášová"
             },
             {
-                "nazev": "Hovězí guláš",
-                "popis": "",
-                "cena": 100,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Kuřecí steak",
+                "popis": "s máslovou zeleninou, kuskus",
+                "cena": 140
             },
             {
-                "nazev": "Knedlíky",
-                "popis": "",
-                "cena": 30,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Vepřový kebab",
+                "popis": "hranolky, tzatziki",
+                "cena": 145
             },
             {
-                "nazev": "Kuřecí maso",
-                "popis": "",
-                "cena": 120,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Smažené žampiony",
+                "popis": "vařené brambory, domácí tatarka",
+                "cena": 145
+            },
+            {
+                "nazev": "Mix listových salátů s balkánským sýrem",
+                "popis": "opečený toast",
+                "cena": 155
             }
         ]
     },
     "Patek": {
-        "datum": "2019-01-11",
+        "datum": "09-12-2022",
         "jidla": [
             {
-                "nazev": "Palačinky",
-                "popis": "s medem a máslem",
-                "cena": 50,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Polévka - Masový vývar s fritátovými nudlemi"
             },
             {
-                "nazev": "Hovězí guláš",
+                "nazev": "Lívanečky s přelivem z lesního ovoce a zakysanou smetanou",
                 "popis": "",
-                "cena": 100,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "cena": 140
             },
             {
-                "nazev": "Knedlíky",
+                "nazev": "Obrácený vepřový řízek mačkané brambory s pažitkou",
                 "popis": "",
-                "cena": 30,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "cena": 140
             },
             {
-                "nazev": "Kuřecí maso",
-                "popis": "",
-                "cena": 120,
-                "mnozstvi": 150,
-                "jednotka": "g"
+                "nazev": "Smažené žampiony",
+                "popis": "vařené brambory, domácí tatarka",
+                "cena": 145
+            },
+            {
+                "nazev": "Mix listových salátů s balkánským sýrem",
+                "popis": "opečený toast",
+                "cena": 155
             }
         ]
     }

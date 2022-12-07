@@ -33,9 +33,21 @@ function loadDay(data, day){
         // li > p
         let jidloPopisElem = document.createElement("p");
         if (element.popis == undefined || element.popis == ""){
-            jidloPopisElem.innerHTML = `${element.cena} Kč <small>(${element.mnozstvi} ${element.jednotka})</small>`;
+            if (element.cena == undefined){
+                jidloPopisElem.innerHTML = `v ceně menu`;
+            }
+            else {
+            jidloPopisElem.innerHTML = `${element.cena} Kč`;
+            }
+            // jidloPopisElem.innerHTML = `${element.cena} Kč <small>(${element.mnozstvi} ${element.jednotka})</small>`;
         } else {
-            jidloPopisElem.innerHTML = `${element.popis} - ${element.cena} Kč <small>(${element.mnozstvi} ${element.jednotka})</small>`;
+            if (element.cena == undefined){
+                jidloPopisElem.innerHTML = `v ceně menu`;
+            }
+            else {
+            jidloPopisElem.innerHTML = `${element.popis} - ${element.cena} Kč`;
+            }
+            // jidloPopisElem.innerHTML = `${element.popis} - ${element.cena} Kč <small>(${element.mnozstvi} ${element.jednotka})</small>`;
         }
         // create the elements
         containerForDay.appendChild(jidloListElem);

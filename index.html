@@ -44,21 +44,21 @@
             <h1>Kde nás najít?</h1>
             <p>Lažany 28, 679 22 Lažany</p>
             <iframe id="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10395.712274280799!2d16.550508!3d49.35351!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4b0702110774f126!2zVSBUbHVzdMO9aG8gS292w6HFmWU!5e0!3m2!1scs!2scz!4v1665951033203!5m2!1scs!2scz" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            <br><button onclick="toggleMap()" id="map-bttn">SCHOVAT MAPU</button>
+            <br><button class="button-48" role="button" onclick="toggleMap()"><span class="text" id="map-bttnText">SCHOVAT MAPU</span></button>
             <script>
                 function toggleMap() {
                     var map = document.getElementById("map");
-                    var bttn = document.getElementById("map-bttn");
+                    var bttnText = document.getElementById("map-bttnText");
                     if (map.style.display === "none") {
                         map.style.display = "block";
-                        bttn.innerHTML = "SCHOVAT MAPU";
-                        bttn.style.marginBottom = "2%;"
-                        bttn.style.marginTop = "0";
+                        bttnText.innerHTML = "SCHOVAT MAPU";
+                        bttnText.style.marginBottom = "2%;"
+                        bttnText.style.marginTop = "0";
                     } else {
                         map.style.display = "none";
-                        bttn.innerHTML = "ZOBRAZIT MAPU";
-                        bttn.style.marginBottom = "2%;"
-                        bttn.style.marginTop = "2%";
+                        bttnText.innerHTML = "ZOBRAZIT MAPU";
+                        bttnText.style.marginBottom = "2%;"
+                        bttnText.style.marginTop = "2%";
                     }
                 }
             </script>
