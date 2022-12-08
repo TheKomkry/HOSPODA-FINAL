@@ -39,6 +39,15 @@
     -ms-user-select: none; /* IE10+/Edge */
     user-select: none; /* Standard */
 }
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem 0;
+}
+.gray-text{
+    color: rgba(255, 255, 255, .5);
+}
 /* ------------------------------------------- */
 .container div li{
     margin-left: 4rem;

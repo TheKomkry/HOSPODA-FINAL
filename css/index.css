@@ -58,6 +58,7 @@
     background-color: #bba232;
 } */
 .button-48 {
+  border-radius: 3px;
   appearance: none;
   background-color: #FFFFFF;
   border-width: 0;
@@ -88,6 +89,7 @@
 }
 
 .button-48:before {
+  border-radius: 3px;
   animation: opacityFallbackOut .5s step-end forwards;
   backface-visibility: hidden;
   background-color: #fbd62d;
