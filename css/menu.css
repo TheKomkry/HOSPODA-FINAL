@@ -79,6 +79,9 @@
     margin-bottom: 2vh;
     color: #fbd62d;
 }
+.container div li{
+    list-style-type: none;
+}
 small-date{
     font-size: 1rem;
 }
