@@ -1,136 +1,136 @@
 {
     "Pondeli": {
-        "datum": "05-12-2022",
+        "datum": "12.12.2022",
         "jidla": [
             {
-                "nazev": "Polévka - cibulačka s krutony"
+                "nazev": "Polévka - česneková s vejcem a bramborem"
             },
             {
-                "nazev": "Pikantní masová směs se zeleninou",
-                "popis": "dušená rýže",
+                "nazev": "Fazole na kyselo",
+                "popis": "klobása, cibulka, chléb",
                 "cena": 140
             },
             {
-                "nazev": "Špagety aglio olio peperoncino",
-                "popis": "restovaná zelenina",
-                "cena": 140
+                "nazev": "Hovězí kostky na červeném víně a jalovci",
+                "popis": "jasmínová rýže",
+                "cena": 145
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": "vařené brambory, domácí tatarka",
+                "nazev": "Smažený sýr gouda",
+                "popis": "hranolky, domácí tatarka",
                 "cena": 145
             }
         ]
     },
     "Utery": {
-        "datum": "06-12-2022",
+        "datum": "13.12.2022",
         "jidla": [
             {
-                "nazev": "Polévka - Koprová s vejcem"
+                "nazev": "Polévka - špenátový krém s krutony"
             },
             {
-                "nazev": "Jitrnicový a jelitový prejt",
-                "popis": "tuřanské zelí, brambory",
+                "nazev": "Šunkofleky",
+                "popis": "sterilovaný okurek",
                 "cena": 140
             },
             {
-                "nazev": "Filované kuřecí prso na papriece",
-                "popis": "houskový knedlík",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažené žampiony",
-                "popis": "vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí prsíčko caprese",
+                "popis": "hranolky, americký dresing",
                 "cena": 145
             },
             {
-                "nazev": "Mix listových salátů s balkánským sýrem",
-                "popis": "opečený toast",
-                "cena": 155
+                "nazev": "Smažený sýr gouda",
+                "popis": "hranolky, domácí tatarka",
+                "cena": 145
+            },
+            {
+                "nazev": "Porterhouse",
+                "popis": "šťouchané brambory se smetanou a pórkem",
+                "cena": 165
             }
         ]
     },
     "Streda": {
-        "datum": "07-12-2022",
+        "datum": "14.12.2022",
         "jidla": [
             {
-                "nazev": "Polévka - Pórková s bramborem"
+                "nazev": "Polévka - hrstková"
             },
             {
-                "nazev": "Kuřecí paličky s cornflakes",
-                "popis": "zelný salát s mrkví, pita chléb",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": "pečené brambory, medovohořčičná omáčka",
                 "cena": 140
             },
             {
-                "nazev": "Pečený bůček na česneku",
-                "popis": "kapusta, bramborový knedlík",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažené žampiony",
-                "popis": "vařené brambory, domácí tatarka",
+                "nazev": "Hovězí stroganoff",
+                "popis": "houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Mix listových salátů s balkánským sýrem",
-                "popis": "opečený toast",
-                "cena": 155
+                "nazev": "Smažený sýr gouda",
+                "popis": "hranolky, domácí tatarka",
+                "cena": 145
+            },
+            {
+                "nazev": "Porterhouse",
+                "popis": "šťouchané brambory se smetanou a pórkem",
+                "cena": 165
             }
         ]
     },
     "Ctvrtek": {
-        "datum": "08-12-2022",
+        "datum": "15.12.2022",
         "jidla": [
             {
-                "nazev": "Polévka - Gulášová"
+                "nazev": "Polévka - celerový krém"
             },
             {
-                "nazev": "Kuřecí steak",
-                "popis": "s máslovou zeleninou, kuskus",
+                "nazev": "Špenátové lasagne s kuřecím masem",
+                "popis": "parmezán",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový kebab",
-                "popis": "hranolky, tzatziki",
+                "nazev": "Pečená krkovička na černém pivu",
+                "popis": "krokety",
                 "cena": 145
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": "vařené brambory, domácí tatarka",
+                "nazev": "Smažený sýr gouda",
+                "popis": "hranolky, domácí tatarka",
                 "cena": 145
             },
             {
-                "nazev": "Mix listových salátů s balkánským sýrem",
-                "popis": "opečený toast",
-                "cena": 155
+                "nazev": "Porterhouse",
+                "popis": "šťouchané brambory se smetanou a pórkem",
+                "cena": 165
             }
         ]
     },
     "Patek": {
-        "datum": "09-12-2022",
+        "datum": "16.12.2022",
         "jidla": [
             {
-                "nazev": "Polévka - Masový vývar s fritátovými nudlemi"
+                "nazev": "Polévka - hovězí vývar s masem a nudlemi"
             },
             {
-                "nazev": "Lívanečky s přelivem z lesního ovoce a zakysanou smetanou",
-                "popis": "",
-                "cena": 140
+                "nazev": "Bramborové taštičky s povidlím",
+                "popis": "citrónový tvaroh",
+                "cena": 130
             },
             {
-                "nazev": "Obrácený vepřový řízek mačkané brambory s pažitkou",
-                "popis": "",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažené žampiony",
-                "popis": "vařené brambory, domácí tatarka",
+                "nazev": "Smažený vepřový řízek",
+                "popis": "bramborová kaše, okurek",
                 "cena": 145
             },
             {
-                "nazev": "Mix listových salátů s balkánským sýrem",
-                "popis": "opečený toast",
-                "cena": 155
+                "nazev": "Smažený sýr gouda",
+                "popis": "hranolky, domácí tatarka",
+                "cena": 145
+            },
+            {
+                "nazev": "Porterhouse",
+                "popis": "šťouchané brambory se smetanou a pórkem",
+                "cena": 165
             }
         ]
     }
