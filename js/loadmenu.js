@@ -24,6 +24,11 @@ function loadDay(data, day){
     const containerForDay = document.getElementById(`${day.substring(0,2)}-container`);
     
     let listJidel = data.jidla;
+    if (listJidel.length == 0){
+        let noFood = document.createElement("p");
+        noFood.innerHTML = "Na tento den nejsou žádná jídla, pro více informací klikněte zde <a href='/info'>INFO & AKCE</a>";
+        containerForDay.appendChild(noFood);
+    }
     listJidel.forEach(element => {
         // li > h2
         const jidloListElem = document.createElement("li");
@@ -33,7 +38,7 @@ function loadDay(data, day){
         // li > p
         let jidloPopisElem = document.createElement("p");
         if (element.popis == undefined || element.popis == ""){
-            if (element.cena == undefined){
+            if (element.cena == 0 || element.cena == undefined){
                 jidloPopisElem.innerHTML = `v ceně menu`;
             }
             else {
@@ -41,7 +46,7 @@ function loadDay(data, day){
             }
             // jidloPopisElem.innerHTML = `${element.cena} Kč <small>(${element.mnozstvi} ${element.jednotka})</small>`;
         } else {
-            if (element.cena == undefined){
+            if (element.cena == 0){
                 jidloPopisElem.innerHTML = `v ceně menu`;
             }
             else {

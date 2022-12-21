@@ -10,7 +10,7 @@
     <link rel="icon" href="images/hospodaLogo.png" type="image/png" sizes="64x64">
     <title>U Tlustýho Kováře</title>
 </head>
-<body>
+<body onload="alertUser()">
     <div class="navbar" id="navbar">
         <a class="navbar-brand" href="/">Hospoda <br>U Tlustýho Kováře</a>
         <nav>
@@ -94,13 +94,13 @@
                 <td>17:00 - 22:00</td>
                 <td>&#x2713;</td>
             </tr>
-            <tr id="sobota">
+            <tr id="sobota" class="closed">
                 <td>Sobota</td>
                 <td class="not-open" colspan="2">Zavřeno, podívejte se do <a href="/info">akce & info</a></td>
                 <td colspan="2">17:00 - 22:00</td>
                 <td>&#x2717;</td>
             </tr>
-            <tr id="nedele">
+            <tr id="nedele" class="closed">
                 <td>Neděle</td>
                 <td class="not-open" colspan="2">Zavřeno, podívejte se do <a href="/info">akce & info</a></td>
                 <td colspan="2">17:00 - 22:00</td>
@@ -119,5 +119,6 @@
     <script src="js/redirect.js"></script>
     <script src="js/getTime.js"></script>
     <!-- <script src="js/openIMG.js"></script> -->
+    <script src="js/alertUser.js"></script>
 </body>
 </html>

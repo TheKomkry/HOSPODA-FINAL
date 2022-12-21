@@ -109,29 +109,7 @@
     "Patek": {
         "datum": "23.12.2022",
         "jidla": [
-            {
-                "nazev": "Polévka – česnečka s krutony"
-            },
-            {
-                "nazev": "Kynuté ovocné knedlíky sypané mákem",
-                "popis": "",
-                "cena": 135
-            },
-            {
-                "nazev": " Kuřecí plátek s broskví a sýrem",
-                "popis": "bylinkové brambory",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": "steakové hranolky, domácí tatarka",
-                "cena": 145
-            },
-            {
-                "nazev": "Vepřová roláda s bylinkovočesnekovým pestem",
-                "popis": "mačkané brambory s konfitovanou cibulkou",
-                "cena": 170
-            }
+
         ]
     }
 }
