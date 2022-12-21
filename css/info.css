@@ -17,3 +17,16 @@ red{
     color: red;
     line-height: 1.5rem;
 }
+@media only screen and (max-width:800px){
+    /* add ◄ to the end of each list */
+    .text-container ul li::after{
+        content: '   ◄';
+        display: inline;
+    }
+    .text-container ul{
+        display: inline-block;
+        list-style: '►   ';
+        margin-left: 2rem;
+        text-align: center;
+    }
+}
