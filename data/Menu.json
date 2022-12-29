@@ -1,113 +1,30 @@
 {
     "Pondeli": {
-        "datum": "19.12.2022",
+        "datum": "26.12.2022",
         "jidla": [
-            {
-                "nazev": "Polévka – zeleninová s nudlem"
-            },
-            {
-                "nazev": "Fazole po mexicku s klobásou",
-                "popis": "pečivo",
-                "cena": 140
-            },
-            {
-                "nazev": "Masová směs se zeleninou",
-                "popis": "dušená rýže",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": "steakové hranolky, domácí tatarka",
-                "cena": 145
-            }
+             
         ]
     },
     "Utery": {
-        "datum": "20.12.2022",
+        "datum": "27.12.2022",
         "jidla": [
-            {
-                "nazev": "Polévka – čočková se slaninou"
-            },
-            {
-                "nazev": "Smažené žampiony",
-                "popis": "vařené brambory, domácí tatarka",
-                "cena": 140
-            },
-            {
-                "nazev": "Kuře ala kachna",
-                "popis": "červené zelí, variace knedlíků",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": "steakové hranolky, domácí tatarka",
-                "cena": 145
-            },
-            {
-                "nazev": "Vepřová roláda s bylinkovočesnekovým pestem",
-                "popis": "mačkané brambory s konfitovanou cibulkou",
-                "cena": 170
-            }
+             
         ]
     },
     "Streda": {
-        "datum": "21.12.2022",
+        "datum": "28.12.2022",
         "jidla": [
-            {
-                "nazev": "Polévka – francouzská s těstovinou "
-            },
-            {
-                "nazev": "Vepřová kýta se slaninovou omáčkou",
-                "popis": "jasmínová rýže",
-                "cena": 140
-            },
-            {
-                "nazev": "Kuřecí steak",
-                "popis": "sýrová omáčka, americké brambory",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": "steakové hranolky, domácí tatarka",
-                "cena": 145
-            },
-            {
-                "nazev": "Vepřová roláda s bylinkovočesnekovým pestem",
-                "popis": "mačkané brambory s konfitovanou cibulkou",
-                "cena": 170
-            }
+             
         ]
     },
     "Ctvrtek": {
-        "datum": "22.12.2022",
+        "datum": "29.12.2022",
         "jidla": [
-            {
-                "nazev": "Polévka – kmínová s vejcem "
-            },
-            {
-                "nazev": "Špagety po uhlířsku sypané parmezánem",
-                "popis": "",
-                "cena": 140
-            },
-            {
-                "nazev": "Kovářský hovězí guláš",
-                "popis": "kynutý knedlík",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": "steakové hranolky, domácí tatarka",
-                "cena": 145
-            },
-            {
-                "nazev": "Vepřová roláda s bylinkovočesnekovým pestem",
-                "popis": "mačkané brambory s konfitovanou cibulkou",
-                "cena": 170
-            }
+             
         ]
     },
     "Patek": {
-        "datum": "23.12.2022",
+        "datum": "30.12.2022",
         "jidla": [
 
         ]
