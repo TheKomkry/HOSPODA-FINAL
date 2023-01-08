@@ -11,7 +11,30 @@ function loadMenu(){
         console.error(err);
     });
 }
+tyden = [];
+delkaMesice = {1:31, 2:28, 3:31, 4:30, 5:31, 6:30, 7:31, 8:31, 9:30, 10:31, 11:30, 12:31};
+function loadDate(data){
+    den = data.den;
+    mesic = data.mesic;
+    rok = data.rok;
+    tyden.push(`${den.toString().length==2?den:"0"+den}.${mesic.toString().length==2?mesic:"0"+mesic}.${rok}`);
+
+    for (let dayNum = 0; dayNum < 5; dayNum++) {
+        den++;
+        if (den > delkaMesice[mesic]) {
+            den = 1;
+            mesic++;
+            if (mesic > 12) {
+                mesic = 1;
+                rok++;
+                
+            }
+        }
+        tyden.push(`${den.toString().length==2?den:"0"+den}.${mesic.toString().length==2?mesic:"0"+mesic}.${rok}`);        
+    }
+}
 function writeMenu(data){
+    loadDate(data.zacatekTydne);
     loadDay(data.Pondeli, "pondeli");
     loadDay(data.Utery, "utery");
     loadDay(data.Streda, "streda");
@@ -19,8 +42,10 @@ function writeMenu(data){
     loadDay(data.Patek, "patek");
 
 }
+dniNacteno = 0;
 function loadDay(data, day){
-    document.getElementById(day).innerHTML += `<small-date> - ${data.datum}</small-date>`;
+    document.getElementById(day).innerHTML += `<small-date> - ${tyden[dniNacteno]}</small-date>`;
+    dniNacteno++;
     const containerForDay = document.getElementById(`${day.substring(0,2)}-container`);
     
     let listJidel = data.jidla;
