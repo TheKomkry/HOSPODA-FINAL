@@ -7,10 +7,10 @@
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - tomatová s těstovinou "
+                "nazev": "Polévka - tomatová s těstovinou "
             },
             {
-                "nazev": "Bramborový guláš s klobásou",
+                "nazev": "Bramborový guláš s klobásou",
                 "popis": " pečivo ",
                 "cena": 140
             },
@@ -32,13 +32,13 @@
                 "nazev": "Polévka - domácí fazolačka "
             },
             {
-                "nazev": "Kuřecí steak s čedarovou omáčkou",
-                "popis": "",
+                "nazev": "Kuřecí steak s čedarovou omáčkou",
+                "popis": " krokety",
                 "cena": 140
             },
             {
                 "nazev": "Karbanátek se sýrem",
-                "popis": " bramborová kaše, zelný salát s mrkví ",
+                "popis": " bramborová kaše, zelný salát s mrkví ",
                 "cena": 140
             },
             {
@@ -48,7 +48,7 @@
             },
             {
                 "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-                "popis": " šťouchané brambory s cibulkou ",
+                "popis": " šťouchané brambory s cibulkou ",
                 "cena": 170
             }
         ]
@@ -56,7 +56,7 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - pórková s vejcem "
+                "nazev": "Polévka - pórková s vejcem "
             },
             {
                 "nazev": "Uzená vepřová kýta",
@@ -75,7 +75,7 @@
             },
             {
                 "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-                "popis": " šťouchané brambory s cibulkou",
+                "popis": " šťouchané brambory s cibulkou",
                 "cena": 170
             }
         ]
@@ -102,7 +102,7 @@
             },
             {
                 "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-                "popis": " šťouchané brambory s cibulkou",
+                "popis": " šťouchané brambory s cibulkou",
                 "cena": 170
             }
         ]
@@ -110,7 +110,7 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - uzený vývar s kroupami"
+                "nazev": "Polévka - uzený vývar s kroupami"
             },
             {
                 "nazev": "Špagety pomodoro",
@@ -129,7 +129,7 @@
             },
             {
                 "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-                "popis": " šťouchané brambory s cibulkou",
+                "popis": " šťouchané brambory s cibulkou",
                 "cena": 170
             }
         ]

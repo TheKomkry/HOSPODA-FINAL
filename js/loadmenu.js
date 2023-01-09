@@ -1,6 +1,6 @@
 
 function loadMenu(){
-    fetch(`./data/Menu.json`)
+    fetch(`./data/menu.json`)
     .then(response => {
         return response.json();
     })
