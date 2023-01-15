@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 9,
+        "den": 16,
         "mesic": 1,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - tomatová s těstovinou "
+                "nazev": "Polévka - česnečka s vejcem a krutony "
             },
             {
-                "nazev": "Bramborový guláš s klobásou",
-                "popis": " pečivo ",
+                "nazev": "Koprová omáčka",
+                "popis": " vařené vejce, houskový knedlík ",
+                "cena": 135
+            },
+            {
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " pečené brambory s bylinkami, česnekový dip ",
                 "cena": 140
             },
             {
-                "nazev": "Masové kuličky po selsku",
-                "popis": " jasmínová rýže ",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený hermelín",
+                "popis": " hranolky, domácí tatarka ",
                 "cena": 145
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - domácí fazolačka "
+                "nazev": "Polévka - květákový krém "
             },
             {
-                "nazev": "Kuřecí steak s čedarovou omáčkou",
-                "popis": " krokety",
+                "nazev": "Pečené kuřecí paličky sweetchilli",
+                "popis": " zelný salát s majonézou, rozpečená bagetka ",
                 "cena": 140
             },
             {
-                "nazev": "Karbanátek se sýrem",
-                "popis": " bramborová kaše, zelný salát s mrkví ",
+                "nazev": "Vepřové kostky na paprice",
+                "popis": " těstoviny penne ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
-                "cena": 145
+                "nazev": "Smažený lunchmeat",
+                "popis": " vařené brambory s máslem, domácí tatarka ",
+                "cena": 140
             },
             {
-                "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-                "popis": " šťouchané brambory s cibulkou ",
+                "nazev": "Vepřová panenka",
+                "popis": " krupeto, houbová omáčka ",
                 "cena": 170
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - pórková s vejcem "
+                "nazev": "Polévka - frankfurtská "
             },
             {
-                "nazev": "Uzená vepřová kýta",
-                "popis": " křenová omáčka, houskový knedlík ",
+                "nazev": "Kuřecí játra na cibulce",
+                "popis": " jasmínová rýže ",
                 "cena": 140
             },
             {
-                "nazev": "Francouzské brambory",
-                "popis": " okurek ",
+                "nazev": "Vepřový steak",
+                "popis": " omáčka z uzené slaniny, šťouchané brambory ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
-                "cena": 145
+                "nazev": "Smažený lunchmeat",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 140
             },
             {
-                "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-                "popis": " šťouchané brambory s cibulkou",
+                "nazev": "Vepřová panenka",
+                "popis": " krupeto, houbová omáčka",
                 "cena": 170
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka "
+                "nazev": "Polévka - koprová s vejcem "
             },
             {
-                "nazev": "Znojemská hovězí pečeně",
-                "popis": " dušená rýže",
+                "nazev": "Trhané vepřové maso",
+                "popis": " hranolky, tzatziki ",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová játra na roštu",
-                "popis": " pečené brambory, domácí tatarka ",
+                "nazev": "Masové kuličky",
+                "popis": " rajská omáčka, kynutý knedlík ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka ",
-                "cena": 145
+                "nazev": "Smažený lunchmeat",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 140
             },
             {
-                "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-                "popis": " šťouchané brambory s cibulkou",
+                "nazev": "Vepřová panenka",
+                "popis": " krupeto, houbová omáčka",
                 "cena": 170
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - uzený vývar s kroupami"
+                "nazev": "Polévka - drůbeží vývar se zeleninou a nudlemi "
             },
             {
-                "nazev": "Špagety pomodoro",
-                "popis": " pancetta, rukola, parmezán ",
+                "nazev": "Gnocchi s kuřecím masem a baby špenátem",
+                "popis": " nivová omáčka ",
                 "cena": 140
             },
             {
-                "nazev": "Krůtí řízek",
-                "popis": " šťouchané brambory s cibulkou",
-                "cena": 145
+                "nazev": "Smažený vepřový řízek",
+                "popis": " vídeňský bramborový salát ",
+                "cena": 140
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka ",
-                "cena": 145
+                "nazev": "Smažený lunchmeat",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 140
             },
             {
-                "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-                "popis": " šťouchané brambory s cibulkou",
+                "nazev": "Vepřová panenka",
+                "popis": " krupeto, houbová omáčka",
                 "cena": 170
             }
         ]
