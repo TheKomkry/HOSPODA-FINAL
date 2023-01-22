@@ -1,136 +1,136 @@
 {
     "zacatekTydne": {
-        "den": 16,
+        "den": 23,
         "mesic": 1,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka s vejcem a krutony "
+                "nazev": "Polévka - zeleninový krém "
             },
             {
-                "nazev": "Koprová omáčka",
-                "popis": " vařené vejce, houskový knedlík ",
+                "nazev": "Kuřecí rizoto po srbsku strouhané sýrem",
+                "popis": " okurek ",
                 "cena": 135
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " pečené brambory s bylinkami, česnekový dip ",
+                "nazev": "Kovářský vepřový guláš",
+                "popis": " bramboráčky ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": " hranolky, domácí tatarka ",
-                "cena": 145
+                "nazev": "Smažená vepřová játra",
+                "popis": " bramborový salát s majonézou ",
+                "cena": 160
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - květákový krém "
+                "nazev": "Polévka - dršťková z hlívy ústřičné "
             },
             {
-                "nazev": "Pečené kuřecí paličky sweetchilli",
-                "popis": " zelný salát s majonézou, rozpečená bagetka ",
+                "nazev": "Kuřecí tortilla s čerstvou zeleninou",
+                "popis": " jogurtový dip ",
                 "cena": 140
             },
             {
-                "nazev": "Vepřové kostky na paprice",
-                "popis": " těstoviny penne ",
+                "nazev": "Pečená krkovička na česneku",
+                "popis": " listový špenát, opečený bramborový knedlík",
                 "cena": 140
             },
             {
-                "nazev": "Smažený lunchmeat",
-                "popis": " vařené brambory s máslem, domácí tatarka ",
-                "cena": 140
+                "nazev": "Smažená vepřová játra",
+                "popis": " bramborový salát s majonézou",
+                "cena": 160
             },
             {
-                "nazev": "Vepřová panenka",
-                "popis": " krupeto, houbová omáčka ",
-                "cena": 170
+                "nazev": "Šopský salát s rozpečenou bagetou ",
+                "popis": "",
+                "cena": 160
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - frankfurtská "
+                "nazev": "Polévka - hrstková "
             },
             {
-                "nazev": "Kuřecí játra na cibulce",
-                "popis": " jasmínová rýže ",
+                "nazev": "Kuřecí steak zapečený poličanem a hermelínem",
+                "popis": " mačkané brambory ",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový steak",
-                "popis": " omáčka z uzené slaniny, šťouchané brambory ",
+                "nazev": "Hovězí štěpánská pečeně",
+                "popis": " jasmínová rýže s hráškem ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený lunchmeat",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 140
+                "nazev": "Smažená vepřová játra",
+                "popis": " bramborový salát s majonézou",
+                "cena": 160
             },
             {
-                "nazev": "Vepřová panenka",
-                "popis": " krupeto, houbová omáčka",
-                "cena": 170
+                "nazev": "Šopský salát s rozpečenou bagetou ",
+                "popis": "",
+                "cena": 160
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - koprová s vejcem "
+                "nazev": "Polévka - minestrone  "
             },
             {
-                "nazev": "Trhané vepřové maso",
-                "popis": " hranolky, tzatziki ",
+                "nazev": "Plněná sekaná pečeně",
+                "popis": " máslové brambory s bylinkami",
                 "cena": 140
             },
             {
-                "nazev": "Masové kuličky",
-                "popis": " rajská omáčka, kynutý knedlík ",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " fazole na kyselo, cibulka, pečivo ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený lunchmeat",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 140
+                "nazev": "Smažená vepřová játra",
+                "popis": " bramborový salát s majonézou ",
+                "cena": 160
             },
             {
-                "nazev": "Vepřová panenka",
-                "popis": " krupeto, houbová omáčka",
-                "cena": 170
+                "nazev": "Šopský salát s rozpečenou bagetou",
+                "popis": "",
+                "cena": 160
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - drůbeží vývar se zeleninou a nudlemi "
+                "nazev": "Polévka - hovězí vývar s masem a nudlemi "
             },
             {
-                "nazev": "Gnocchi s kuřecím masem a baby špenátem",
-                "popis": " nivová omáčka ",
+                "nazev": "Rýžový nákyp s ovocem ",
+                "popis": "",
+                "cena": 135
+            },
+            {
+                "nazev": "Kuřecí řízek v cornflakes",
+                "popis": " bramborová kaše ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený vepřový řízek",
-                "popis": " vídeňský bramborový salát ",
-                "cena": 140
+                "nazev": "Smažená vepřová játra",
+                "popis": " bramborový salát s majonézou",
+                "cena": 160
             },
             {
-                "nazev": "Smažený lunchmeat",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 140
-            },
-            {
-                "nazev": "Vepřová panenka",
-                "popis": " krupeto, houbová omáčka",
-                "cena": 170
+                "nazev": "Šopský salát s rozpečenou bagetou",
+                "popis": "",
+                "cena": 160
             }
         ]
     }
