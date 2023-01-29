@@ -1,136 +1,136 @@
 {
     "zacatekTydne": {
-        "den": 23,
+        "den": 30,
         "mesic": 1,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninový krém "
+                "nazev": "Polévka - moravská cibulačka  "
             },
             {
-                "nazev": "Kuřecí rizoto po srbsku strouhané sýrem",
-                "popis": " okurek ",
-                "cena": 135
-            },
-            {
-                "nazev": "Kovářský vepřový guláš",
-                "popis": " bramboráčky ",
+                "nazev": "1. Jemně pikantní masová směs",
+                "popis": " dušená rýže  ",
                 "cena": 140
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " bramborový salát s majonézou ",
-                "cena": 160
+                "nazev": "2. Filované kuřecí prso",
+                "popis": " smetanová omáčka, těstoviny  ",
+                "cena": 140
+            },
+            {
+                "nazev": "3. Smažený hermelín",
+                "popis": " hranolky, domácí tatarka  ",
+                "cena": 145
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - dršťková z hlívy ústřičné "
+                "nazev": "Polévka - gulášová s bramborem  "
             },
             {
-                "nazev": "Kuřecí tortilla s čerstvou zeleninou",
-                "popis": " jogurtový dip ",
+                "nazev": "1. Pečená vepřová plec",
+                "popis": " tuřanské zelí, knedlík  ",
                 "cena": 140
             },
             {
-                "nazev": "Pečená krkovička na česneku",
-                "popis": " listový špenát, opečený bramborový knedlík",
+                "nazev": "2. Kuřecí špíz se zeleninou a uzeným masem",
+                "popis": " pečené brambory, dip  ",
                 "cena": 140
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " bramborový salát s majonézou",
-                "cena": 160
+                "nazev": "3. Smažený hermelín",
+                "popis": " hranolky, domácí tatarka  ",
+                "cena": 145
             },
             {
-                "nazev": "Šopský salát s rozpečenou bagetou ",
-                "popis": "",
-                "cena": 160
+                "nazev": "4. Hovězí svíčková na smetaně",
+                "popis": " špekový knedlík  ",
+                "cena": 175
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - hrstková "
+                "nazev": "Polévka - čočková s domácí klobásou "
             },
             {
-                "nazev": "Kuřecí steak zapečený poličanem a hermelínem",
-                "popis": " mačkané brambory ",
+                "nazev": "1. Italské houbové rizoto",
+                "popis": " rukola, parmezán  ",
                 "cena": 140
             },
             {
-                "nazev": "Hovězí štěpánská pečeně",
-                "popis": " jasmínová rýže s hráškem ",
+                "nazev": "2. Soukenický řízek",
+                "popis": " bramborová kaše, zelný salát  ",
                 "cena": 140
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " bramborový salát s majonézou",
-                "cena": 160
+                "nazev": "3. Smažený hermelín",
+                "popis": " hranolky, domácí tatarka  ",
+                "cena": 145
             },
             {
-                "nazev": "Šopský salát s rozpečenou bagetou ",
-                "popis": "",
-                "cena": 160
+                "nazev": "4. Hovězí svíčková na smetaně",
+                "popis": " špekový knedlík ",
+                "cena": 175
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - minestrone  "
+                "nazev": "Polévka - valašská kyselice  "
             },
             {
-                "nazev": "Plněná sekaná pečeně",
-                "popis": " máslové brambory s bylinkami",
+                "nazev": "1. Kuře ala kachna",
+                "popis": " červené zelí, bramborový knedlík  ",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " fazole na kyselo, cibulka, pečivo ",
+                "nazev": "2. Vepřová pečeně po sedlácku",
+                "popis": " gratinované brambory  ",
                 "cena": 140
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " bramborový salát s majonézou ",
-                "cena": 160
+                "nazev": "3. Smažený hermelín",
+                "popis": " hranolky, domácí tatarka  ",
+                "cena": 145
             },
             {
-                "nazev": "Šopský salát s rozpečenou bagetou",
-                "popis": "",
-                "cena": 160
+                "nazev": "4. Hovězí svíčková na smetaně",
+                "popis": " špekový knedlík ",
+                "cena": 175
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a nudlemi "
+                "nazev": "Polévka - masový vývar s fritátovými nudlemi  "
             },
             {
-                "nazev": "Rýžový nákyp s ovocem ",
+                "nazev": "1. Žemlovka  ",
                 "popis": "",
-                "cena": 135
-            },
-            {
-                "nazev": "Kuřecí řízek v cornflakes",
-                "popis": " bramborová kaše ",
                 "cena": 140
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " bramborový salát s majonézou",
-                "cena": 160
+                "nazev": "2. Kuřecí ondráš",
+                "popis": " salát coleslaw  ",
+                "cena": 140
             },
             {
-                "nazev": "Šopský salát s rozpečenou bagetou",
-                "popis": "",
-                "cena": 160
+                "nazev": "3. Smažený hermelín",
+                "popis": " hranolky, domácí tatarka  ",
+                "cena": 145
+            },
+            {
+                "nazev": "4. Hovězí svíčková na smetaně",
+                "popis": " špekový knedlík ",
+                "cena": 175
             }
         ]
     }
