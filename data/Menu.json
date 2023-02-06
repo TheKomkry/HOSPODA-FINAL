@@ -1,27 +1,30 @@
 {
     "zacatekTydne": {
-        "den": 30,
-        "mesic": 1,
+        "den": 6,
+        "mesic": 2,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - moravská cibulačka  "
+                "nazev": "Polévka - rajská s rýží "
             },
             {
-                "nazev": "Jemně pikantní masová směs",
-                "popis": " dušená rýže  ",
+                "nazev": "Polévka - zeleninový vývar s těstovinou "
+            },
+            {
+                "nazev": "Kovbojské fazole s domácí klobásou",
+                "popis": " smažená cibulka, pečivo ",
                 "cena": 140
             },
             {
-                "nazev": "Filované kuřecí prso",
-                "popis": " smetanová omáčka, těstoviny  ",
+                "nazev": "Vepřové kostky na pepři",
+                "popis": " jasmínová rýže s pažitkou ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": " hranolky, domácí tatarka  ",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka ",
                 "cena": 145
             }
         ]
@@ -29,26 +32,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - gulášová s bramborem  "
+                "nazev": "Polévka - brokolicová krémová "
             },
             {
-                "nazev": "Pečená vepřová plec",
-                "popis": " tuřanské zelí, knedlík  ",
+                "nazev": "Domácí bramborové knedle plněné uzeným masem",
+                "popis": " tuřanské zelí ",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí špíz se zeleninou a uzeným masem",
-                "popis": " pečené brambory, dip  ",
+                "nazev": "Vepřová kapsa se šunkou a sýrem",
+                "popis": " šťouchané brambory ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": " hranolky, domácí tatarka  ",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 145
             },
             {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " špekový knedlík  ",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, cibulová sláma  ",
                 "cena": 175
             }
         ]
@@ -56,26 +59,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková s domácí klobásou "
+                "nazev": "Polévka - česnečka z českého paličáku "
             },
             {
-                "nazev": "Italské houbové rizoto",
-                "popis": " rukola, parmezán  ",
+                "nazev": "Pečená kuřecí křídla",
+                "popis": " červené zelí s jablky a křenem , bageta ",
                 "cena": 140
             },
             {
-                "nazev": "Soukenický řízek",
-                "popis": " bramborová kaše, zelný salát  ",
+                "nazev": "Holandská sekaná, bramborová  kaše",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": " hranolky, domácí tatarka  ",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 145
             },
             {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " špekový knedlík ",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, cibulová sláma  ",
                 "cena": 175
             }
         ]
@@ -83,26 +86,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - valašská kyselice  "
+                "nazev": "Polévka - koprová s vejcem "
             },
             {
-                "nazev": "Kuře ala kachna",
-                "popis": " červené zelí, bramborový knedlík  ",
+                "nazev": "Lasagne se špenátem a kuřecím masem ",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová pečeně po sedlácku",
-                "popis": " gratinované brambory  ",
+                "nazev": "Hamburská vepřová kýta na smetaně",
+                "popis": " kynutý knedlík ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": " hranolky, domácí tatarka  ",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 145
             },
             {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " špekový knedlík ",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, cibulová sláma ",
                 "cena": 175
             }
         ]
@@ -110,26 +113,23 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - masový vývar s fritátovými nudlemi  "
-            },
-            {
-                "nazev": "Žemlovka  ",
-                "popis": "",
+                "nazev": "Domácí kynuté ovocné knedlíky",
+                "popis": " tvaroh, máslo, skořice ",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí ondráš",
-                "popis": " salát coleslaw  ",
+                "nazev": "Smažený vepřový česnekový řízek",
+                "popis": " vařené bylinkové máslové brambory ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": " hranolky, domácí tatarka  ",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 145
             },
             {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " špekový knedlík ",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, cibulová sláma  ",
                 "cena": 175
             }
         ]
