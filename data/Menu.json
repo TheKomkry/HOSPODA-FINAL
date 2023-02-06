@@ -10,9 +10,6 @@
                 "nazev": "Polévka - rajská s rýží "
             },
             {
-                "nazev": "Polévka - zeleninový vývar s těstovinou "
-            },
-            {
                 "nazev": "Kovbojské fazole s domácí klobásou",
                 "popis": " smažená cibulka, pečivo ",
                 "cena": 140
@@ -112,6 +109,9 @@
     },
     "Patek": {
         "jidla": [
+            {
+                "nazev": "Polévka - zeleninový vývar s těstovinou "
+            },
             {
                 "nazev": "Domácí kynuté ovocné knedlíky",
                 "popis": " tvaroh, máslo, skořice ",
