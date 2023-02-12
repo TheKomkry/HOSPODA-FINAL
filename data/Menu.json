@@ -1,54 +1,54 @@
 {
     "zacatekTydne": {
-        "den": 6,
+        "den": 13,
         "mesic": 2,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - rajská s rýží "
+                "nazev": "Polévka - květákový krém "
             },
             {
-                "nazev": "Kovbojské fazole s domácí klobásou",
-                "popis": " smažená cibulka, pečivo ",
+                "nazev": "Čočka na kyselo s uzeným masem",
+                "popis": " okurek, pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Vepřové kostky na pepři",
-                "popis": " jasmínová rýže s pažitkou ",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Vepřový flamedr",
+                "popis": " bramboráčky ",
                 "cena": 145
+            },
+            {
+                "nazev": "Smažená tilapie",
+                "popis": " máslové brambory s pažitkou, brusinkový dip ",
+                "cena": 150
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - brokolicová krémová "
+                "nazev": "Polévka - krupicová s vejcem "
             },
             {
-                "nazev": "Domácí bramborové knedle plněné uzeným masem",
-                "popis": " tuřanské zelí ",
+                "nazev": "Rizoto s kuřecím masem a zeleninou",
+                "popis": " sypané sýrem gouda ",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová kapsa se šunkou a sýrem",
-                "popis": " šťouchané brambory ",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " sázené vejce, hranolky, tatarka ",
                 "cena": 145
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulová sláma  ",
+                "nazev": "Smažená tilapie",
+                "popis": " máslové brambory s pažitkou, brusinkový dip ",
+                "cena": 150
+            },
+            {
+                "nazev": "Panenka na grilu",
+                "popis": " pečené grenaille, pepřová omáčka ",
                 "cena": 175
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka z českého paličáku "
+                "nazev": "Polévka - francouzská "
             },
             {
-                "nazev": "Pečená kuřecí křídla",
-                "popis": " červené zelí s jablky a křenem , bageta ",
+                "nazev": "Cordon bleu",
+                "popis": " šťouchané brambory s pórkem ",
                 "cena": 140
             },
             {
-                "nazev": "Holandská sekaná, bramborová  kaše",
-                "popis": "",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Pomalu pečená vepřová plec na hřibech",
+                "popis": " houskový knedlík ",
                 "cena": 145
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulová sláma  ",
+                "nazev": "Smažená tilapie",
+                "popis": " máslové brambory s pažitkou, brusinkový dip",
+                "cena": 150
+            },
+            {
+                "nazev": "Panenka na grilu",
+                "popis": " pečené grenaille, pepřová omáčka",
                 "cena": 175
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - koprová s vejcem "
+                "nazev": "Polévka - minestrone "
             },
             {
-                "nazev": "Lasagne se špenátem a kuřecím masem ",
-                "popis": "",
+                "nazev": "Asijské kuřecí nudličky teriyaki",
+                "popis": " pečené nudle",
                 "cena": 140
             },
             {
-                "nazev": "Hamburská vepřová kýta na smetaně",
-                "popis": " kynutý knedlík ",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Moravský vrabec",
+                "popis": " dušený špenát, bramborový knedlík, cibulka",
                 "cena": 145
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulová sláma ",
+                "nazev": "Smažená tilapie",
+                "popis": " máslové brambory s pažitkou, brusinkový dip",
+                "cena": 150
+            },
+            {
+                "nazev": "Panenka na grilu",
+                "popis": " pečené grenaille, pepřová omáčka",
                 "cena": 175
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninový vývar s těstovinou "
+                "nazev": "Polévka - hovězí vývar se smaženým hráškem"
             },
             {
-                "nazev": "Domácí kynuté ovocné knedlíky",
-                "popis": " tvaroh, máslo, skořice ",
+                "nazev": "Taštičky s povidlím",
+                "popis": " máslo, mák ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený vepřový česnekový řízek",
-                "popis": " vařené bylinkové máslové brambory ",
-                "cena": 140
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Vepřové medailonky",
+                "popis": " brambory s česnekem, slaninová omáčka ",
                 "cena": 145
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulová sláma  ",
+                "nazev": "Smažená tilapie",
+                "popis": " máslové brambory s pažitkou, brusinkový dip",
+                "cena": 150
+            },
+            {
+                "nazev": "Panenka na grilu",
+                "popis": " pečené grenaille, pepřová omáčka",
                 "cena": 175
             }
         ]
