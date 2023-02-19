@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 13,
+        "den": 20,
         "mesic": 2,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - květákový krém "
+                "nazev": "Polévka - čočková s klobásou "
             },
             {
-                "nazev": "Čočka na kyselo s uzeným masem",
-                "popis": " okurek, pečivo",
+                "nazev": "Špagety aglio olio peperoncino ",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový flamedr",
-                "popis": " bramboráčky ",
+                "nazev": "Přírodní vepřový plátek se šunkou a sýrem",
+                "popis": " americké brambory ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilapie",
-                "popis": " máslové brambory s pažitkou, brusinkový dip ",
+                "nazev": "Smažený hermelín s poličanem",
+                "popis": " hranolky, domácí tatarka ",
                 "cena": 150
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - krupicová s vejcem "
+                "nazev": "Polévka - chalupářská "
             },
             {
-                "nazev": "Rizoto s kuřecím masem a zeleninou",
-                "popis": " sypané sýrem gouda ",
+                "nazev": "Segedínský guláš",
+                "popis": " houskový knedlík ",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " sázené vejce, hranolky, tatarka ",
+                "nazev": "Kuřecí gyros",
+                "popis": " tzatziki, hranolky ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilapie",
-                "popis": " máslové brambory s pažitkou, brusinkový dip ",
+                "nazev": "Smažený hermelín s poličanem",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Panenka na grilu",
-                "popis": " pečené grenaille, pepřová omáčka ",
+                "nazev": "Pečená žebra",
+                "popis": " zeleninový salát coleslaw s křenem, kmínový chléb ",
                 "cena": 175
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - francouzská "
+                "nazev": "Polévka - boršč"
             },
             {
-                "nazev": "Cordon bleu",
-                "popis": " šťouchané brambory s pórkem ",
+                "nazev": "Játra na cibulce",
+                "popis": " jasmínová rýže, okurek ",
                 "cena": 140
             },
             {
-                "nazev": "Pomalu pečená vepřová plec na hřibech",
-                "popis": " houskový knedlík ",
+                "nazev": "Krůtí prsa v těstíčku",
+                "popis": " bramborová kaše, salát coleslaw ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilapie",
-                "popis": " máslové brambory s pažitkou, brusinkový dip",
+                "nazev": "Smažený hermelín s poličanem",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Panenka na grilu",
-                "popis": " pečené grenaille, pepřová omáčka",
+                "nazev": "Pečená žebra",
+                "popis": " zeleninový salát coleslaw s křenem, kmínový chléb",
                 "cena": 175
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - minestrone "
+                "nazev": "Polévka - zeleninová "
             },
             {
-                "nazev": "Asijské kuřecí nudličky teriyaki",
-                "popis": " pečené nudle",
+                "nazev": "Halušky s uzeným masem",
+                "popis": " tuřanské zelí, cibulka ",
                 "cena": 140
             },
             {
-                "nazev": "Moravský vrabec",
-                "popis": " dušený špenát, bramborový knedlík, cibulka",
+                "nazev": "Pečená krkovička na kořenové zelenině",
+                "popis": " mačkané brambory ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilapie",
-                "popis": " máslové brambory s pažitkou, brusinkový dip",
+                "nazev": "Smažený hermelín s poličanem",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Panenka na grilu",
-                "popis": " pečené grenaille, pepřová omáčka",
+                "nazev": "Pečená žebra",
+                "popis": " zeleninový salát coleslaw s křenem, kmínový chléb",
                 "cena": 175
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar se smaženým hráškem"
+                "nazev": "Polévka - česneková krémová "
             },
             {
-                "nazev": "Taštičky s povidlím",
-                "popis": " máslo, mák ",
+                "nazev": "Lívanečky s lesním ovocem a zakysanou smetanou ",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Vepřové medailonky",
-                "popis": " brambory s česnekem, slaninová omáčka ",
+                "nazev": "Smažený vepřový řízek",
+                "popis": " bramborový salát s majonézou ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilapie",
-                "popis": " máslové brambory s pažitkou, brusinkový dip",
+                "nazev": "Smažený hermelín s poličanem",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Panenka na grilu",
-                "popis": " pečené grenaille, pepřová omáčka",
+                "nazev": "Pečená žebra",
+                "popis": " zeleninový salát coleslaw s křenem, kmínový chléb",
                 "cena": 175
             }
         ]
