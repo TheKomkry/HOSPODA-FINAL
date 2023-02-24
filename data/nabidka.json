@@ -359,11 +359,6 @@
 
     ],
     "Deserty": [
-        {
-            "nazev": "Tiramisu",
-            "cena": 59,
-            "mnozstvi": 1,
-            "jednotka": "ks"
-        }
+        
     ]
 }
