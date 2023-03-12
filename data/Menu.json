@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 6,
+        "den": 13,
         "mesic": 3,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka -  selská zelná "
+                "nazev": "Polévka - tomatová s těstovinou "
             },
             {
-                "nazev": "Bramborový guláš s domácí klobásou",
-                "popis": " pečivo ",
+                "nazev": "Hrachová kaše s opečenou klobásou",
+                "popis": " pečivo, okurek ",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí prso na paprice",
-                "popis": " houskový knedlík ",
+                "nazev": "Kotleta na grilu",
+                "popis": " sázené vejce, pečené brambory ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka ",
                 "cena": 150
             }
@@ -29,108 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - květákový krém se šlehaným vejcem"
+                "nazev": "Polévka - kapustová s anglickou slaninou "
             },
             {
-                "nazev": "Zapečené francouzské brambory",
-                "popis": " zelný salát s mrkví a koprem ",
+                "nazev": "Tagliatelle s boloňskou omáčkou",
+                "popis": " sypané parmezánem ",
                 "cena": 140
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " zelené fazolky se slaninou, pečená brambora ",
+                "nazev": "Hamburská vepřová kýta",
+                "popis": " houskový knedlík ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Caesar salát s kuřecím masem a krutony ",
-                "popis": "",
-                "cena": 155
+                "nazev": "Pečené vepřové koleno na pivě a česneku",
+                "popis": " jablka s křenem, rozpečený chléb",
+                "cena": 170
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - gulášová s bramborem "
+                "nazev": "Polévka - hrstková "
             },
             {
-                "nazev": "Chilli con carne ",
-                "popis": "",
+                "nazev": "Plněné bramborové knedle uzeným masem",
+                "popis": " tuřanské zelí, cibulka ",
                 "cena": 140
             },
             {
-                "nazev": "Pečená krkovička",
-                "popis": " červené zelí, opečený bramborový knedlík ",
+                "nazev": "Domácí sekaná se šunkou a sýrem",
+                "popis": " šťouchané brambory s pórkem ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Caesar salát s kuřecím masem a krutony",
-                "popis": "",
-                "cena": 155
+                "nazev": "Pečené vepřové koleno na pivě a česneku",
+                "popis": " jablka s křenem, rozpečený chléb",
+                "cena": 170
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - koprová s vejcem "
+                "nazev": "Polévka - frankfurtská "
             },
             {
-                "nazev": "Špagety s houbovou omáčkou",
-                "popis": " rukola, parmezán ",
+                "nazev": "Jemně pikantní masová směs se zeleninou",
+                "popis": " jasmínová rýže ",
                 "cena": 140
             },
             {
-                "nazev": "Plněná vepřová kapsa",
-                "popis": " mačkané brambory s cibulkou ",
+                "nazev": "Mix gril",
+                "popis": " medovo-hořčičná omáčka, pečené bramborové plátky ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Caesar salát s kuřecím masem a krutony",
-                "popis": "",
-                "cena": 155
+                "nazev": "Pečené vepřové koleno na pivě a česneku",
+                "popis": " jablka s křenem, rozpečený chléb",
+                "cena": 170
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - uzená s kroupami "
+                "nazev": "Polévka - česnečka "
             },
             {
-                "nazev": "Šišky s mákem ",
+                "nazev": "Palačinky s ovocem a čokoládou ",
                 "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Obrácený vepřový řízek",
-                "popis": " bramborové pyré ",
+                "nazev": "Vepřoví rarášci",
+                "popis": " bramborová kaše, ledový salát se zálivkou ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Caesar salát s kuřecím masem a krutony",
-                "popis": "",
-                "cena": 155
+                "nazev": "Pečené vepřové koleno na pivě a česneku",
+                "popis": " jablka s křenem, rozpečený chléb",
+                "cena": 170
             }
         ]
     }
