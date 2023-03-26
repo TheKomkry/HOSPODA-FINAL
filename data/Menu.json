@@ -1,141 +1,136 @@
 {
     "zacatekTydne": {
-        "den": 20,
+        "den": 27,
         "mesic": 3,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - cibulačka "
+                "nazev": "Polévka - hovězí vývar s masem a zeleninou, fritátové nudle"
             },
             {
-                "nazev": "Mexické fazole s rajčaty a slaninou",
-                "popis": " pečivo ",
+                "nazev": "Pikantní buřt guláš",
+                "popis": " cibulka, pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Vepřové nudličky po srbsku",
-                "popis": " dušená rýže, okurek ",
+                "nazev": "Vepřová kapsa",
+                "popis": " opékané brambory, dip ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažený hermelín",
                 "popis": " hranolky, domácí tatarka ",
                 "cena": 150
-            },
-            {
-                "nazev": "Hovězí guláš",
-                "popis": " cibulka, houskový knedlík",
-                "cena": 170
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - špenátová se smaženým hráškem "
+                "nazev": "Polévka - zelná s klobásou "
             },
             {
-                "nazev": "Tilapie na grilu",
-                "popis": " omáčka z bílého vína a tymiánu, vařené brambory ",
+                "nazev": "Kuřecí nudličky s nivou",
+                "popis": " pórkem a smetanou, krokety ",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová kotleta marinovaná v hrubozrnné hořčici",
-                "popis": " pečená zelenina s bramborem ",
+                "nazev": "Vepřová plec na paprice",
+                "popis": " houskový knedlík ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Smažený hermelín",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Plněná tortilla se zeleninou a kuřecím masem",
-                "popis": " česnekový dresing, salát coleslaw ",
-                "cena": 170
+                "nazev": "Svíčková na smetaně",
+                "popis": " houskový knedlík, brusinkový terč ",
+                "cena": 179
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková "
+                "nazev": "Polévka -  valašská kyselice "
             },
             {
-                "nazev": "Vepřové výpečky",
-                "popis": " dušená kapusta, opečený bramborový knedlík ",
+                "nazev": "Špagety po uhlířsku sypané sýrem ",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
-                "popis": " bramborová kaše ",
+                "nazev": "Kuřecí ražniči na plech",
+                "popis": " šťouchané brambory s jarní cibulkou",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Smažený hermelín",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Plněná tortilla se zeleninou a kuřecím masem",
-                "popis": " česnekový dresing, salát coleslaw",
-                "cena": 170
+                "nazev": "Svíčková na smetaně",
+                "popis": " houskový knedlík, brusinkový terč",
+                "cena": 179
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - dršťková z hlívy ústřičné "
+                "nazev": "Polévka - bílá fazolová se slaninou "
             },
             {
-                "nazev": "Masové kuličky v rajské omáčce",
-                "popis": " houskový knedlík ",
+                "nazev": "Pečené kuřecí stehno na divoko",
+                "popis": " tarhoňa ",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí steak s poličanem a hermelínem",
-                "popis": " selské brambory ",
+                "nazev": "Soukenický řízek",
+                "popis": " bramborová kaše, okurek",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Smažený hermelín",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Plněná tortilla se zeleninou a kuřecím masem",
-                "popis": " česnekový dresing, salát coleslaw",
-                "cena": 170
+                "nazev": "Svíčková na smetaně",
+                "popis": " houskový knedlík, brusinkový terč",
+                "cena": 179
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - thajská kuřecí s rýžovými nudlemi "
+                "nazev": "Polévka - zabíjačková s kroupami "
             },
             {
-                "nazev": "Široké nudle",
-                "popis": " mák, máslo, cukr ",
+                "nazev": "Kynuté ovocné knedlíky",
+                "popis": " tvaroh, skořice, máslo",
                 "cena": 140
             },
             {
-                "nazev": "Lažanský řízek",
-                "popis": " šťouchané brambory s kysaným zelím ",
+                "nazev": "Smažená kotleta v česnekovém těstíčku",
+                "popis": " vařen brambory s máslem, dip",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Smažený hermelín",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Plněná tortilla se zeleninou a kuřecím masem",
-                "popis": " česnekový dresing, salát coleslaw",
-                "cena": 170
+                "nazev": "Svíčková na smetaně",
+                "popis": " houskový knedlík, brusinkový terč",
+                "cena": 179
             }
         ]
     }
