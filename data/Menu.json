@@ -1,136 +1,118 @@
 {
     "zacatekTydne": {
-        "den": 3,
+        "den": 11,
         "mesic": 4,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
-            {
-                "nazev": "Polévka - kmínová s vejcem "
-            },
-            {
-                "nazev": "Uzené maso",
-                "popis": " hrachová kaše, cibulka, chléb ",
-                "cena": 140
-            },
-            {
-                "nazev": "Kuřecí maso s máslovou zeleninou",
-                "popis": " jasmínová rýže ",
-                "cena": 145
-            },
-            {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka ",
-                "cena": 150
-            }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - mexická "
+                "nazev": "Polévka - rajská s těstovinou "
             },
             {
-                "nazev": "Boloňské špagety",
-                "popis": "",
+                "nazev": "Fazole na kyselo",
+                "popis": " pečená klobása, chléb, okurek ",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový steak",
-                "popis": " gratinované brambory, slaninová omáčka ",
+                "nazev": "Kuřecí nudličky po thajsku se zeleninou",
+                "popis": " krokety ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka",
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka ",
                 "cena": 150
             },
             {
-                "nazev": "Hovězí velikonoční guláš",
-                "popis": " kynutý knedlík se slaninou",
-                "cena": 175
+                "nazev": "Česnekový vepřový řízek",
+                "popis": " jarní bramborový salát ",
+                "cena": 165
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - italská čočková "
+                "nazev": "Polévka - kapustová se slaninou a bramborem"
             },
             {
-                "nazev": "Zeleninové rizoto s kuřecím masem a sýrem ",
-                "popis": "",
+                "nazev": "Zapečené šunkafleky s uzeným masem",
+                "popis": " zelný salát s mrkví a koprem ",
                 "cena": 140
             },
             {
-                "nazev": "Trhané vepřové maso",
-                "popis": " hranolky, zelný salát, dip ",
+                "nazev": "Hovězí na houbách",
+                "popis": " jasmínová rýže s hráškem ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka",
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Hovězí velikonoční guláš",
-                "popis": " kynutý knedlík se slaninou ",
-                "cena": 175
+                "nazev": "Česnekový vepřový řízek",
+                "popis": " jarní bramborový salát",
+                "cena": 165
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - masový vývar se smaženým hráškem "
+                "nazev": "Polévka - krém z pečených paprik "
             },
             {
-                "nazev": "Jitrnicový a jelitový prejt",
-                "popis": " kysané zelí, vařené brambory",
+                "nazev": "Segedínský guláš",
+                "popis": " houskový knedlík",
                 "cena": 140
             },
             {
-                "nazev": "Moravský vrabec",
-                "popis": " špenát, bramborový knedlík ",
+                "nazev": "Kotleta na grilu",
+                "popis": " restovaná zelenina s baby brambory, pepřová omáčka ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka",
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Hovězí velikonoční guláš",
-                "popis": " kynutý knedlík se slaninou",
-                "cena": 175
+                "nazev": "Česnekový vepřový řízek",
+                "popis": " jarní bramborový salát",
+                "cena": 165
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka s krutony "
+                "nazev": "Polévka - babiččina bramboračka"
             },
             {
-                "nazev": "Dukátové buchtičky s vanilkovým krémem",
-                "popis": "",
+                "nazev": "Bavorské vdolky",
+                "popis": " tvaroh, povidla ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený kuřecí řízek",
-                "popis": " vídeňský bramborový salát ",
+                "nazev": "Holandský řízek",
+                "popis": " bramborová kaše ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka",
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Hovězí velikonoční guláš",
-                "popis": " kynutý knedlík se slaninou",
-                "cena": 175
+                "nazev": "Česnekový vepřový řízek",
+                "popis": " jarní bramborový salát",
+                "cena": 165
             }
         ]
     }
