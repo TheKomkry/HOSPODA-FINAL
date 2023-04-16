@@ -1,118 +1,136 @@
 {
     "zacatekTydne": {
-        "den": 11,
+        "den": 17,
         "mesic": 4,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
+            {
+                "nazev": "Polévka - zeleninový krém s bylinkovým olejem "
+            },
+            {
+                "nazev": "Pikantní flamendr",
+                "popis": " dušená rýže s pórkem ",
+                "cena": 140
+            },
+            {
+                "nazev": "Vepřová plec na pepři",
+                "popis": " chalupářské brambory ",
+                "cena": 145
+            },
+            {
+                "nazev": "Smažený Gothaj",
+                "popis": " vařené brambory s máslem, domácí tatarka ",
+                "cena": 150
+            }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - rajská s těstovinou "
+                "nazev": "Polévka - selská "
             },
             {
-                "nazev": "Fazole na kyselo",
-                "popis": " pečená klobása, chléb, okurek ",
+                "nazev": "Francouzské brambory s brokolicí a sýrem",
+                "popis": " okurek ",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí nudličky po thajsku se zeleninou",
-                "popis": " krokety ",
+                "nazev": "Kuřecí steak caprese",
+                "popis": " zámecké brambory v bylinkové strouhance ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená gouda",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Smažený Gothaj",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Česnekový vepřový řízek",
-                "popis": " jarní bramborový salát ",
-                "cena": 165
+                "nazev": "Gnochi s vepřovou panenkou",
+                "popis": " sušená rajčata, hrubozrnná smetanová omáčka, rukola ",
+                "cena": 175
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - kapustová se slaninou a bramborem"
+                "nazev": "Polévka - celerová se smaženým hráškem "
             },
             {
-                "nazev": "Zapečené šunkafleky s uzeným masem",
-                "popis": " zelný salát s mrkví a koprem ",
+                "nazev": "Vařené hovězí maso",
+                "popis": " rajská omáčka, houskový knedlík ",
                 "cena": 140
             },
             {
-                "nazev": "Hovězí na houbách",
-                "popis": " jasmínová rýže s hráškem ",
+                "nazev": "Vepřová roláda s bylinkovým pestem a slaninou",
+                "popis": " šťouchané brambory ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený Gothaj",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Česnekový vepřový řízek",
-                "popis": " jarní bramborový salát",
-                "cena": 165
+                "nazev": "Gnochi s vepřovou panenkou",
+                "popis": " sušená rajčata, hrubozrnná smetanová omáčka, rukola",
+                "cena": 175
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - krém z pečených paprik "
+                "nazev": "Polévka - kulajda "
             },
             {
-                "nazev": "Segedínský guláš",
-                "popis": " houskový knedlík",
+                "nazev": "Kuřecí paličky v těstíčku",
+                "popis": " salát, dip, pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " restovaná zelenina s baby brambory, pepřová omáčka ",
+                "nazev": "Vepřový guláš",
+                "popis": " bramboráčky ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený Gothaj",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Česnekový vepřový řízek",
-                "popis": " jarní bramborový salát",
-                "cena": 165
+                "nazev": "Gnochi s vepřovou panenkou",
+                "popis": " sušená rajčata, hrubozrnná smetanová omáčka, rukola",
+                "cena": 175
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka"
+                "nazev": "Polévka - slovácká cibulačka s osmaženým chlebem "
             },
             {
-                "nazev": "Bavorské vdolky",
-                "popis": " tvaroh, povidla ",
+                "nazev": "Domácí lívance",
+                "popis": " ovocná omáčka, zakysaná smetana ",
                 "cena": 140
             },
             {
-                "nazev": "Holandský řízek",
+                "nazev": "Cordon bleu",
                 "popis": " bramborová kaše ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený Gothaj",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Česnekový vepřový řízek",
-                "popis": " jarní bramborový salát",
-                "cena": 165
+                "nazev": "Gnochi s vepřovou panenkou",
+                "popis": " sušená rajčata, hrubozrnná smetanová omáčka, rukola",
+                "cena": 175
             }
         ]
     }
