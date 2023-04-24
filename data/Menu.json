@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 17,
+        "den": 24,
         "mesic": 4,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninový krém s bylinkovým olejem "
+                "nazev": "Polévka - italská tomatová"
             },
             {
-                "nazev": "Pikantní flamendr",
-                "popis": " dušená rýže s pórkem ",
+                "nazev": "Kovbojské fazole s uzeninou a chilli",
+                "popis": " pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová plec na pepři",
-                "popis": " chalupářské brambory ",
+                "nazev": "Vepřová kotleta po pašerácku",
+                "popis": " pečené brambory, dip",
                 "cena": 145
             },
             {
-                "nazev": "Smažený Gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka ",
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             }
         ]
@@ -29,108 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - selská "
+                "nazev": "Polévka - pórková s krupicí"
             },
             {
-                "nazev": "Francouzské brambory s brokolicí a sýrem",
-                "popis": " okurek ",
+                "nazev": "Čevapčiči",
+                "popis": " vařené brambory, hořčice, cibule",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí steak caprese",
-                "popis": " zámecké brambory v bylinkové strouhance ",
+                "nazev": "Pečená krkovička na česneku",
+                "popis": " dušené zelí, houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažený Gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Gnochi s vepřovou panenkou",
-                "popis": " sušená rajčata, hrubozrnná smetanová omáčka, rukola ",
-                "cena": 175
+                "nazev": "Pečená  vepřová žebra",
+                "popis": " salát coleslaw, rozpečený chléb ",
+                "cena": 180
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - celerová se smaženým hráškem "
+                "nazev": "Polévka - hráškový krém s mátou"
             },
             {
-                "nazev": "Vařené hovězí maso",
-                "popis": " rajská omáčka, houskový knedlík ",
+                "nazev": "Tagliatelle se šunkou a vejcem",
+                "popis": " sypané parmezánem",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová roláda s bylinkovým pestem a slaninou",
-                "popis": " šťouchané brambory ",
+                "nazev": "Vepřový steak",
+                "popis": "             zakysaná smetana",
                 "cena": 145
             },
             {
-                "nazev": "Smažený Gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Gnochi s vepřovou panenkou",
-                "popis": " sušená rajčata, hrubozrnná smetanová omáčka, rukola",
-                "cena": 175
+                "nazev": "Pečená  vepřová žebra",
+                "popis": " salát coleslaw, rozpečený chléb",
+                "cena": 180
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - kulajda "
+                "nazev": "Polévka - kuřecí kaldoun s masem a zeleninou"
             },
             {
-                "nazev": "Kuřecí paličky v těstíčku",
-                "popis": " salát, dip, pečivo",
+                "nazev": "Vepřová játra na roštu",
+                "popis": " opékané brambory, tatarka",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový guláš",
-                "popis": " bramboráčky ",
+                "nazev": "Hovězí znojemská pečeně",
+                "popis": " jasmínová rýže s pažitkou  ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený Gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Gnochi s vepřovou panenkou",
-                "popis": " sušená rajčata, hrubozrnná smetanová omáčka, rukola",
-                "cena": 175
+                "nazev": "Pečená  vepřová žebra",
+                "popis": " salát coleslaw, rozpečený chléb",
+                "cena": 180
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - slovácká cibulačka s osmaženým chlebem "
+                "nazev": "Polévka - česnečka z českého paličáku"
             },
             {
-                "nazev": "Domácí lívance",
-                "popis": " ovocná omáčka, zakysaná smetana ",
+                "nazev": "Domácí žemlovka",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Cordon bleu",
-                "popis": " bramborová kaše ",
+                "nazev": "Smažený vepřový řízek v pivním těstíčku",
+                "popis": " mačkané brambory s cibulkou",
                 "cena": 145
             },
             {
-                "nazev": "Smažený Gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Gnochi s vepřovou panenkou",
-                "popis": " sušená rajčata, hrubozrnná smetanová omáčka, rukola",
-                "cena": 175
+                "nazev": "Pečená  vepřová žebra",
+                "popis": " salát coleslaw, rozpečený chléb",
+                "cena": 180
             }
         ]
     }
