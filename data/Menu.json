@@ -1,136 +1,118 @@
 {
     "zacatekTydne": {
-        "den": 24,
-        "mesic": 4,
+        "den": 2,
+        "mesic": 5,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
-            {
-                "nazev": "Polévka - italská tomatová"
-            },
-            {
-                "nazev": "Kovbojské fazole s uzeninou a chilli",
-                "popis": " pečivo",
-                "cena": 140
-            },
-            {
-                "nazev": "Vepřová kotleta po pašerácku",
-                "popis": " pečené brambory, dip",
-                "cena": 145
-            },
-            {
-                "nazev": "Smažená gouda",
-                "popis": " hranolky, domácí tatarka",
-                "cena": 150
-            }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - pórková s krupicí"
+                "nazev": "Polévka -  luštěninová s klobásou"
             },
             {
-                "nazev": "Čevapčiči",
-                "popis": " vařené brambory, hořčice, cibule",
+                "nazev": "Vepřové rizoto po srbsku sypané sýrem gouda",
+                "popis": " okurek",
                 "cena": 140
             },
             {
-                "nazev": "Pečená krkovička na česneku",
-                "popis": " dušené zelí, houskový knedlík",
+                "nazev": "Kuřecí steak",
+                "popis": " omáčka z uzené slaniny, krokety",
                 "cena": 145
             },
             {
-                "nazev": "Smažená gouda",
+                "nazev": "Smažený hermelín s poličanem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Pečená  vepřová žebra",
-                "popis": " salát coleslaw, rozpečený chléb ",
-                "cena": 180
+                "nazev": "Fish and chips",
+                "popis": " citronová majonéza, jablečný ocet  ",
+                "cena": 170
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - hráškový krém s mátou"
+                "nazev": "Polévka -  dršťková z hlívy ústřičné"
             },
             {
-                "nazev": "Tagliatelle se šunkou a vejcem",
-                "popis": " sypané parmezánem",
+                "nazev": "Špagety aglio olio peperoncino",
+                "popis": " rukola, parmezán",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový steak",
-                "popis": " karamelizovaná cibulka, pečená brambora se zakysanou smetanou",
+                "nazev": "Kuřecí gyros",
+                "popis": " pečené bramborové plátky, tzatziki",
                 "cena": 145
             },
             {
-                "nazev": "Smažená gouda",
+                "nazev": "Smažený hermelín s poličanem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Pečená  vepřová žebra",
-                "popis": " salát coleslaw, rozpečený chléb",
-                "cena": 180
+                "nazev": "Fish and chips",
+                "popis": " citronová majonéza, jablečný ocet  ",
+                "cena": 170
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - kuřecí kaldoun s masem a zeleninou"
+                "nazev": "Polévka - špenátová s vajíčkem a bramborem"
             },
             {
-                "nazev": "Vepřová játra na roštu",
-                "popis": " opékané brambory, tatarka",
+                "nazev": "Hamburská vepřová kýta",
+                "popis": " houskový knedlík",
                 "cena": 140
             },
             {
-                "nazev": "Hovězí znojemská pečeně",
-                "popis": " jasmínová rýže s pažitkou  ",
+                "nazev": "Hovězí kostky na slanině a česneku",
+                "popis": " šťouchané brambory s cibulkou",
                 "cena": 145
             },
             {
-                "nazev": "Smažená gouda",
+                "nazev": "Smažený hermelín s poličanem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Pečená  vepřová žebra",
-                "popis": " salát coleslaw, rozpečený chléb",
-                "cena": 180
+                "nazev": "Fish and chips",
+                "popis": " citronová majonéza, jablečný ocet  ",
+                "cena": 170
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka z českého paličáku"
+                "nazev": "Polévka -  jarní zeleninová"
             },
             {
-                "nazev": "Domácí žemlovka",
+                "nazev": "Povidlové taštičky s mákem a máslem",
                 "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Smažený vepřový řízek v pivním těstíčku",
-                "popis": " mačkané brambory s cibulkou",
+                "nazev": "Kuřecí řízek v cornflakes",
+                "popis": " bramborová kaše, salát z červeného zelí",
                 "cena": 145
             },
             {
-                "nazev": "Smažená gouda",
+                "nazev": "Smažený hermelín s poličanem",
                 "popis": " hranolky, domácí tatarka",
-                "cena": 150
+                "cena": 145
             },
             {
-                "nazev": "Pečená  vepřová žebra",
-                "popis": " salát coleslaw, rozpečený chléb",
-                "cena": 180
+                "nazev": "Fish and chips",
+                "popis": " citronová majonéza, jablečný ocet  ",
+                "cena": 170
             }
         ]
     }
