@@ -39,6 +39,7 @@ const openHours = {
     0: { morning: [nedele[0].split(' - ')[0], nedele[0].split(' - ')[1]],
         afternoon: [nedele[1].split(' - ')[0], nedele[1].split(' - ')[1]] }
 }
+
 function getOpenHours(day){
     var day = document.getElementById(day);
     if (day.classList.contains('closed')) return ['NaN - NaN', 'NaN - NaN'];
@@ -51,7 +52,23 @@ function isOpen(){
     var now = getCurrentTime();
     var daynum = new Date().getDay();
     var todayOpenHours = openHours[daynum];
-    var tommorowOpenHours = openHours[(daynum == 6)? 0 : daynum + 1];
+    // find next open day and get its index NOT today
+    var numOfClosedDays = 0;
+    var nextOpenDay = daynum;
+    while (numOfClosedDays < 7){
+        nextOpenDay = (nextOpenDay == 6) ? 0 : nextOpenDay + 1;
+        if (openHours[nextOpenDay].morning[0] != "NaN") break;
+        numOfClosedDays++;
+    }
+    if (numOfClosedDays > 6){
+        textContainer.innerHTML = 'Tento týden máme zavřeno.';
+        textContainer.style.color = 'rgb(251, 102, 122)';
+        return;
+    }
+
+    var dayIndexToName = {0: "v neděli", 1: "v pondělí", 2: "v úterý", 3: "ve středu", 4: "ve čtvrtek", 5: "v pátek", 6: "v sobotu"};
+    var tommorowOpenHours = openHours[nextOpenDay]
+
     if (inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) || inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.afternoon[0]), convertToSeconds(todayOpenHours.afternoon[1]))){
         textContainer.innerHTML = 'Otevřeno do ' + (inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) ? todayOpenHours.morning[1] : todayOpenHours.afternoon[1]);
         textContainer.style.color = 'lime';
@@ -62,8 +79,13 @@ function isOpen(){
         textContainer.style.color = '#FB667A';
         return;
     }
+    else if (todayOpenHours.morning[0] == todayOpenHours.afternoon[0] && !inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) && inRange(convertToSeconds(now), convertToSeconds(now), convertToSeconds(todayOpenHours.afternoon[1]))){
+        textContainer.innerHTML = 'Zavřeno, otevřeno dnes od ' + todayOpenHours.afternoon[0];
+        textContainer.style.color = '#FB667A';
+        return;
+    }
     else {
-        textContainer.innerHTML = 'Zavřeno, otevřeno od ' + tommorowOpenHours.morning[0];
+        textContainer.innerHTML = `Zavřeno, otevřeno ${dayIndexToName[nextOpenDay]} od ` + tommorowOpenHours.morning[0];
         textContainer.style.color = '#FB667A';
         return;
     }
