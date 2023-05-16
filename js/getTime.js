@@ -73,19 +73,22 @@ function isOpen(){
         textContainer.innerHTML = 'Otevřeno do ' + (inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) ? todayOpenHours.morning[1] : todayOpenHours.afternoon[1]);
         textContainer.style.color = 'lime';
         return;
-    } // todayOpenHours.morning[0] != todayOpenHours.afternoon[0] kontroluji, protože pokud ten den není polední pauza, tak se to zobrazuje jako 8 - 16, 8 - 16
-    else if (todayOpenHours.morning[0] != todayOpenHours.afternoon[0] && !inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) && inRange(convertToSeconds(now), convertToSeconds(now), convertToSeconds(todayOpenHours.afternoon[1]))){
+    }
+    // polední pauza
+    if (inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[1]), convertToSeconds(todayOpenHours.afternoon[0]))){
         textContainer.innerHTML = 'Polední pauza, otevřeno od ' + todayOpenHours.afternoon[0];
         textContainer.style.color = '#FB667A';
         return;
     }
-    else if (todayOpenHours.morning[0] == todayOpenHours.afternoon[0] && !inRange(convertToSeconds(now), convertToSeconds(todayOpenHours.morning[0]), convertToSeconds(todayOpenHours.morning[1])) && inRange(convertToSeconds(now), convertToSeconds(now), convertToSeconds(todayOpenHours.afternoon[1]))){
-        textContainer.innerHTML = 'Zavřeno, otevřeno dnes od ' + todayOpenHours.afternoon[0];
+    // dnes před otevřením
+    if (convertToSeconds(now) < convertToSeconds(todayOpenHours.morning[0])){
+        textContainer.innerHTML = 'Zavřeno, dnes otevřeno od ' + todayOpenHours.morning[0];
         textContainer.style.color = '#FB667A';
         return;
     }
-    else {
-        textContainer.innerHTML = `Zavřeno, otevřeno ${dayIndexToName[nextOpenDay]} od ` + tommorowOpenHours.morning[0];
+    // dnes po zavření, příští otevření
+    if (convertToSeconds(now) > convertToSeconds(todayOpenHours.afternoon[1])){
+        textContainer.innerHTML = 'Zavřeno, otevřeno ' + dayIndexToName[nextOpenDay] + ' od ' + tommorowOpenHours.morning[0];
         textContainer.style.color = '#FB667A';
         return;
     }
