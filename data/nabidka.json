@@ -8,42 +8,42 @@
     "Napoje": [
         {
             "nazev": "Bernard 11°",
-            "cena": 35,
+            "cena": 38,
             "mnozstvi": "0.5",
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Bernard 11°",
-            "cena": 21,
+            "cena": 23,
             "mnozstvi": 0.3,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Bernard 10°",
-            "cena": 30,
+            "cena": 33,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Bernard 10°",
-            "cena": 18,
+            "cena": 20,
             "mnozstvi": 0.3,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Nealko pivo",
-            "cena": 40,
+            "cena": 45,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Nealko pivo ochucené",
-            "cena": 40,
+            "cena": 45,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "pivo"
@@ -57,63 +57,63 @@
         },
         {
             "nazev": "Točená limonáda",
-            "cena": 30,
+            "cena": 35,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "limonády"
         },
         {
             "nazev": "Točená limonáda",
-            "cena": 20,
+            "cena": 25,
             "mnozstvi": 0.3,
             "jednotka": "l",
             "typ": "limonády"
         },
         {
             "nazev": "Coca-Cola",
-            "cena": 40,
+            "cena": 45,
             "mnozstvi": 0.33,
             "jednotka": "l",
             "typ": "nealko"
         },
         {
             "nazev": "Sprite",
-            "cena": 40,
+            "cena": 45,
             "mnozstvi": 0.33,
             "jednotka": "l",
             "typ": "nealko"
         },
         {
             "nazev": "Fanta",
-            "cena": 40,
+            "cena": 45,
             "mnozstvi": 0.33,
             "jednotka": "l",
             "typ": "nealko"
         },
         {
             "nazev": "Cappy",
-            "cena": 40,
+            "cena": 45,
             "mnozstvi": 0.25,
             "jednotka": "l",
             "typ": "nealko"
         },
         {
             "nazev": "Tonic",
-            "cena": 40,
+            "cena": 45,
             "mnozstvi": 0.25,
             "jednotka": "l",
             "typ": "nealko"
         },
         {
             "nazev": "Tonic ginger",
-            "cena": 40,
+            "cena": 45,
             "mnozstvi": 0.25,
             "jednotka": "l",
             "typ": "nealko"
         },
         {
             "nazev": "Ice tea",
-            "cena": 40,
+            "cena": 45,
             "mnozstvi": 0.25,
             "jednotka": "l",
             "typ": "nealko"
@@ -127,21 +127,21 @@
         },
         {
             "nazev": "Džbán s vodou",
-            "cena": 60,
+            "cena": 30,
             "mnozstvi": 1,
             "jednotka": "l",
             "typ": "nealko"
         },
         {
             "nazev": "Monster energy",
-            "cena": 50,
+            "cena": 60,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "nealko"
         },
         {
             "nazev": "Domácí limonáda",
-            "cena": 60,
+            "cena": 75,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "nealko"
@@ -155,7 +155,7 @@
         },
         {
             "nazev": "Espresso",
-            "cena":40,
+            "cena":45,
             "mnozstvi": 1,
             "jednotka": "ks",
             "typ": "teplé nápoje"
@@ -169,7 +169,7 @@
         },
         {
             "nazev": "Vídeňská káva",
-            "cena": 55,
+            "cena": 65,
             "mnozstvi": 1,
             "jednotka": "ks",
             "typ": "teplé nápoje"
@@ -218,21 +218,21 @@
         },
         {
             "nazev": "Víno bílé, červené",
-            "cena": 42,
+            "cena": 48,
             "mnozstvi": 0.2,
             "jednotka": "l",
             "typ": "vína"
         },
         {
             "nazev": "Prosecco",
-            "cena": 250,
+            "cena": 280,
             "mnozstvi": 0.75,
             "jednotka": "l",
             "typ": "vína"
         },
         {
             "nazev": "Sekt",
-            "cena": 280,
+            "cena": 299,
             "mnozstvi": 0.7,
             "jednotka": "l",
             "typ": "vína"
@@ -281,21 +281,21 @@
         },
         {
             "nazev": "Fernet, citrus",
-            "cena": 40, 
+            "cena": 45, 
             "mnozstvi": 0.04,
             "jednotka": "l",
             "typ": "destiláty"
         },
         {
             "nazev": "Griotka",
-            "cena": 40, 
+            "cena": 45, 
             "mnozstvi": 0.04,
             "jednotka": "l",
             "typ": "destiláty"
         },
         {
             "nazev": "Vaječný likér",
-            "cena": 40, 
+            "cena": 45, 
             "mnozstvi": 0.04,
             "jednotka": "l",
             "typ": "destiláty"
@@ -309,21 +309,21 @@
         },
         {
             "nazev": "Jagermeister",
-            "cena": 50, 
+            "cena": 55, 
             "mnozstvi": 0.04,
             "jednotka": "l",
             "typ": "destiláty"
         },
         {
             "nazev": "Republica",
-            "cena": 50, 
+            "cena": 55, 
             "mnozstvi": 0.04,
             "jednotka": "l",
             "typ": "destiláty"
         },
         {
             "nazev": "Beefeater",
-            "cena": 50, 
+            "cena": 55, 
             "mnozstvi": 0.04,
             "jednotka": "l",
             "typ": "destiláty"
@@ -359,6 +359,47 @@
 
     ],
     "Deserty": [
-        
+        {
+            "nazev": "Brambůrky",
+            "cena": 38, 
+            "mnozstvi": 1,
+            "jednotka": "ks",
+            "typ": "deserty"
+        },
+        {
+            "nazev": "Tyčinky",
+            "cena": 38, 
+            "mnozstvi": 1,
+            "jednotka": "ks",
+            "typ": "deserty"
+        },
+        {
+            "nazev": "Oříšky",
+            "cena": 38, 
+            "mnozstvi": 1,
+            "jednotka": "ks",
+            "typ": "deserty"
+        },
+        {
+            "nazev": "Křupky",
+            "cena": 35, 
+            "mnozstvi": 1,
+            "jednotka": "ks",
+            "typ": "deserty"
+        },
+        {
+            "nazev": "Mandle",
+            "cena": 43, 
+            "mnozstvi": 1,
+            "jednotka": "ks",
+            "typ": "deserty"
+        },
+        {
+            "nazev": "Tatranka",
+            "cena": 15, 
+            "mnozstvi": 1,
+            "jednotka": "ks",
+            "typ": "deserty"
+        }
     ]
 }
