@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 15,
+        "den": 29,
         "mesic": 5,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka se šunkou, sýrem a krutony"
+                "nazev": "Polévka - čočková s uzeninou "
             },
             {
-                "nazev": "Čočka na kyselo s opečeným kabanosem",
-                "popis": " cibulka, okurek, chléb",
+                "nazev": "Masové rizoto po srbsku sypané sýrem",
+                "popis": " okurek",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí steak",
-                "popis": " omáčka z modrého sýra, krokety",
+                "nazev": "Vepřová plec na kmíně",
+                "popis": " krokety",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažená gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             }
@@ -29,108 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - frankfurtská "
+                "nazev": "Polévka - z pečeného květáku s římským kmínem"
             },
             {
-                "nazev": "Bramborové knedlíky plněné uzeným masem",
-                "popis": " tuřanské zelí, cibulka",
+                "nazev": "Trhnané vepřové maso ",
+                "popis": " česnekový dip",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová plec po farmářsku",
-                "popis": " houskový knedlík",
+                "nazev": "Plněný paprikový lusk",
+                "popis": " rajská omáčka, houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažená gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže ",
-                "cena": 179
+                "nazev": "Tortilla s kuřecím masem a zeleninou",
+                "popis": " dip, salát coleslaw",
+                "cena": 165
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - mrkvový krém s kokosovým mlékem"
+                "nazev": "Polévka - dršťková"
             },
             {
-                "nazev": "Drůbeží játra na cibulce a majoránce",
-                "popis": " dušená rýže",
+                "nazev": "Kuře ala kachna",
+                "popis": " červené zelí, bramborový knedlík",
                 "cena": 140
             },
             {
-                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
-                "popis": " šťouchané brambory",
+                "nazev": "Vepřová líčka na kořenové zelenině",
+                "popis": " bramborové pyré",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažená gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "",
-                "popis": "",
-                "cena": 179
+                "nazev": "Tortilla s kuřecím masem a zeleninou",
+                "popis": " dip, salát coleslaw",
+                "cena": 165
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - květáková s vejcem "
+                "nazev": "Polévka - zeleninová"
             },
             {
-                "nazev": "Zapečené brambory s vepřovým masem",
-                "popis": " slanina, cibule, česnek, smetana",
+                "nazev": "Mexické fazole chilli",
+                "popis": " pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Pečená krkovička na divoko",
-                "popis": " krupeto",
+                "nazev": "Kotleta na grilu",
+                "popis": " zelené fazolky se slaninou, pečená brambora",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažená gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
-                "cena": 179
+                "nazev": "Tortilla s kuřecím masem a zeleninou",
+                "popis": " dip, salát coleslaw",
+                "cena": 165
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - gulášová "
+                "nazev": "Polévka - kuřecí vývar s fritátovými nudlemi"
             },
             {
-                "nazev": "Trhanec s lesním ovocem",
-                "popis": " tvarohem a zakysanou smetanou",
+                "nazev": "Dukátové buchtičky s vanilkovým krémem",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Smažená kotleta s česnekem",
-                "popis": " klasický bramborový salát",
+                "nazev": "Vepřoví rarášci",
+                "popis": " šťouchané brambory s cibulkou",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažená gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
-                "cena": 179
+                "nazev": "Tortilla s kuřecím masem a zeleninou",
+                "popis": " dip, salát coleslaw",
+                "cena": 165
             }
         ]
     }
