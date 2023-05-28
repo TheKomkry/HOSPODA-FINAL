@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 22,
+        "den": 29,
         "mesic": 5,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - kmínová s vejcem a krutony"
+                "nazev": "Polévka - čočková s uzeninou "
             },
             {
-                "nazev": "Halušky s opečenou slaninou a špekem",
-                "popis": " kysané zeli, smažená cibulka",
+                "nazev": "Masové rizoto po srbsku sypané sýrem",
+                "popis": " okurek",
                 "cena": 140
             },
             {
-                "nazev": "Filované kuřecí prso na paprice",
-                "popis": " houskový knedlík",
+                "nazev": "Vepřová plec na kmíně",
+                "popis": " krokety",
                 "cena": 145
             },
             {
-                "nazev": "Vepřová játra na roštu",
-                "popis": " opékané brambory, domáci tatarka",
+                "nazev": "Smažená gouda se šunkou",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             }
         ]
@@ -29,109 +29,109 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - fazolová s klobásou "
+                "nazev": "Polévka - z pečeného květáku s římským kmínem"
             },
             {
-                "nazev": "Vepřový flamendr se zeleniou",
-                "popis": " bramboráčky",
+                "nazev": "Trhnané vepřové maso ",
+                "popis": " česnekový dip",
                 "cena": 140
             },
             {
-                "nazev": "Sekaný řízek s chedarem a konfitovanou šalotkou",
-                "popis": " mačkané brambory",
+                "nazev": "Plněný paprikový lusk",
+                "popis": " rajská omáčka, houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Vepřová játra na roštu",
-                "popis": " opékané brambory, domáci tatarka",
+                "nazev": "Smažená gouda se šunkou",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " zelný salát, čerstvý chléb",
-                "cena": 179
+                "nazev": "Tortilla s kuřecím masem a zeleninou",
+                "popis": " dip, salát coleslaw",
+                "cena": 165
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - kapustová s bramborem"
+                "nazev": "Polévka - dršťková"
             },
             {
-                "nazev": "Gnochi s kuřecím masem",
-                "popis": " smetanový špenát, parmezán",
+                "nazev": "Kuře ala kachna",
+                "popis": " červené zelí, bramborový knedlík",
                 "cena": 140
             },
             {
-                "nazev": "Steak z vepřové kotlety s česnekovou omáčkou",
-                "popis": " pečené bylinkové brambory",
+                "nazev": "Vepřová líčka na kořenové zelenině",
+                "popis": " bramborové pyré",
                 "cena": 145
             },
             {
-                "nazev": "Vepřová játra na roštu",
-                "popis": " opékané brambory, domáci tatarka",
+                "nazev": "Smažená gouda se šunkou",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " zelný salát, čerstvý chléb",
-                "cena": 179
+                "nazev": "Tortilla s kuřecím masem a zeleninou",
+                "popis": " dip, salát coleslaw",
+                "cena": 165
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - minestrone "
+                "nazev": "Polévka - zeleninová"
             },
             {
-                "nazev": "Kuřecí kung-pao",
-                "popis": " jasmínová rýže s hráškem",
+                "nazev": "Mexické fazole chilli",
+                "popis": " pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Maso dvou barev",
-                "popis": " slaninová omáčka, steakové hranolky",
+                "nazev": "Kotleta na grilu",
+                "popis": " zelené fazolky se slaninou, pečená brambora",
                 "cena": 145
             },
             {
-                "nazev": "Vepřová játra na roštu",
-                "popis": " opékané brambory, domáci tatarka",
+                "nazev": "Smažená gouda se šunkou",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " zelný salát, čerstvý chléb",
-                "cena": 179
+                "nazev": "Tortilla s kuřecím masem a zeleninou",
+                "popis": " dip, salát coleslaw",
+                "cena": 165
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - zabíjačková se zeleninou a kroupami "
+                "nazev": "Polévka - kuřecí vývar s fritátovými nudlemi"
             },
             {
-                "nazev": "Bramborové taštičky s povidlím",
-                "popis": " mák, máslo, cukr",
+                "nazev": "Dukátové buchtičky s vanilkovým krémem",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Klasický kuřecí řízek s bramborovou kaší",
-                "popis": " okurek",
+                "nazev": "Vepřoví rarášci",
+                "popis": " šťouchané brambory s cibulkou",
                 "cena": 145
             },
             {
-                "nazev": "Vepřová játra na roštu",
-                "popis": " opékané brambory, domáci tatarka",
+                "nazev": "Smažená gouda se šunkou",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 150
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " zelný salát, čerstvý chléb",
-                "cena": 179
+                "nazev": "Tortilla s kuřecím masem a zeleninou",
+                "popis": " dip, salát coleslaw",
+                "cena": 165
             }
         ]
     }
-}	
+}
