@@ -13,7 +13,7 @@ function loadMenu(){
 }
 function writeMenu(data){
     load(data.Jidla, "jidla");
-    load(data.Vikend, "vikendovaNabidka");
+    load(data.Vikend, "vikend");
     load(data.Napoje, "napoje");
     load(data.Deserty, "deserty");
 
