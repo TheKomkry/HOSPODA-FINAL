@@ -47,7 +47,12 @@ function load(data, type){
         // li > p
         let typePopisElem = document.createElement("p");
         if (element.cena != undefined){
-            typePopisElem.innerHTML = `${element.cena} Kč`;
+            if (element.mnozstvi != undefined && element.jednotka != undefined) {
+                typePopisElem.innerHTML = `${element.mnozstvi}${element.jednotka} - ${element.cena} Kč`;
+            }
+            else{
+                typePopisElem.innerHTML = `${element.cena} Kč`;
+            }
         }
         // create the elements
         prevItemContainer.appendChild(typePopisElem);
