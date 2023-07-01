@@ -5,6 +5,12 @@
             "popis": "Děkujeme za pochopení"
         }
     ],
+    "Vikend": [
+        {
+            "nazev": "Polévka - Fazolová s domácí slaninou",
+            "cena": 55
+        },
+    ],
     "Napoje": [
         {
             "nazev": "Bernard 11°",
