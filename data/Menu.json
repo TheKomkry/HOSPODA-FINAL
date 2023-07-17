@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 10,
+        "den": 17,
         "mesic": 7,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková s uzeninou "
+                "nazev": "Polévka - rajská s těstovinou "
             },
             {
-                "nazev": "Buřtguláš s bramborem a cibulkou",
-                "popis": " pečivo ",
+                "nazev": "Mexické fazole s domácí klobásou",
+                "popis": " cibulka, pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Pečená vepřová krkovička na česneku a pivu",
-                "popis": " jasmínová rýže",
+                "nazev": "Masový flamendr se zeleninou",
+                "popis": " jasmínová rýže s hráškem",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie, vařené brambory s máslem",
-                "popis": " domácí tatarka",
+                "nazev": "Smažený salám gothaj",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - květáková s krutony"
+                "nazev": "Polévka - gulášová "
             },
             {
-                "nazev": "Boloňské špagety sypané parmezánem",
-                "popis": "",
+                "nazev": "Bramborové knedlíky s uzeným masem",
+                "popis": " tuřanské kysané zelí, cibulka",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " pečené bramborové plátky, zelný salát, dip",
+                "nazev": "Znojemská hovězí pečeně",
+                "popis": " houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený salám gothaj",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát z červeného zelí, chléb",
+                "nazev": "Španělský páček",
+                "popis": " jasmínová rýže ",
                 "cena": 189
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - frankfurtská"
+                "nazev": "Polévka - minestrone "
             },
             {
-                "nazev": "Domácí sekaná",
-                "popis": "bramborová kaše, okurek",
+                "nazev": "Tagliatelle s kuřecím masem a rajčaty",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Pečený bůček",
-                "popis": " kapusta, bramborový knedlík",
+                "nazev": "Pečené kuřecí stehno ala bažant",
+                "popis": " bramborová kaše",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený salám gothaj",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát z červeného zelí, chléb",
+                "nazev": "Španělský páček",
+                "popis": " jasmínová rýže",
                 "cena": 189
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - cibulačka se smaženým hráškem"
+                "nazev": "Polévka - zeleninová krémová s krutony"
             },
             {
-                "nazev": "Kuřecí prso capresse",
-                "popis": "šťouchané brambory, BBQ omáčka",
+                "nazev": "Trhané vepřové maso",
+                "popis": " hranolky, tzatziki",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová kýta na smetaně",
-                "popis": " houskový knedlík",
+                "nazev": "Hovězí maso po burgundsku",
+                "popis": " mačkané brambory s cibulkou",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený salám gothaj",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát z červeného zelí, chléb",
+                "nazev": "Španělský páček",
+                "popis": " jasmínová rýže",
                 "cena": 189
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - masový vývar se zeleninou a nudlemi"
+                "nazev": "Polévka - hrachová s uzeninou"
             },
             {
-                "nazev": "Kynuté ovocné knedlíky",
-                "popis": "cukr, máslo, kakao",
+                "nazev": "Povidlové taštičky se zakysanou smetanou a máslem",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Obrácený vepřový řízek",
-                "popis": " lehký bramborový salát",
+                "nazev": "Vepřový česnekový řízek",
+                "popis": " vídeňský bramborový  salát",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený salám gothaj",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát z červeného zelí, chléb",
+                "nazev": "Španělský páček",
+                "popis": " jasmínová rýže",
                 "cena": 189
             }
         ]
