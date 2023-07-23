@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 17,
+        "den": 24,
         "mesic": 7,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - rajská s těstovinou "
+                "nazev": "Polévka - krupicová s vejcem a těstovinou"
             },
             {
-                "nazev": "Mexické fazole s domácí klobásou",
-                "popis": " cibulka, pečivo",
+                "nazev": "Rizoto s kuřecím masem a zeleninou",
+                "popis": " sýr, okurek",
                 "cena": 140
             },
             {
-                "nazev": "Masový flamendr se zeleninou",
-                "popis": " jasmínová rýže s hráškem",
+                "nazev": "Vepřová plec na paprice",
+                "popis": " houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažený salám gothaj",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - gulášová "
+                "nazev": "Polévka - babiččina bramboračka"
             },
             {
-                "nazev": "Bramborové knedlíky s uzeným masem",
-                "popis": " tuřanské kysané zelí, cibulka",
+                "nazev": "Zeleninové lečo s klobásou a vejcem",
+                "popis": " pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Znojemská hovězí pečeně",
-                "popis": " houskový knedlík",
+                "nazev": "Kuřecí špíz se zeleninou a slaninou",
+                "popis": " americké brambory, dip",
                 "cena": 145
             },
             {
-                "nazev": "Smažený salám gothaj",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže ",
+                "nazev": "Vepřová panenka na grilu",
+                "popis": " zeleninový salát s hořčičnou zálivkou ",
                 "cena": 189
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - minestrone "
+                "nazev": "Polévka - koprová s hřiby "
             },
             {
-                "nazev": "Tagliatelle s kuřecím masem a rajčaty",
-                "popis": "",
+                "nazev": "Gnocchi s kuřecím masem",
+                "popis": " smetanový špenát, parmezán",
                 "cena": 140
             },
             {
-                "nazev": "Pečené kuřecí stehno ala bažant",
-                "popis": " bramborová kaše",
+                "nazev": "Pečená krkovička",
+                "popis": " červené zelí se špekem, bramborový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažený salám gothaj",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
+                "nazev": "Vepřová panenka na grilu",
+                "popis": " zeleninový salát s hořčičnou zálivkou",
                 "cena": 189
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninová krémová s krutony"
+                "nazev": "Polévka - bílá zelňačka s uzeninou "
             },
             {
-                "nazev": "Trhané vepřové maso",
-                "popis": " hranolky, tzatziki",
+                "nazev": "Vepřové kostky na slanině a česneku",
+                "popis": " pečené bramborové plátky",
                 "cena": 140
             },
             {
-                "nazev": "Hovězí maso po burgundsku",
-                "popis": " mačkané brambory s cibulkou",
+                "nazev": "Holandská sekaná",
+                "popis": " bramborová kaše, okurkový salát",
                 "cena": 145
             },
             {
-                "nazev": "Smažený salám gothaj",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
+                "nazev": "Vepřová panenka na grilu",
+                "popis": " zeleninový salát s hořčičnou zálivkou",
                 "cena": 189
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hrachová s uzeninou"
+                "nazev": "Polévka - - drůbeží vývar se zeleninou a nudlemi"
             },
             {
-                "nazev": "Povidlové taštičky se zakysanou smetanou a máslem",
-                "popis": "",
+                "nazev": "Bramborové šulánky s mákem",
+                "popis": " cukr, máslo",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový česnekový řízek",
-                "popis": " vídeňský bramborový  salát",
+                "nazev": "Smažený kuřecí řízek",
+                "popis": " nové brambory s máslem a pažitkou, okurek",
                 "cena": 145
             },
             {
-                "nazev": "Smažený salám gothaj",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
+                "nazev": "Vepřová panenka na grilu",
+                "popis": " zeleninový salát s hořčičnou zálivkou",
                 "cena": 189
             }
         ]
