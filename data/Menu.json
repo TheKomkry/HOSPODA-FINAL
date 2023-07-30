@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 24,
+        "den": 31,
         "mesic": 7,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - krupicová s vejcem a těstovinou"
+                "nazev": "Polévka - tomatová s bazalkovým pestem"
             },
             {
-                "nazev": "Rizoto s kuřecím masem a zeleninou",
-                "popis": " sýr, okurek",
+                "nazev": "Bílé fazole na kyselo",
+                "popis": " pečená klobása, cibulka, pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová plec na paprice",
-                "popis": " houskový knedlík",
+                "nazev": "Kotleta na grilu",
+                "popis": " zapečená poličanem a hermelínem , americké brambory",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažená gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka"
+                "nazev": "Polévka - kapustová se slaninou"
             },
             {
-                "nazev": "Zeleninové lečo s klobásou a vejcem",
-                "popis": " pečivo",
+                "nazev": "Masové kuličky",
+                "popis": " rajská omáčka, houskový knedlík",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí špíz se zeleninou a slaninou",
-                "popis": " americké brambory, dip",
+                "nazev": "Hovězí štavnatá pečeně",
+                "popis": " mačkané brambory s cibulkou",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažená gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Vepřová panenka na grilu",
-                "popis": " zeleninový salát s hořčičnou zálivkou ",
+                "nazev": "Hovězí líčka na červeném víně a kořenové zelenině",
+                "popis": " bramborové pyré",
                 "cena": 189
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - koprová s hřiby "
+                "nazev": "Polévka - dršťková z hlívy ústřičné"
             },
             {
-                "nazev": "Gnocchi s kuřecím masem",
-                "popis": " smetanový špenát, parmezán",
+                "nazev": "Domácí srapačky se zelím",
+                "popis": " anglickou slaninou a restovaným špekem",
                 "cena": 140
             },
             {
-                "nazev": "Pečená krkovička",
-                "popis": " červené zelí se špekem, bramborový knedlík",
+                "nazev": "Vepřová plec po selsku",
+                "popis": " pečené brambory s česnekem",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažená gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Vepřová panenka na grilu",
-                "popis": " zeleninový salát s hořčičnou zálivkou",
+                "nazev": "Hovězí líčka na červeném víně a kořenové zelenině",
+                "popis": " bramborové pyré",
                 "cena": 189
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - bílá zelňačka s uzeninou "
+                "nazev": "Polévka - mexická"
             },
             {
-                "nazev": "Vepřové kostky na slanině a česneku",
-                "popis": " pečené bramborové plátky",
+                "nazev": "Gnocchi s hřibkovou omáčkou",
+                "popis": " kukola, parmezán",
                 "cena": 140
             },
             {
-                "nazev": "Holandská sekaná",
-                "popis": " bramborová kaše, sterilovaný okurek",
+                "nazev": "Kuřecí kung-pao s wok zeleninou",
+                "popis": " jasmínová rýže",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažená gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Vepřová panenka na grilu",
-                "popis": " zeleninový salát s hořčičnou zálivkou",
+                "nazev": "Hovězí líčka na červeném víně a kořenové zelenině",
+                "popis": " bramborové pyré",
                 "cena": 189
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - - drůbeží vývar se zeleninou a nudlemi"
+                "nazev": "Polévka - hovězí vývar s masem, zeleninou a nudlemi"
             },
             {
-                "nazev": "Bramborové šulánky s mákem",
-                "popis": " cukr, máslo",
+                "nazev": "Dukátové buchtičky s vanilkovým krémem",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Smažený kuřecí řízek",
-                "popis": " nové brambory s máslem a pažitkou, okurek",
+                "nazev": "Cordon bleu",
+                "popis": " bramborová kaše  ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažená gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Vepřová panenka na grilu",
-                "popis": " zeleninový salát s hořčičnou zálivkou",
+                "nazev": "Hovězí líčka na červeném víně a kořenové zelenině",
+                "popis": " bramborové pyré ",
                 "cena": 189
             }
         ]
