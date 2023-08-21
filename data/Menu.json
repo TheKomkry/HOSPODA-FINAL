@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 14,
+        "den": 21,
         "mesic": 8,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - kmínová s vejcem a bramborem "
+                "nazev": "Polévka - čočková s uzeninou"
             },
             {
-                "nazev": "Farmářské fazole s klobásou",
-                "popis": " smaženou cibulkou, pečivo",
+                "nazev": "Špagety bolognese sypané parmezánem",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí nudličky na žampionech a smetaně",
+                "nazev": "Vepřový flamendr",
                 "popis": " jasmínová rýže",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený sýr gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
@@ -29,108 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - valašská kyselice"
+                "nazev": "Polévka - pórková s vejcem"
             },
             {
-                "nazev": "Pečené kuřecí stehno",
-                "popis": " slaninová omáčka, mačkané brambory",
+                "nazev": "Kuřecí stripsy",
+                "popis": " salát coleslaw, rozpečená bageta, dip",
                 "cena": 140
             },
             {
-                "nazev": "Hamburská vepřová pečeně",
+                "nazev": "Vepřová plec na paprice",
                 "popis": " houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený sýr gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Těstovinový salát se zeleninou a kuřecím masem ",
-                "popis": "",
-                "cena": 170
+                "nazev": "Zeleninový salát s grilovaným hermelínem",
+                "popis": " brusinky, opečený toust ",
+                "cena": 175
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - -  boršč se zakysanou smetanou"
+                "nazev": "Polévka - žampionový krém s bylinkovým olejem"
             },
             {
-                "nazev": "Francouzské brambory s vepřovým masem",
-                "popis": " okurek  ",
+                "nazev": "Kuřecí steak ",
+                "popis": " sýrová omáčka, pečené brambory",
                 "cena": 140
             },
             {
-                "nazev": "Hovězí po znojemsku",
-                "popis": " šťouchané brambory s jarní cibulkou",
+                "nazev": "Čevapčiči",
+                "popis": " vařené brambory, cibule, hořčice",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený sýr gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Sekaná svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč ",
-                "cena": 189
+                "nazev": "Zeleninový salát s grilovaným hermelínem",
+                "popis": " brusinky, opečený toust",
+                "cena": 175
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - špenátová s bramborem a vejcem "
+                "nazev": "Polévka - - cibulačka s krutony"
             },
             {
-                "nazev": "Drůbeží játra na cibulce",
-                "popis": " dušená rýže",
+                "nazev": "Plněné bramborové knedle uzeným masem",
+                "popis": " tuřanské zelí,             smažená cibulka",
                 "cena": 140
             },
             {
-                "nazev": "Trhané vepřové maso",
-                "popis": " pečené bramborové plátky,                        česnekovo - jogurtový dip",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " pepřová omáčka, mačkané brambory s cibulkou",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený sýr gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Sekaná svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč",
-                "cena": 189
+                "nazev": "Zeleninový salát s grilovaným hermelínem",
+                "popis": " brusinky, opečený toust",
+                "cena": 175
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - drůbeží vývar s masem a nudlemi "
+                "nazev": "Polévka - hovězí vývar s masem a zeleninou, tarhoňa "
             },
             {
-                "nazev": "Domácí žemlovka s jablky a tvarohem",
-                "popis": "",
+                "nazev": "Bramborové taštičky s povidlím",
+                "popis": " mák, máslo, cukr",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí řízek v cornflakes",
-                "popis": " bramborová kaše, čalamáda",
+                "nazev": "Obrácený vepřový řízek",
+                "popis": " vídeňský bramborový salát",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený sýr gouda se šunkou",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Sekaná svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč",
-                "cena": 189
+                "nazev": "Zeleninový salát s grilovaným hermelínem",
+                "popis": " brusinky, opečený toust",
+                "cena": 175
             }
         ]
     }
