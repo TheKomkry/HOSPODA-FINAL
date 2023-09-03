@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 28,
-        "mesic": 8,
+        "den": 4,
+        "mesic": 9,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - fazolová s klobásou"
+                "nazev": "Polévka -   česnekový krém s krutóny  "
             },
             {
-                "nazev": "Vepřové rizoto po srbsku",
-                "popis": " strouhaný sýr gouda, okurek",
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, vejce, okurek, chléb",
                 "cena": 140
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " sázené vejce, hranolky",
+                "nazev": "Vepřová kotleta po uhlířsku",
+                "popis": " americké brambory, dip",
                 "cena": 145
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -29,108 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - brokolicový krém"
+                "nazev": "Polévka -  zeleninová s krupicí a vejcem "
             },
             {
-                "nazev": "Tagliatelle  s kuřecím masem a špenátem",
-                "popis": " parmezán",
+                "nazev": "Boloňské špagety sypané sýrem",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Pečená krkovička na divoko",
-                "popis": " sterilované zelí, houskový knedlík",
+                "nazev": "Kuře ala kachna",
+                "popis": " červené zelí, bramborový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Řecký salát s feta sýrem",
-                "popis": " bageta",
-                "cena": 175
+                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
+                "popis": " mačkané brambory",
+                "cena": 189
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - gulášová"
+                "nazev": "Polévka - frankfurtská "
             },
             {
-                "nazev": "Kuřecí steak na máslové zelenině",
-                "popis": " tarhoňa",
+                "nazev": "Kuřecí roláda",
+                "popis": " šťouchané brambory s cibulkou",
                 "cena": 140
             },
             {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, hořčice, pečivo",
+                "nazev": "Plněný parikový lusk",
+                "popis": " rajská omáčka, houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Řecký salát s feta sýrem",
-                "popis": " bageta",
-                "cena": 175
+                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
+                "popis": " mačkané brambory",
+                "cena": 189
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - květáková s římským kmínem"
+                "nazev": "Polévka - minestrone "
             },
             {
-                "nazev": "Pečené kuřecí paličky",
-                "popis": " bramborové plátky, zelný salát",
+                "nazev": "Halušky s brynzou",
+                "popis": " anglickou slaninou a špekem",
                 "cena": 140
             },
             {
-                "nazev": "Hovězí kostky na hřibech",
-                "popis": " jasmínová rýže s pórkem",
+                "nazev": "Vepřový guláš po plzeňsku",
+                "popis": " bramboráčky",
                 "cena": 145
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Řecký salát s feta sýrem",
-                "popis": " bageta",
-                "cena": 175
+                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
+                "popis": " mačkané brambory",
+                "cena": 189
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - kuřecí kaldoun"
+                "nazev": "Polévka - kulajda"
             },
             {
-                "nazev": "Domácí kynuté knedlíky",
-                "popis": " zakysaná smetana, skořice, máslo",
+                "nazev": "Široké nudle s mákem",
+                "popis": " máslem a cukrem",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový řízek s česnekem a hořčicí",
-                "popis": " máslová bramborová kaše",
+                "nazev": "Smažený kuřecí řízek",
+                "popis": " bramborová kaše, okurek",
                 "cena": 145
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Řecký salát s feta sýrem",
-                "popis": " bageta",
-                "cena": 175
+                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
+                "popis": " mačkané brambory",
+                "cena": 189
             }
         ]
     }
