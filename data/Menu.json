@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 4,
-        "mesic": 9,
+        "den": 3,
+        "mesic": 7,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka -   česnekový krém s krutóny  "
+                "nazev": "Polévka - hráškový krém"
             },
             {
-                "nazev": "Čočka na kyselo",
-                "popis": " pečená klobása, vejce, okurek, chléb",
+                "nazev": "Burt guláš s cibulkou",
+                "popis": " chléb",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová kotleta po uhlířsku",
-                "popis": " americké brambory, dip",
+                "nazev": "Kuřecí nudličky",
+                "popis": " sýrová omáčka s žampiony, jasmínová rýže ",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s poličanem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
@@ -29,108 +29,88 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka -  zeleninová s krupicí a vejcem "
+                "nazev": "Polévka - francouzská s těstovinou"
             },
             {
-                "nazev": "Boloňské špagety sypané sýrem",
-                "popis": "",
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 140
             },
             {
-                "nazev": "Kuře ala kachna",
-                "popis": " červené zelí, bramborový knedlík",
+                "nazev": "Pečená krkovička na česneku",
+                "popis": " listový špenát, bramborový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s poličanem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
-            },
-            {
-                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
-                "popis": " mačkané brambory",
-                "cena": 189
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - frankfurtská "
+                "nazev": "Polévka - kapustová s bramborem"
             },
             {
-                "nazev": "Kuřecí roláda",
-                "popis": " šťouchané brambory s cibulkou",
+                "nazev": "Penne arabiata",
+                "popis": " parmezán",
                 "cena": 140
             },
             {
-                "nazev": "Plněný parikový lusk",
-                "popis": " rajská omáčka, houskový knedlík",
+                "nazev": "Kuřecí gyros",
+                "popis": " bramborové plátky, tzatziki ",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s poličanem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
-            },
-            {
-                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
-                "popis": " mačkané brambory",
-                "cena": 189
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - minestrone "
+                "nazev": "Polévka - bramborovo-celerový krém"
             },
             {
-                "nazev": "Halušky s brynzou",
-                "popis": " anglickou slaninou a špekem",
+                "nazev": "Kuřecí játra na cibulce",
+                "popis": " dušená rýže",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový guláš po plzeňsku",
-                "popis": " bramboráčky",
+                "nazev": "Hovězí stroganof",
+                "popis": " houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s poličanem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
-            },
-            {
-                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
-                "popis": " mačkané brambory",
-                "cena": 189
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - kulajda"
+                "nazev": "Polévka - uzená s kroupami"
             },
             {
-                "nazev": "Široké nudle s mákem",
-                "popis": " máslem a cukrem",
+                "nazev": "Domácí palačinky s povidlím a tvarohem",
+                "popis": " ",
                 "cena": 140
             },
             {
-                "nazev": "Smažený kuřecí řízek",
-                "popis": " bramborová kaše, okurek",
+                "nazev": "Kuřecí ondráš",
+                "popis": " zelný salátek",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s poličanem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 155
-            },
-            {
-                "nazev": "Hovězí ragů na červeném víně a kořenové zelenině",
-                "popis": " mačkané brambory",
-                "cena": 189
             }
         ]
     }
