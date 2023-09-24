@@ -1,116 +1,116 @@
 {
     "zacatekTydne": {
-        "den": 18,
+        "den": 25,
         "mesic": 9,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - rajská s těstovinou"
+                "nazev": "Polévka - krém z bílých fazolí s klobásou"
             },
             {
-                "nazev": "Farmářské fazole s domácí klobásou",
-                "popis": " cibulka, chléb",
+                "nazev": "Gnochi po uhlířsku sypané parmezánem",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Segedínský guláš",
-                "popis": " houskový knedlík",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " omáčka z modrého sýra, krokety",
                 "cena": 145
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
-                "cena": 160
+                "nazev": "Smažená tilápie",
+                "popis": " vařené brambory s máslem, citronová majonéza",
+                "cena": 155
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - bramborovopórkový krém s krutony"
+                "nazev": "Polévka - babiččina bramboračka"
             },
             {
-                "nazev": "Thajská kuřecí směs se zeleninou",
-                "popis": " jasmínová rýže",
+                "nazev": "Koprová omáčka",
+                "popis": " vařené vejce, houskový knedlík",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová plec na pivě a slanině",
-                "popis": " šťouchané brambory ",
+                "nazev": "Holandský řízek",
+                "popis": " šťouchané brambory s cibulkou, okurek",
                 "cena": 145
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
-                "cena": 160
+                "nazev": "Smažená tilápie",
+                "popis": " vařené brambory s máslem, citronová majonéza",
+                "cena": 155
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka se šunkou a vejcem"
+                "nazev": "Polévka - hrstková"
             },
             {
-                "nazev": "Zapečené těstoviny s kuřecím masem",
-                "popis": " brokolicí a sýrem, okurek",
+                "nazev": "Kuřecí rizoto se zeleninou a sýrem gouda",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Štěpánské hovězí pečeně",
-                "popis": " bramborové plátky s bylinkami",
+                "nazev": "Pomalu pečený bůček",
+                "popis": " červené zelí, bramborový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
-                "cena": 160
+                "nazev": "Smažená tilápie",
+                "popis": " vařené brambory s máslem, citronová majonéza",
+                "cena": 155
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - zelná s klobásou"
+                "nazev": "Polévka - cibulačka s krutony"
             },
             {
-                "nazev": "Cmunda po kaplicku s uzeným masem",
-                "popis": "",
+                "nazev": "Kotlíkový guláš s cibulkou",
+                "popis": " čerstvé pečivo",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí steak se šunkou",
-                "popis": " broskví a sýrem, hranolky, dip",
+                "nazev": "Vepřový steak se slaninou",
+                "popis": " zelenými fazolkami, pečené brambory",
                 "cena": 145
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
-                "cena": 160
+                "nazev": "Smažená tilápie",
+                "popis": " vařené brambory s máslem, citronová majonéza",
+                "cena": 155
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - kuřecí pikantní se zeleninou a nudlemi"
+                "nazev": "Polévka - hovězí vývar s masem a zeleninou"
             },
             {
-                "nazev": "Dukátové buchtičky s vanilkovým krémem",
-                "popis": "",
+                "nazev": "Bramborové taštičky plněné povidlím",
+                "popis": " zakysaná smetana",
                 "cena": 140
             },
             {
-                "nazev": "Kuřecí řízek v parmazánové strouhance",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Vepřový řízek v pivním těstíčku",
+                "popis": " bramborová kaše",
                 "cena": 145
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
-                "cena": 160
+                "nazev": "Smažená tilápie",
+                "popis": " vařené brambory s máslem, citronová majonéza",
+                "cena": 155
             }
         ]
     }
