@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 25,
-        "mesic": 9,
+        "den": 2,
+        "mesic": 10,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - krém z bílých fazolí s klobásou"
+                "nazev": "Polévka - kmínová s vejcem a opečeným chlebem"
             },
             {
-                "nazev": "Gnochi po uhlířsku sypané parmezánem",
-                "popis": "",
+                "nazev": "Jemně pikantní masová směs se zeleninou",
+                "popis": " dušená rýže s pórkem",
                 "cena": 140
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " omáčka z modrého sýra, krokety",
+                "nazev": "Filované kuřecí prso na paprice",
+                "popis": " houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -29,88 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka"
+                "nazev": "Polévka - chalupářská s bramborem"
             },
             {
-                "nazev": "Koprová omáčka",
-                "popis": " vařené vejce, houskový knedlík",
+                "nazev": "Pečená kuřecí křídla",
+                "popis": " zelný salát, rozpečený chléb",
                 "cena": 140
             },
             {
-                "nazev": "Holandský řízek",
-                "popis": " šťouchané brambory s cibulkou, okurek",
+                "nazev": "Pečená vepřová kýta na slanině",
+                "popis": " dušená kapusta, vařené brambory  ",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
+            },
+            {
+                "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
+                "popis": " bramborová kaše ",
+                "cena": 189
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - hrstková"
+                "nazev": "Polévka - gulášová"
             },
             {
-                "nazev": "Kuřecí rizoto se zeleninou a sýrem gouda",
+                "nazev": "Špagety carbonara sypané parmezánem",
                 "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Pomalu pečený bůček",
-                "popis": " červené zelí, bramborový knedlík",
+                "nazev": "Vepřové ražniči na plech",
+                "popis": " pečené brambory, česnekový dip",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
+            },
+            {
+                "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
+                "popis": " bramborová kaše",
+                "cena": 189
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - cibulačka s krutony"
+                "nazev": "Polévka - květáková krémová s opečeným toustem"
             },
             {
-                "nazev": "Kotlíkový guláš s cibulkou",
-                "popis": " čerstvé pečivo",
+                "nazev": "Francouzské brambory s vepřovým masem",
+                "popis": " sterilovaný okurek",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový steak se slaninou",
-                "popis": " zelenými fazolkami, pečené brambory",
+                "nazev": "Kladenská uzená pečeně",
+                "popis": " omáčka z čerstvého křenu, kynutý knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
+            },
+            {
+                "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
+                "popis": " bramborová kaše",
+                "cena": 189
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a zeleninou"
+                "nazev": "Polévka - uzená s kroupami"
             },
             {
-                "nazev": "Bramborové taštičky plněné povidlím",
-                "popis": " zakysaná smetana",
+                "nazev": "Domácí ovocné kynuté knedlíky se smaženou strouhankou",
+                "popis": "",
                 "cena": 140
             },
             {
-                "nazev": "Vepřový řízek v pivním těstíčku",
-                "popis": " bramborová kaše",
+                "nazev": "Vepřoví rarášci",
+                "popis": " šťouchané brambory s cibulkou, salátek",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
+            },
+            {
+                "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
+                "popis": " bramborová kaše",
+                "cena": 189
             }
         ]
     }
