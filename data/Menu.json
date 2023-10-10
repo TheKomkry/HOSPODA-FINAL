@@ -29,7 +29,7 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - frankfurtská s bramborem"
+                "nazev": "Polévka - pepřová"
             },
             {
                 "nazev": "Strapačky se zelím",
@@ -56,7 +56,7 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - brokolicový krém s krutony"
+                "nazev": "Polévka - pepřová"
             },
             {
                 "nazev": "Tagliatelle pomodoro s chorizem",
@@ -64,7 +64,7 @@
                 "cena": 140
             },
             {
-                "nazev": "Hovězí šťavnatá pečeně",
+                "nazev": "Vepřová šťavnatá pečeně",
                 "popis": " jasmínová rýže",
                 "cena": 145
             },
