@@ -29,7 +29,7 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - pepřová"
+                "nazev": "Polévka - frankfurtská s bramborem"
             },
             {
                 "nazev": "Strapačky se zelím",
@@ -48,7 +48,7 @@
             },
             {
                 "nazev": "Vepřová panenka na grilu",
-                "popis": " farmářské brambory, slaninová omáčka ",
+                "popis": " farmářské brambory, pepřová omáčka ",
                 "cena": 189
             }
         ]
@@ -56,7 +56,7 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - pepřová"
+                "nazev": "Polévka - brokolicový krém s krutony""
             },
             {
                 "nazev": "Tagliatelle pomodoro s chorizem",
@@ -75,7 +75,7 @@
             },
             {
                 "nazev": "Vepřová panenka na grilu",
-                "popis": " farmářské brambory, slaninová omáčka",
+                "popis": " farmářské brambory, pepřová omáčka",
                 "cena": 189
             }
         ]
