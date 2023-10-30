@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 23,
+        "den": 30,
         "mesic": 10,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková s klobásou   "
+                "nazev": "Polévka - špenátová se smaženým hráškem "
             },
             {
-                "nazev": "Masové rizoto po srbsku sypané sýrem gouda",
-                "popis": "",
+                "nazev": "Buřtguláš s cibulkou",
+                "popis": " pečivo",
                 "cena": 145
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " pečené brambory, slaninová omáčka",
+                "nazev": "Vepřová kotleta po sedlácku",
+                "popis": " opékané brambory",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -29,103 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - kapustová s anglickou slaninou"
+                "nazev": "Polévka - koprová s vejcem"
             },
             {
-                "nazev": "Jitrnicový a jelitový prejt",
-                "popis": " tuřanské zelí, vařené brambory",
+                "nazev": "Špagety po uhlířsku",
+                "popis": " parmezán",
                 "cena": 145
             },
             {
-                "nazev": "Pečené kuřecí stehno ala bažant",
-                "popis": " tarhoňa",
+                "nazev": "Kuřecí nudličky stoganoff",
+                "popis": " jasmínová rýže",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " domácí čalamáda",
-                "cena": 189
+                "nazev": "Kuřecí prso na grilu",
+                "popis": " zeleninový kuskus ",
+                "cena": 169
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - francouzská"
+                "nazev": "Polévka - hráškový krém s krutony"
             },
             {
-                "nazev": "Uzené maso s volským vejcem",
-                "popis": " opékané brambory s cibulí a slaninou",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " tuřanské zelí, cibulka  ",
                 "cena": 145
             },
             {
-                "nazev": "Vepřový guláš kovář",
-                "popis": " houskový knedlík",
+                "nazev": "Trhané vepřové maso",
+                "popis": " BBQ, hranolky, jogurtovopažitkový dip",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " domácí čalamáda",
-                "cena": 189
+                "nazev": "Kuřecí prso na grilu",
+                "popis": " zeleninový kuskus",
+                "cena": 169
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - mexická"
+                "nazev": "Polévka - minestrone"
             },
             {
-                "nazev": "Masová směs se zeleninou",
-                "popis": " jasmínová rýže",
+                "nazev": "Vepřové kostky na paprice",
+                "popis": " houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Moravský vrabec",
-                "popis": " listový špenát, bramborový knedlík, cibulka",
+                "nazev": "Kuřecí špíz",
+                "popis": " pečené brambory, česneková majonéza",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " domácí čalamáda",
-                "cena": 189
+                "nazev": "Kuřecí prso na grilu",
+                "popis": " zeleninový kuskus",
+                "cena": 169
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a zeleninou, fritátové nudle"
+                "nazev": "Polévka - thajská pikantní"
             },
             {
-                "nazev": "Šulánky s mákem",
-                "popis": " cukrem a máslem",
+                "nazev": "Bavorské vdolky",
+                "popis": "",
                 "cena": 145
             },
             {
-                "nazev": "Cordon bleu",
-                "popis": " mačkané brambory s pórkem",
+                "nazev": "Obrácený vepřový řízek",
+                "popis": " šťouchané brambory s pórkem",
                 "cena": 145
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
+            },
+            {
+                "nazev": "Kuřecí prso na grilu",
+                "popis": " zeleninový kuskus",
+                "cena": 169
             }
         ]
     }
