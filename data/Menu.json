@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 30,
-        "mesic": 10,
+        "den": 6,
+        "mesic": 11,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - špenátová se smaženým hráškem "
+                "nazev": "Polévka - hrachová s uzeninou"
             },
             {
-                "nazev": "Buřtguláš s cibulkou",
-                "popis": " pečivo",
+                "nazev": "Špagety alio olio e peperoncino",
+                "popis": "",
                 "cena": 145
             },
             {
-                "nazev": "Vepřová kotleta po sedlácku",
-                "popis": " opékané brambory",
+                "nazev": "Vepřový flamendr",
+                "popis": " dušená rýže ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -29,108 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - koprová s vejcem"
+                "nazev": "Polévka - -  květákový krém s římským kmínem"
             },
             {
-                "nazev": "Špagety po uhlířsku",
-                "popis": " parmezán",
+                "nazev": "Šunkafleky s uzeným masem",
+                "popis": " zelný salátek",
                 "cena": 145
             },
             {
-                "nazev": "Kuřecí nudličky stoganoff",
-                "popis": " jasmínová rýže",
+                "nazev": "Holandská sekaná",
+                "popis": " bramborová kaše, sterilovaný okurek",
                 "cena": 145
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Kuřecí prso na grilu",
-                "popis": " zeleninový kuskus ",
-                "cena": 169
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže ",
+                "cena": 189
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - hráškový krém s krutony"
+                "nazev": "Polévka - babiččina bramboračka"
             },
             {
-                "nazev": "Bramborové knedlíky plněné uzeným masem",
-                "popis": " tuřanské zelí, cibulka  ",
+                "nazev": "Segedínský guláš",
+                "popis": " houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Trhané vepřové maso",
-                "popis": " BBQ, hranolky, jogurtovopažitkový dip",
+                "nazev": "Kuřecí steak",
+                "popis": " dýňové rizoto, parmezán",
                 "cena": 145
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Kuřecí prso na grilu",
-                "popis": " zeleninový kuskus",
-                "cena": 169
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže",
+                "cena": 189
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - minestrone"
+                "nazev": "Polévka - zelná s klobásou"
             },
             {
-                "nazev": "Vepřové kostky na paprice",
-                "popis": " houskový knedlík",
+                "nazev": "Gnochi s houbovou omáčkou a vepřovým masem",
+                "popis": " rukola",
                 "cena": 145
             },
             {
-                "nazev": "Kuřecí špíz",
-                "popis": " pečené brambory, česneková majonéza",
+                "nazev": "Kotleta na grilu",
+                "popis": " zelené fazolky se slaninou, pečené brambory",
                 "cena": 145
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Kuřecí prso na grilu",
-                "popis": " zeleninový kuskus",
-                "cena": 169
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže",
+                "cena": 189
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - thajská pikantní"
+                "nazev": "Polévka - uzená s kroupami"
             },
             {
-                "nazev": "Bavorské vdolky",
-                "popis": "",
+                "nazev": "Palačinky s tvarohem a povidlím",
+                "popis": " vanilkový cukr",
                 "cena": 145
             },
             {
-                "nazev": "Obrácený vepřový řízek",
-                "popis": " šťouchané brambory s pórkem",
+                "nazev": "Mix grill",
+                "popis": " šťouchané brambory s cibulí, salát coleslaw  ",
                 "cena": 145
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Kuřecí prso na grilu",
-                "popis": " zeleninový kuskus",
-                "cena": 169
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže",
+                "cena": 189
             }
         ]
     }
