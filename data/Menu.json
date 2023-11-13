@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 6,
+        "den": 13,
         "mesic": 11,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - hrachová s uzeninou"
+                "nazev": "Polévka - bramborový krém se smaženým hráškem"
             },
             {
-                "nazev": "Špagety alio olio e peperoncino",
-                "popis": "",
+                "nazev": "Mexické fazole s klobásou a cibulkou",
+                "popis": " chléb",
                 "cena": 145
             },
             {
-                "nazev": "Vepřový flamendr",
-                "popis": " dušená rýže ",
+                "nazev": "Vepřová plec po znojemsku",
+                "popis": " dušená rýže",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -29,108 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - -  květákový krém s římským kmínem"
+                "nazev": "Polévka - krupicová s vejcem"
             },
             {
-                "nazev": "Šunkafleky s uzeným masem",
-                "popis": " zelný salátek",
+                "nazev": "Tagialelle s kuřecím masem",
+                "popis": " smetanovým špenátem a parmezánem",
                 "cena": 145
             },
             {
-                "nazev": "Holandská sekaná",
-                "popis": " bramborová kaše, sterilovaný okurek",
+                "nazev": "Rajská omáčka",
+                "popis": " masové koule, houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže ",
-                "cena": 189
+                "nazev": "Šopský salát",
+                "popis": "",
+                "cena": 165
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka"
+                "nazev": "Polévka - česneková krémová s opečeným chlebem"
             },
             {
-                "nazev": "Segedínský guláš",
-                "popis": " houskový knedlík",
+                "nazev": "Pečené kuřecí stehno na zelenině",
+                "popis": " šťouchané brambory",
                 "cena": 145
             },
             {
-                "nazev": "Kuřecí steak",
-                "popis": " dýňové rizoto, parmezán",
+                "nazev": "Pečená krkovička",
+                "popis": " červené zelí se špekem, bramborový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
-                "cena": 189
+                "nazev": "Šopský salát",
+                "popis": "",
+                "cena": 165
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - zelná s klobásou"
+                "nazev": "Polévka - frankfurtská "
             },
             {
-                "nazev": "Gnochi s houbovou omáčkou a vepřovým masem",
-                "popis": " rukola",
+                "nazev": "Játra na cibulce",
+                "popis": " dušená rýže, okurek  ",
                 "cena": 145
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " zelené fazolky se slaninou, pečené brambory",
+                "nazev": "Kuřecí steak zapečený s rajčetem a mozzarellou",
+                "popis": " pečené brambory",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
-                "cena": 189
+                "nazev": "Šopský salát",
+                "popis": "",
+                "cena": 165
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - uzená s kroupami"
+                "nazev": "Polévka - zeleninová"
             },
             {
-                "nazev": "Palačinky s tvarohem a povidlím",
-                "popis": " vanilkový cukr",
+                "nazev": "Dukátové buchtičky s vanilkovým krémem",
+                "popis": "",
                 "cena": 145
             },
             {
-                "nazev": "Mix grill",
-                "popis": " šťouchané brambory s cibulí, salát coleslaw  ",
+                "nazev": "Vepřový řízek na česneku a hořčici",
+                "popis": " bramborový salát",
                 "cena": 145
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
-                "cena": 189
+                "nazev": "Šopský salát",
+                "popis": "",
+                "cena": 165
             }
         ]
     }
