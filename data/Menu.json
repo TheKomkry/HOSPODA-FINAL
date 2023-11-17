@@ -118,19 +118,19 @@
                 "cena": 145
             },
             {
-                "nazev": "Vepřový řízek na česneku a hořčici",
-                "popis": " bramborový salát",
-                "cena": 145
-            },
-            {
                 "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "popis": " vařené brambory, tatarka",
                 "cena": 155
             },
             {
-                "nazev": "Šopský salát",
-                "popis": "",
+                "nazev": "Jemně pikantní masová směs",
+                "popis": " kuřecí maso, dušené rýže",
                 "cena": 165
+            },
+            {
+                "nazev": "Vepřový řízek na česneku a hořčici",
+                "popis": " bramborový salát",
+                "cena": 175
             }
         ]
     }
