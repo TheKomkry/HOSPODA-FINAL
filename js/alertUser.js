@@ -1,6 +1,6 @@
-let alertText = "Pondělí 1. a 8. května ZAVŘENO, státní svátek.\n\nVíce informací na stránce Info & Akce. ";
-let allowAlerts = false;
-let alertCode = 'ALERT_KVETEN_STATNI-SVATEK_2023';
+let alertText = "Změny v otevírací době a nabídky přes svátky \n\nVíce informací na stránce Info & Akce. ";
+let allowAlerts = true;
+let alertCode = 'ALERT_VANOCE_2023';
 function alertUser() {
     let hasBeenAlerted = localStorage['hasBeenAlerted'] || 'false';
     if (hasBeenAlerted != alertCode && allowAlerts) {
