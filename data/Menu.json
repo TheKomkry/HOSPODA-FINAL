@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 25,
-        "mesic": 9,
+        "den": 18,
+        "mesic": 12,
         "rok": 2023
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - krém z bílých fazolí s klobásou"
+                "nazev": "Polévka - bílá zelňačka"
             },
             {
-                "nazev": "Gnochi po uhlířsku sypané parmezánem",
-                "popis": "",
-                "cena": 140
-            },
-            {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " omáčka z modrého sýra, krokety",
+                "nazev": "Čočka na kyselo",
+                "popis": " grilovaná klobása, cibulka, pečivo",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Vepřový flamendr",
+                "popis": " jasmínová rýže",
+                "cena": 150
+            },
+            {
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -29,88 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka"
+                "nazev": "Polévka - květáková s vejcem"
             },
             {
-                "nazev": "Koprová omáčka",
-                "popis": " vařené vejce, houskový knedlík",
-                "cena": 140
-            },
-            {
-                "nazev": "Holandský řízek",
-                "popis": " šťouchané brambory s cibulkou, okurek",
+                "nazev": "Špagety po milánsku sypané parmezánem",
+                "popis": "",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Vepřový steak na grilu",
+                "popis": " slaninová omáčka pečené česnekové brambory",
+                "cena": 150
+            },
+            {
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
+            },
+            {
+                "nazev": "Pečená vepřová žebra",
+                "popis": " zeleninový salát, rozpečený chléb ",
+                "cena": 189
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - hrstková"
+                "nazev": "Polévka - mexická fazolová"
             },
             {
-                "nazev": "Kuřecí rizoto se zeleninou a sýrem gouda",
-                "popis": "",
-                "cena": 140
-            },
-            {
-                "nazev": "Pomalu pečený bůček",
-                "popis": " červené zelí, bramborový knedlík",
+                "nazev": "Filované kuřecí prso na paprice",
+                "popis": " penne",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Holandská sekaná",
+                "popis": " šťouchané brambory s konfitovanou cibulkou, okurek",
+                "cena": 150
+            },
+            {
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
+            },
+            {
+                "nazev": "Pečená vepřová žebra",
+                "popis": " zeleninový salát, rozpečený chléb",
+                "cena": 189
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - cibulačka s krutony"
+                "nazev": "Polévka - dýňový krém"
             },
             {
-                "nazev": "Kotlíkový guláš s cibulkou",
-                "popis": " čerstvé pečivo",
-                "cena": 140
-            },
-            {
-                "nazev": "Vepřový steak se slaninou",
-                "popis": " zelenými fazolkami, pečené brambory",
+                "nazev": "Uzené maso",
+                "popis": " křenová omáčka, houskový knedlík",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Kuřecí steak caprese",
+                "popis": " šťouchané brambory s pórkem",
+                "cena": 150
+            },
+            {
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
+            },
+            {
+                "nazev": "Pečená vepřová žebra",
+                "popis": " zeleninový salát, rozpečený chléb",
+                "cena": 189
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a zeleninou"
+                "nazev": "Polévka - tomatová s těstovinou"
             },
             {
-                "nazev": "Bramborové taštičky plněné povidlím",
-                "popis": " zakysaná smetana",
-                "cena": 140
-            },
-            {
-                "nazev": "Vepřový řízek v pivním těstíčku",
-                "popis": " bramborová kaše",
+                "nazev": "Domácí lívance s tvarohem",
+                "popis": " omáčka z lesního ovoce",
                 "cena": 145
             },
             {
-                "nazev": "Smažená tilápie",
-                "popis": " vařené brambory s máslem, citronová majonéza",
+                "nazev": "Moravský vrabec",
+                "popis": " špenát, bramborový knedlík",
+                "cena": 150
+            },
+            {
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
+            },
+            {
+                "nazev": "Pečená vepřová žebra",
+                "popis": " zeleninový salát, rozpečený chléb",
+                "cena": 189
             }
         ]
     }
