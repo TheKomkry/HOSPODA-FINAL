@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 8,
+        "den": 15,
         "mesic": 1,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - krupicová s vejcem"
+                "nazev": "Polévka - zeleninový krém s bramborem"
             },
             {
-                "nazev": "Bramborový guláš s klobásou a cibulkou",
-                "popis": " pečivo",
+                "nazev": "Farmářské fazole s klobásou",
+                "popis": " cibulka, chléb",
                 "cena": 145
             },
             {
-                "nazev": "Kuřecí steak s poličanem a hermelínem",
-                "popis": " pečené brambory",
+                "nazev": "Vepřová plec po znojemsku",
+                "popis": " jasmínová rýže",
                 "cena": 150
             },
             {
-                "nazev": "Masový flamendr",
-                "popis": " jasmínová rýže",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -29,21 +29,21 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - hrstková "
+                "nazev": "Polévka - uzená s kroupami"
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Špagety carbonara",
+                "popis": " parmezán",
                 "cena": 145
             },
             {
-                "nazev": "Domácí sekaná pečeně",
-                "popis": " rajská omáčka, houskový knedlík",
+                "nazev": "Čevapčiči",
+                "popis": " vařené  brambory, hořčice, cibule",
                 "cena": 150
             },
             {
-                "nazev": "Plněné bramborové knedle uzeným masem",
-                "popis": " tuřanské zelí, smažená cibulka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -51,21 +51,21 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka"
+                "nazev": "Polévka - zelňačka"
             },
             {
-                "nazev": "Francouzské brambory s vepřovým masem",
-                "popis": " sterilovaný okurek",
+                "nazev": "Zapečené šunkofleky",
+                "popis": " okurkový salát",
                 "cena": 145
             },
             {
-                "nazev": "Pečená krkovička na česneku",
-                "popis": " špenát, noky",
+                "nazev": "Vepřový steak na grilu",
+                "popis": " sázené vejce, pečené brambory s cibulí",
                 "cena": 150
             },
             {
-                "nazev": "Plněné bramborové knedle uzeným masem",
-                "popis": " tuřanské zelí, smažená cibulka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -73,21 +73,21 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - italská s těstovinou"
+                "nazev": "Polévka - gulášová"
             },
             {
-                "nazev": "Pečená kuřecí křídla",
-                "popis": " salát coleslaw, pečený toast",
+                "nazev": "Kuřecí rizoto sypané sýrem",
+                "popis": " okurek  ",
                 "cena": 145
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " rozmarýnová omáčka, pečené bramborové plátky",
+                "nazev": "Vepřová kýta na smetaně",
+                "popis": " houskový knedlík",
                 "cena": 150
             },
             {
-                "nazev": "Plněné bramborové knedle uzeným masem",
-                "popis": " tuřanské zelí, smažená cibulka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
@@ -95,21 +95,21 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a nudlemi"
+                "nazev": "Polévka - hráškový krém s krutony"
             },
             {
-                "nazev": "Šulánky s mákem a máslem",
+                "nazev": "Palačinky s povidlím a tvarohem",
                 "popis": "",
                 "cena": 145
             },
             {
-                "nazev": "Smažený kuřecí řízek",
-                "popis": " brambory s cibulkou",
+                "nazev": "Vepřový řízek",
+                "popis": " klasický bramborový salát",
                 "cena": 150
             },
             {
-                "nazev": "Plněné bramborové knedle uzeným masem",
-                "popis": " tuřanské zelí, smažená cibulka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 155
             }
         ]
