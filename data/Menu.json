@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 5,
+        "den": 12,
         "mesic": 2,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka"
+                "nazev": "Polévka - zeleninová"
             },
             {
-                "nazev": "Čočka na kyselo",
-                "popis": " klobása, cibulka, pečivo",
+                "nazev": "Bramborový guláš s domácí klobásou a cibulkou",
+                "popis": " pečivo",
                 "cena": 145
             },
             {
-                "nazev": "Vepřové nudličky se zeleninou",
-                "popis": " šťouchané brambory",
-                "cena": 150
+                "nazev": "Vepřová plec po sedlácku",
+                "popis": " dušená rýže, okurek",
+                "cena": 155
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " opékané brambory, tatarka",
                 "cena": 160
             }
         ]
@@ -29,88 +29,108 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - fazolová s uzeninou"
+                "nazev": "Polévka - valašská bramboračka"
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " máslové brambory, tatarka",
-                "cena": 145
-            },
-            {
-                "nazev": "Segedínský guláš",
-                "popis": " houskový knedlík",
+                "nazev": "Zapečené kuřecí prso s rajčaty a nivou",
+                "popis": " steakové hranolky",
                 "cena": 150
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Pečená vepřová kýta",
+                "popis": " smetanový špenát, noky",
+                "cena": 155
+            },
+            {
+                "nazev": "Smažené sýrové duo",
+                "popis": " opékané brambory, tatarka",
                 "cena": 160
+            },
+            {
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, rozpečený chléb ",
+                "cena": 185
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - gulášová"
+                "nazev": "Polévka - zelňačka"
             },
             {
-                "nazev": "Játra na cibulce",
-                "popis": " dušená rýže, okurek",
+                "nazev": "Boloňské špagety s parmezánem",
+                "popis": "",
                 "cena": 145
             },
             {
-                "nazev": "Holandská sekaná",
-                "popis": " bramborová kaše",
-                "cena": 150
+                "nazev": "Kotleta na grilu",
+                "popis": " zelené fazolky se slaninou, bramborové plátky",
+                "cena": 155
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " opékané brambory, tatarka",
                 "cena": 160
+            },
+            {
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, rozpečený chléb",
+                "cena": 185
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - francouzská"
+                "nazev": "Polévka - hrstková"
             },
             {
-                "nazev": "Kuřecí paličky",
-                "popis": " salát coleslaw, pečený toast",
+                "nazev": "Kuřecí rizoto po srbsku sypané sýrem gouda",
+                "popis": " okurek  ",
                 "cena": 145
             },
             {
-                "nazev": "Pečená krkovice",
-                "popis": " červené zelí se špekem, bramborový knedlík",
-                "cena": 150
+                "nazev": "Rozstřelený španělský ptáček z vepřového masa",
+                "popis": " houskový knedlík",
+                "cena": 160
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " opékané brambory, tatarka",
                 "cena": 160
+            },
+            {
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, rozpečený chléb",
+                "cena": 185
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a nudlemi"
+                "nazev": "Polévka - masový vývar s fritátovými nudlemi"
             },
             {
-                "nazev": "Kynuté ovocné knedle se zakysanou smetanou",
-                "popis": " skořicí a máslem",
+                "nazev": "Žemlovka s jablky",
+                "popis": "",
                 "cena": 145
             },
             {
-                "nazev": "Česnekový vepřový řízek",
+                "nazev": "Kuřecí řízek v cornflakes",
                 "popis": " mačkané brambory s cibulkou",
-                "cena": 150
+                "cena": 160
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " opékané brambory, tatarka",
                 "cena": 160
+            },
+            {
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, rozpečený chléb",
+                "cena": 185
             }
         ]
     }
