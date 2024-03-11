@@ -1,141 +1,136 @@
 {
     "zacatekTydne": {
-        "den": 4,
+        "den": 11,
         "mesic": 3,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - bramborový krém se zeleninou"
+                "nazev": "Polévka - špenátový krém s vejcem"
             },
             {
-                "nazev": "Buřtguláš",
+                "nazev": "Farmářské fazole s uzeninou",
                 "popis": " cibulka, chléb",
                 "cena": 150
             },
             {
-                "nazev": "Vepřové kostky na slanině a rozmarýnu",
-                "popis": " jasmínová rýže",
+                "nazev": "Kotleta na grilu",
+                "popis": " pepřová omáčka, hranolky",
                 "cena": 160
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažený gothaj",
                 "popis": " máslové brambory, domácí tatarka",
                 "cena": 160
-            },
-            {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " šťouchané brambory se slaninou, zelný salát",
-                "cena": 195
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - dršťková z hlívy ústřičné"
+                "nazev": "Polévka - zelňačka s klobásou "
             },
             {
-                "nazev": "Domácí bramborové knedle plněné uzeným masem",
-                "popis": " cibulka",
+                "nazev": "Kuřecí játra na cibulce a majoránce",
+                "popis": " rýže",
                 "cena": 150
             },
             {
-                "nazev": "Vařené hovězí maso",
-                "popis": " koprová omáčka, houskový knedlík",
+                "nazev": "Domácí sekaná",
+                "popis": " bramborová kaše, okurek",
                 "cena": 160
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažený gothaj",
                 "popis": " máslové brambory, domácí tatarka",
                 "cena": 160
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " šťouchané brambory se slaninou, zelný salát",
-                "cena": 195
+                "nazev": "Porthaus / hovězí česnekový řízek/",
+                "popis": " vídeňský bramborový salát ",
+                "cena": 199
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková s uzeninou"
+                "nazev": "Polévka - žampionový krém s bylinkovým olejem"
             },
             {
-                "nazev": "Zapečené šunkafleky",
-                "popis": " sterilovaný okurek",
+                "nazev": "Jitrnicový prejt",
+                "popis": " kysané zelí, vařené brambory",
                 "cena": 150
             },
             {
-                "nazev": "Pečená krkovice na česneku a černém pivu",
-                "popis": " mačkané brambory",
+                "nazev": "Vepřová plec stroganoff",
+                "popis": " houskový knedlík",
                 "cena": 160
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažený gothaj",
                 "popis": " máslové brambory, domácí tatarka",
                 "cena": 160
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " šťouchané brambory se slaninou, zelný salát",
-                "cena": 195
+                "nazev": "Porthaus / hovězí česnekový řízek/",
+                "popis": " vídeňský bramborový salát",
+                "cena": 199
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - cibulačka se smaženým hráškem"
+                "nazev": "Polévka - hrachová s uzeninou"
             },
             {
-                "nazev": "Brynzové halušky s restovanou slaninou",
-                "popis": "",
+                "nazev": "Vepřové rizoto po srbsku",
+                "popis": " strouhaný sýr",
                 "cena": 150
             },
             {
-                "nazev": "Kuřecí steak zapečený poličanem a hermelínem",
-                "popis": " ameriky, česnekový dip",
+                "nazev": "Kuřecí stehno caciatore",
+                "popis": " tarhoňa",
                 "cena": 160
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažený gothaj",
                 "popis": " máslové brambory, domácí tatarka",
                 "cena": 160
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " šťouchané brambory se slaninou, zelný salát",
-                "cena": 195
+                "nazev": "Porthaus / hovězí česnekový řízek/",
+                "popis": " vídeňský bramborový salát",
+                "cena": 199
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - thajská s rýžovými nudlemi"
+                "nazev": "Polévka - česnečka se šunkou"
             },
             {
-                "nazev": "Palačinky s povidlím a tvarohem",
-                "popis": " vanilkový cukr",
+                "nazev": "Domácí kynuté ovocné knedlíky",
+                "popis": " smažená strouhanka, máslo",
                 "cena": 150
             },
             {
-                "nazev": "Kuřecí cordon bleu",
-                "popis": " bramborová kaše, salátek",
+                "nazev": "Marinovaný kuřecí řízek v tatarské omáčce",
+                "popis": "                                  šťouchačky s konfitovanou cibulí",
                 "cena": 160
             },
             {
-                "nazev": "Smažený uzený sýr",
+                "nazev": "Smažený gothaj",
                 "popis": " máslové brambory, domácí tatarka",
                 "cena": 160
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " šťouchané brambory se slaninou, zelný salát",
-                "cena": 195
+                "nazev": "Porthaus / hovězí česnekový řízek/",
+                "popis": " vídeňský bramborový salát",
+                "cena": 199
             }
         ]
     }
