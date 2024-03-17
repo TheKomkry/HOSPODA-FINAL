@@ -1,54 +1,59 @@
 {
     "zacatekTydne": {
-        "den": 11,
+        "den": 18,
         "mesic": 3,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - špenátový krém s vejcem"
+                "nazev": "Polévka - hrstkový krém se zeleninou"
             },
             {
-                "nazev": "Farmářské fazole s uzeninou",
-                "popis": " cibulka, chléb",
-                "cena": 150
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, chléb",
+                "cena": 155
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " pepřová omáčka, hranolky",
+                "nazev": "Vepřové kostky po burgundsku",
+                "popis": " krokety",
                 "cena": 160
             },
             {
-                "nazev": "Smažený gothaj",
+                "nazev": "Smažené sýrové duo",
                 "popis": " máslové brambory, domácí tatarka",
-                "cena": 160
+                "cena": 165
+            },
+            {
+                "nazev": "Hovězí svíčková na smetaně",
+                "popis": " houskový knedlík, brusinkový terč",
+                "cena": 199
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - zelňačka s klobásou "
+                "nazev": "Polévka - minestrone"
             },
             {
-                "nazev": "Kuřecí játra na cibulce a majoránce",
-                "popis": " rýže",
-                "cena": 150
+                "nazev": "Kuřecí steak caprese",
+                "popis": " mačkané brambory",
+                "cena": 155
             },
             {
-                "nazev": "Domácí sekaná",
-                "popis": " bramborová kaše, okurek",
+                "nazev": "Vepřový guláš",
+                "popis": " houskový knedlík",
                 "cena": 160
             },
             {
-                "nazev": "Smažený gothaj",
+                "nazev": "Smažené sýrové duo",
                 "popis": " máslové brambory, domácí tatarka",
-                "cena": 160
+                "cena": 165
             },
             {
-                "nazev": "Porthaus / hovězí česnekový řízek/",
-                "popis": " vídeňský bramborový salát ",
+                "nazev": "Hovězí svíčková na smetaně",
+                "popis": " houskový knedlík, brusinkový terč",
                 "cena": 199
             }
         ]
@@ -56,26 +61,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - žampionový krém s bylinkovým olejem"
+                "nazev": "Polévka - gulášová"
             },
             {
-                "nazev": "Jitrnicový prejt",
-                "popis": " kysané zelí, vařené brambory",
-                "cena": 150
+                "nazev": "Vepřová plec po štěpánsku",
+                "popis": " rýže",
+                "cena": 155
             },
             {
-                "nazev": "Vepřová plec stroganoff",
-                "popis": " houskový knedlík",
+                "nazev": "Kotleta na grilu",
+                "popis": " sázené vejce, hranolky, americký dip",
                 "cena": 160
             },
             {
-                "nazev": "Smažený gothaj",
+                "nazev": "Smažené sýrové duo",
                 "popis": " máslové brambory, domácí tatarka",
-                "cena": 160
+                "cena": 165
             },
             {
-                "nazev": "Porthaus / hovězí česnekový řízek/",
-                "popis": " vídeňský bramborový salát",
+                "nazev": "Hovězí svíčková na smetaně",
+                "popis": " houskový knedlík, brusinkový terč",
                 "cena": 199
             }
         ]
@@ -83,26 +88,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - hrachová s uzeninou"
+                "nazev": "Polévka - květákový krém s vejcem"
             },
             {
-                "nazev": "Vepřové rizoto po srbsku",
-                "popis": " strouhaný sýr",
-                "cena": 150
+                "nazev": "Špagety bolognese",
+                "popis": " parmezán",
+                "cena": 155
             },
             {
-                "nazev": "Kuřecí stehno caciatore",
-                "popis": " tarhoňa",
+                "nazev": "Vepřové ražniči na plech",
+                "popis": " pečené bramborové plátky, tatarka",
                 "cena": 160
             },
             {
-                "nazev": "Smažený gothaj",
+                "nazev": "Smažené sýrové duo",
                 "popis": " máslové brambory, domácí tatarka",
-                "cena": 160
+                "cena": 165
             },
             {
-                "nazev": "Porthaus / hovězí česnekový řízek/",
-                "popis": " vídeňský bramborový salát",
+                "nazev": "Hovězí svíčková na smetaně",
+                "popis": " houskový knedlík, brusinkový terč",
                 "cena": 199
             }
         ]
@@ -110,26 +115,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka se šunkou"
+                "nazev": "Polévka - zabíjačková"
             },
             {
-                "nazev": "Domácí kynuté ovocné knedlíky",
-                "popis": " smažená strouhanka, máslo",
+                "nazev": "Dukátové buchtičky s vanilkovým krémem",
+                "popis": "",
                 "cena": 150
             },
             {
-                "nazev": "Marinovaný kuřecí řízek v tatarské omáčce",
-                "popis": "                                  šťouchačky s konfitovanou cibulí",
+                "nazev": "Bavorské smažené biftečky",
+                "popis": " šťouchané brambory se smetanou",
                 "cena": 160
             },
             {
-                "nazev": "Smažený gothaj",
+                "nazev": "Smažené sýrové duo",
                 "popis": " máslové brambory, domácí tatarka",
-                "cena": 160
+                "cena": 165
             },
             {
-                "nazev": "Porthaus / hovězí česnekový řízek/",
-                "popis": " vídeňský bramborový salát",
+                "nazev": "Hovězí svíčková na smetaně",
+                "popis": " houskový knedlík, brusinkový terč",
                 "cena": 199
             }
         ]
