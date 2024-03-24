@@ -1,137 +1,114 @@
 {
     "zacatekTydne": {
-        "den": 12,
-        "mesic": 2,
+        "den": 25,
+        "mesic": 3,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninová"
+                "nazev": "Polévka - fazolová s uzeninou"
             },
             {
-                "nazev": "Bramborový guláš s domácí klobásou a cibulkou",
-                "popis": " pečivo",
-                "cena": 145
-            },
-            {
-                "nazev": "Vepřová plec po sedlácku",
-                "popis": " dušená rýže, okurek",
+                "nazev": "Špagety aglio olio peperoncino",
+                "popis": "",
                 "cena": 155
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " opékané brambory, tatarka",
+                "nazev": "Kuřecí nudličky na paprice",
+                "popis": " houskový knedlík",
                 "cena": 160
+            },
+            {
+                "nazev": "Smažený sýr gouda se šunkou",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 165
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - valašská bramboračka"
+                "nazev": "Polévka - mrkvový krém se zázvorem"
             },
             {
-                "nazev": "Zapečené kuřecí prso s rajčaty a nivou",
-                "popis": " steakové hranolky",
-                "cena": 150
-            },
-            {
-                "nazev": "Pečená vepřová kýta",
-                "popis": " smetanový špenát, noky",
+                "nazev": "Francouzské brambory s vepřovým masem",
+                "popis": " okurek",
                 "cena": 155
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " opékané brambory, tatarka",
+                "nazev": "Plec po sedlácku",
+                "popis": " jasmínová rýže",
                 "cena": 160
             },
             {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, rozpečený chléb ",
-                "cena": 185
+                "nazev": "Smažený sýr gouda se šunkou",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, okurek ",
+                "cena": 199
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - zelňačka"
+                "nazev": "Polévka - babiččina bramboračka"
             },
             {
-                "nazev": "Boloňské špagety s parmezánem",
-                "popis": "",
-                "cena": 145
-            },
-            {
-                "nazev": "Kotleta na grilu",
-                "popis": " zelené fazolky se slaninou, bramborové plátky",
+                "nazev": "Strapačky se zelím",
+                "popis": " uzeným masem a špekem",
                 "cena": 155
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " opékané brambory, tatarka",
+                "nazev": "Vepřová játra na grilu",
+                "popis": " pečené česnekové brambory, dip",
                 "cena": 160
             },
             {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, rozpečený chléb",
-                "cena": 185
+                "nazev": "Smažený sýr gouda se šunkou",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, okurek",
+                "cena": 199
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - hrstková"
+                "nazev": "Polévka - hovězí vývar s masem a nudlemi  "
             },
             {
-                "nazev": "Kuřecí rizoto po srbsku sypané sýrem gouda",
-                "popis": " okurek  ",
-                "cena": 145
+                "nazev": "Domácí lívance",
+                "popis": " omáčka z lesních plodů, citronový tvaroh",
+                "cena": 155
             },
             {
-                "nazev": "Rozstřelený španělský ptáček z vepřového masa",
-                "popis": " houskový knedlík",
+                "nazev": "Moravský vrabec",
+                "popis": " listový špenát, bramborový knedlík",
                 "cena": 160
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " opékané brambory, tatarka",
-                "cena": 160
+                "nazev": "Smažený sýr gouda se šunkou",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 165
             },
             {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, rozpečený chléb",
-                "cena": 185
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, okurek",
+                "cena": 199
             }
         ]
     },
     "Patek": {
         "jidla": [
-            {
-                "nazev": "Polévka - masový vývar s fritátovými nudlemi"
-            },
-            {
-                "nazev": "Žemlovka s jablky",
-                "popis": "",
-                "cena": 145
-            },
-            {
-                "nazev": "Kuřecí řízek v cornflakes",
-                "popis": " mačkané brambory s cibulkou",
-                "cena": 160
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " opékané brambory, tatarka",
-                "cena": 160
-            },
-            {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, rozpečený chléb",
-                "cena": 185
-            }
         ]
     }
 }
