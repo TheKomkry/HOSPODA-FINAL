@@ -1,114 +1,114 @@
 {
     "zacatekTydne": {
-        "den": 25,
-        "mesic": 3,
+        "den": 2,
+        "mesic": 4,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
-            {
-                "nazev": "Polévka - fazolová s uzeninou"
-            },
-            {
-                "nazev": "Špagety aglio olio peperoncino",
-                "popis": "",
-                "cena": 155
-            },
-            {
-                "nazev": "Kuřecí nudličky na paprice",
-                "popis": " houskový knedlík",
-                "cena": 160
-            },
-            {
-                "nazev": "Smažený sýr gouda se šunkou",
-                "popis": " hranolky, domácí tatarka",
-                "cena": 165
-            }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - mrkvový krém se zázvorem"
+                "nazev": "Polévka - rajská s těstovinou"
             },
             {
-                "nazev": "Francouzské brambory s vepřovým masem",
-                "popis": " okurek",
-                "cena": 155
-            },
-            {
-                "nazev": "Plec po sedlácku",
+                "nazev": "Masová směs flamendr",
                 "popis": " jasmínová rýže",
                 "cena": 160
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
-                "popis": " hranolky, domácí tatarka",
-                "cena": 165
+                "nazev": "Smažený hermelín",
+                "popis": " máslové brambory, domácí tatarka",
+                "cena": 160
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulka ",
-                "cena": 199
+                "nazev": "Fish and chips",
+                "popis": "",
+                "cena": 195
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka"
+                "nazev": "Polévka - zeleninová s krupicí a vejcem"
             },
             {
-                "nazev": "Strapačky se zelím",
-                "popis": " uzeným masem a špekem",
-                "cena": 155
-            },
-            {
-                "nazev": "Vepřová játra na grilu",
-                "popis": " pečené česnekové brambory, dip",
+                "nazev": "Italské houbové rizoto",
+                "popis": " baby špenát, parmezán",
                 "cena": 160
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Hamburská vepřová pečeně",
+                "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulka",
-                "cena": 199
+                "nazev": " Bramborové knedle plněné domácím uzeným",
+                "popis": " kysané zelí, cibulka ",
+                "cena": 165
+            },
+            {
+                "nazev": "Fish and chips",
+                "popis": "",
+                "cena": 195
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a nudlemi  "
+                "nazev": "Polévka - česneková krémová se smaženým hráškem"
             },
             {
-                "nazev": "Domácí lívance",
-                "popis": " omáčka z lesních plodů, citronový tvaroh",
-                "cena": 155
-            },
-            {
-                "nazev": "Moravský vrabec",
-                "popis": " listový špenát, bramborový knedlík",
+                "nazev": "Hrachová kaše",
+                "popis": " pečená klobása, cibulka, chléb",
                 "cena": 160
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Pečená krkovička na pivu",
+                "popis": " dušená kapusta, vařené brambory",
                 "cena": 165
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulka",
-                "cena": 199
+                "nazev": "Bramborové knedle plněné domácím uzeným",
+                "popis": " kysané zelí, cibulka",
+                "cena": 165
+            },
+            {
+                "nazev": "Fish and chips",
+                "popis": "",
+                "cena": 195
             }
         ]
     },
     "Patek": {
         "jidla": [
+            {
+                "nazev": "Polévka - krkonošské kyselo"
+            },
+            {
+                "nazev": "Široké nudle s mákem.",
+                "popis": " cukrem a máslem",
+                "cena": 145
+            },
+            {
+                "nazev": "Smažený vepřový řízek",
+                "popis": " tradiční bramborový salát",
+                "cena": 165
+            },
+            {
+                "nazev": "Bramborové knedle plněné domácím uzeným",
+                "popis": " kysané zelí, cibulka",
+                "cena": 165
+            },
+            {
+                "nazev": "Fish and chips",
+                "popis": "",
+                "cena": 195
+            }
         ]
     }
 }
