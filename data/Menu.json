@@ -1,113 +1,136 @@
 {
     "zacatekTydne": {
-        "den": 2,
+        "den": 8,
         "mesic": 4,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
+            {
+                "nazev": "Polévka -   bramborový krém se zeleninou "
+            },
+            {
+                "nazev": "Buřtguláš s domácí klobásou",
+                "popis": " cibulka, chléb ",
+                "cena": 160
+            },
+            {
+                "nazev": "Vepřový steak na slanině a žampionech",
+                "popis": " hranolky ",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka ",
+                "cena": 165
+            }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - rajská s těstovinou"
+                "nazev": "Polévka -  frankfurtská"
             },
             {
-                "nazev": "Masová směs flamendr",
-                "popis": " jasmínová rýže",
+                "nazev": "Gnochi carbonara",
+                "popis": " parmezán ",
                 "cena": 160
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": " máslové brambory, domácí tatarka",
-                "cena": 160
+                "nazev": "Segedínský guláš",
+                "popis": " houskový knedlík ",
+                "cena": 165
             },
             {
-                "nazev": "Fish and chips",
-                "popis": "",
-                "cena": 195
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Pečené vepřová žebra",
+                "popis": " zelný salát s koprem, rozpečený chleba",
+                "cena": 199
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninová s krupicí a vejcem"
+                "nazev": "Polévka -  kulajda "
             },
             {
-                "nazev": "Italské houbové rizoto",
-                "popis": " baby špenát, parmezán",
+                "nazev": "Vepřová plec po znojemsku",
+                "popis": " dušená rýže ",
                 "cena": 160
             },
             {
-                "nazev": "Hamburská vepřová pečeně",
-                "popis": " houskový knedlík",
+                "nazev": "Kuřecí prso na grilu",
+                "popis": " omáčka z modrého sýra, hranolky",
                 "cena": 165
             },
             {
-                "nazev": " Bramborové knedle plněné domácím uzeným",
-                "popis": " kysané zelí, cibulka ",
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Fish and chips",
-                "popis": "",
-                "cena": 195
+                "nazev": "Pečené vepřová žebra",
+                "popis": " zelný salát s koprem, rozpečený chleba",
+                "cena": 199
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - česneková krémová se smaženým hráškem"
+                "nazev": "Polévka - minestrone "
             },
             {
-                "nazev": "Hrachová kaše",
-                "popis": " pečená klobása, cibulka, chléb",
+                "nazev": "Pečené kuřecí paličky",
+                "popis": " salát coleslaw, rozpečený bylinkový chléb ",
                 "cena": 160
             },
             {
-                "nazev": "Pečená krkovička na pivu",
-                "popis": " dušená kapusta, vařené brambory",
+                "nazev": "Cmunda po kaplicku",
+                "popis": " vídeňská cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Bramborové knedle plněné domácím uzeným",
-                "popis": " kysané zelí, cibulka",
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Fish and chips",
-                "popis": "",
-                "cena": 195
+                "nazev": "Pečené vepřová žebra",
+                "popis": " zelný salát s koprem, rozpečený chleba",
+                "cena": 199
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - krkonošské kyselo"
+                "nazev": "Polévka - drůbeží vývar s nudlemi  "
             },
             {
-                "nazev": "Široké nudle s mákem.",
-                "popis": " cukrem a máslem",
-                "cena": 145
+                "nazev": "Plněné bramborové taštičky povidlím",
+                "popis": " zakysaná smetana",
+                "cena": 160
             },
             {
-                "nazev": "Smažený vepřový řízek",
-                "popis": " tradiční bramborový salát",
+                "nazev": "Kuřecí řízek v cornflakes",
+                "popis": " bramborová kaše, okurek ",
                 "cena": 165
             },
             {
-                "nazev": "Bramborové knedle plněné domácím uzeným",
-                "popis": " kysané zelí, cibulka",
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Fish and chips",
-                "popis": "",
-                "cena": 195
+                "nazev": "Pečené vepřová žebra",
+                "popis": " zelný salát s koprem, rozpečený chleba",
+                "cena": 199
             }
         ]
     }
