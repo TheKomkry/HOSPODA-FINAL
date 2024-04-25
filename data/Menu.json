@@ -86,9 +86,14 @@
                 "nazev": "Polévka - gulášová"
             },
             {
+                "nazev": "Šunkafleky s vepřovým masem",
+                "popis": " okurek",
+                "cena": 160
+            },
+            {
                 "nazev": "Kuřecí steak s máslovou zeleninou",
                 "popis": " bramborové plátky",
-                "cena": 160
+                "cena": 165
             },
             {
                 "nazev": "Pečené vepřové koleno",
@@ -99,11 +104,6 @@
                 "nazev": "Smažená vepřová játra",
                 "popis": " opékané brambory, domácí tatarka",
                 "cena": 165
-            },
-            {
-                "nazev": "Řecký salát se sýrem feta",
-                "popis": " bylinková bageta",
-                "cena": 175
             }
         ]
     },
@@ -115,22 +115,17 @@
             {
                 "nazev": "Domácí žemlovka s tvarohem a jablky",
                 "popis": "",
-                "cena": 150
+                "cena": 160
             },
             {
-                "nazev": "Přírodní vepřový řízek",
-                "popis": " mačkané brambory s cibulkou",
+                "nazev": "Obrácený vepřový řízek",
+                "popis": " tradiční bramborový salát ",
                 "cena": 165
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 165
-            },
-            {
-                "nazev": "Kovářský hovězí guláš",
-                "popis": " houskový knedlík",
-                "cena": 195
             }
         ]
     }
