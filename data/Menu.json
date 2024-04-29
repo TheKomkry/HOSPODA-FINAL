@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 22,
+        "den": 29,
         "mesic": 4,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - krém z bílých fazolí"
+                "nazev": "Polévka - zeleninová s krupicí"
             },
             {
-                "nazev": "Špagety po uhlířsku sypané parmezánem",
-                "popis": "",
-                "cena": 160
-            },
-            {
-                "nazev": "Chalupářská masová směs",
-                "popis": " hranolky",
+                "nazev": "Čočka na kyselo s uzeným masem",
+                "popis": " okurek, cibulka, chléb",
                 "cena": 165
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka",
+                "nazev": "Kotleta na grilu zapečená šunkou a sýrem",
+                "popis": " mačkané brambory s pórkem",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený uzený sýr",
+                "popis": " máslové brambory, domácí tatarka",
                 "cena": 165
             }
         ]
@@ -29,80 +29,85 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - tomatová s bazalkovým pestem"
+                "nazev": "Polévka - zelňačka s klobásou"
             },
             {
-                "nazev": "Kuřecí kari soté se zeleninou",
+                "nazev": "Tilápie na grilu",
+                "popis": " vínovo-máslová omáčka, gratinované brambory",
+                "cena": 165
+            },
+            {
+                "nazev": "Šťavnatá vepřová pečeně",
                 "popis": " jasmínová rýže",
-                "cena": 160
-            },
-            {
-                "nazev": "Vepřový vrabec",
-                "popis": " dušená kapusta, bramborový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " máslové brambory, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Kovářský hovězí guláš",
-                "popis": " houskový knedlík ",
-                "cena": 195
+                "nazev": "Porthaus",
+                "popis": " vídeňský bramborový salát",
+                "cena": 199
             }
         ]
     },
     "Streda": {
         "jidla": [
-        ]
+            ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - gulášová"
+                "nazev": "Polévka - hráškový krém"
             },
             {
-                "nazev": "Šunkafleky s vepřovým masem",
-                "popis": " okurek",
-                "cena": 160
-            },
-            {
-                "nazev": "Kuřecí steak s máslovou zeleninou",
-                "popis": " bramborové plátky",
+                "nazev": "Gnochi s kuřecím masem quattro formaggi",
+                "popis": " baby špenát",
                 "cena": 165
             },
             {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, chléb",
+                "nazev": "Pomalu pečená krkovička",
+                "popis": " červené zelí se špekem, bramborový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " máslové brambory, domácí tatarka",
                 "cena": 165
+            },
+            {
+                "nazev": "Porthaus",
+                "popis": " vídeňský bramborový salát",
+                "cena": 199
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - česneková krémová s krutony"
+                "nazev": "Polévka - kuřecí kaldoun"
             },
             {
-                "nazev": "Domácí žemlovka s tvarohem a jablky",
+                "nazev": "Dukátové buchtičky s vanilkovým krémem",
                 "popis": "",
-                "cena": 160
-            },
-            {
-                "nazev": "Obrácený vepřový řízek",
-                "popis": " tradiční bramborový salát ",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Řecké biftečky",
+                "popis": " bramborová kaše",
                 "cena": 165
+            },
+            {
+                "nazev": "Smažený uzený sýr",
+                "popis": " máslové brambory, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Porthaus",
+                "popis": " vídeňský bramborový salát",
+                "cena": 199
             }
         ]
     }
