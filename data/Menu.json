@@ -55,29 +55,6 @@
     },
     "Streda": {
         "jidla": [
-            {
-                "nazev": "Polévka - celerový krém se smaženým hráškem"
-            },
-            {
-                "nazev": "Šunkafleky s vepřovým masem",
-                "popis": " okurek",
-                "cena": 160
-            },
-            {
-                "nazev": "Sekaná pečeně",
-                "popis": " rajská omáčka, houskový knedlík",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažená vepřová játra",
-                "popis": " opékané brambory, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Kovářský hovězí guláš",
-                "popis": " houskový knedlík",
-                "cena": 195
-            }
         ]
     },
     "Ctvrtek": {
@@ -118,8 +95,8 @@
                 "cena": 160
             },
             {
-                "nazev": "Smažený vepřový řízek",
-                "popis": " mačkané brambory s cibulkou ",
+                "nazev": "Obrácený vepřový řízek",
+                "popis": " tradiční bramborový salát ",
                 "cena": 165
             },
             {
