@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 6,
+        "den": 13,
         "mesic": 5,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - selská s uzeninou"
+                "nazev": "Polévka - tomatová s těstovinou"
             },
             {
-                "nazev": "Hrachová kaše",
-                "popis": " opečená klobása, cibulka, okurek, chléb",
+                "nazev": "Buřtguláš",
+                "popis": " cibulka, chléb",
+                "cena": 160
+            },
+            {
+                "nazev": "Kuřecí nudličky na žampionech",
+                "popis": " jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Vepřový flamendr",
-                "popis": " krokety",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené žampiony",
+                "nazev": "Smažený uzený sýr",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             }
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - brokolicový krém se smaženým hráškem"
+                "nazev": "Polévka - žampionový krém s bylinkovým olejem"
             },
             {
-                "nazev": "Špagety bolognese",
-                "popis": " parmezán",
+                "nazev": "Gnochi s kuřecím masem",
+                "popis": " smetanový špenát, parmezán",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí gyros",
-                "popis": " hranolky, tzatziki",
+                "nazev": "Vepřová plec po štěpánsku",
+                "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažené žampiony",
+                "nazev": "Smažený květák",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Svíčková na smetaně",
-                "popis": " brusinkový terč, houskový knedlík ",
+                "nazev": "Cesar salát",
+                "popis": "",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka         STÁTNÍ SVÁTEK - VAŘÍME"
+                "nazev": "Polévka - frankfurtská"
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, domácí tatarka ",
+                "nazev": "Koprová omáčka",
+                "popis": " vejce, vařené brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
-                "cena": 185
+                "nazev": "Kuře ala kachna",
+                "popis": " červené zelí, bramborový knedlík",
+                "cena": 165
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " slaninová omáčka, pečené brambory, salátek",
-                "cena": 195
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 165
             },
             {
-                "nazev": "Svíčková na smetaně",
-                "popis": " brusinkový terč, houskový knedlík",
+                "nazev": "Cesar salát",
+                "popis": "",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - pórková s bramborem"
+                "nazev": "Polévka - valašská kyselice"
             },
             {
-                "nazev": "Kuřecí játra na cibulce a majoránce",
-                "popis": " jasmínová rýže",
+                "nazev": "Masové rizoto po srbsku",
+                "popis": " okurek",
                 "cena": 165
             },
             {
-                "nazev": "Pomalu pečená vepřová plec",
-                "popis": " bramborové plátky s česnekem",
+                "nazev": "Vepřová kýta na smetaně",
+                "popis": " těstoviny",
                 "cena": 165
             },
             {
-                "nazev": "Smažené žampiony",
+                "nazev": "Smažený květák",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Svíčková na smetaně",
-                "popis": " brusinkový terč, houskový knedlík",
+                "nazev": "Cesar salát",
+                "popis": "",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a nudlemi"
+                "nazev": "Polévka - uzená s kroupami"
             },
             {
-                "nazev": "Domácí kynuté ovocné knedle",
-                "popis": " zakysaná smetana, skořice, máslo",
+                "nazev": "Palačinky s povidlím a tvarohem",
+                "popis": " vanilkový cukr",
                 "cena": 165
             },
             {
-                "nazev": "Smažený vepřový řízek",
-                "popis": " šťouchané brambory s cibulkou, okurek",
+                "nazev": "Cordon bleu",
+                "popis": " šťouchané brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažené žampiony",
+                "nazev": "Smažený květák",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Svíčková na smetaně",
-                "popis": " brusinkový terč, houskový knedlík",
+                "nazev": "Cesar salát",
+                "popis": "",
                 "cena": 199
             }
         ]
