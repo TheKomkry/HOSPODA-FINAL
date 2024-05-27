@@ -7,11 +7,11 @@
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - mexická fazolová "
+                "nazev": "Polévka - mexická fazolová"
             },
             {
                 "nazev": "Čočka na kyselo",
-                "popis": " opékaná klobása, cibulka, okurek, chléb ",
+                "popis": " opékaná klobása, cibulka, okurek, chléb",
                 "cena": 165
             },
             {
@@ -21,7 +21,7 @@
             },
             {
                 "nazev": "Česnekový vepřový řízek",
-                "popis": " bramborový salát",
+                "popis": " bramborový salát ",
                 "cena": 179
             }
         ]
@@ -33,7 +33,7 @@
             },
             {
                 "nazev": "Zapečené těstoviny s kuřecím masem",
-                "popis": " brokolicí a sýrem ",
+                "popis": " brokolicí a sýrem",
                 "cena": 165
             },
             {
@@ -42,13 +42,13 @@
                 "cena": 165
             },
             {
-                "nazev": "Česnekový vepřový řízek",
-                "popis": " bramborový salát",
-                "cena": 179
+                "nazev": "Smažený hermelín s herkulesem",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 165
             },
             {
-                "nazev": "Zeleninový kuskus s kuřecím masem ",
-                "popis": "",
+                "nazev": "Kuřecí supreme",
+                "popis": " zelenina ratatouille, pečené grenaille",
                 "cena": 199
             }
         ]
@@ -60,7 +60,7 @@
             },
             {
                 "nazev": "Strapačky s kysaným  zelím a uzeným masem",
-                "popis": " restovaný špek ",
+                "popis": " restovaný špek",
                 "cena": 165
             },
             {
@@ -69,13 +69,13 @@
                 "cena": 165
             },
             {
-                "nazev": "Česnekový vepřový řízek",
-                "popis": " bramborový salát",
-                "cena": 179
+                "nazev": "Smažený hermelín s herkulesem",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 165
             },
             {
-                "nazev": "Zeleninový kuskus s kuřecím masem",
-                "popis": "",
+                "nazev": "Kuřecí supreme",
+                "popis": " zelenina ratatouille, pečené grenaille",
                 "cena": 199
             }
         ]
@@ -83,16 +83,16 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka s krutony "
+                "nazev": "Polévka - česnečka s krutony"
             },
             {
                 "nazev": "Lasagne s kuřecím masem",
-                "popis": " listový špenát, parmazán ",
+                "popis": " listový špenát, parmazán",
                 "cena": 165
             },
             {
                 "nazev": "Pečená vepřová plec na pivě",
-                "popis": " kapusta, bramborový knedlík ",
+                "popis": " kapusta, bramborový knedlík",
                 "cena": 165
             },
             {
@@ -101,8 +101,8 @@
                 "cena": 165
             },
             {
-                "nazev": "Zeleninový kuskus s kuřecím masem",
-                "popis": "",
+                "nazev": "Kuřecí supreme",
+                "popis": " zelenina ratatouille, pečené grenaille",
                 "cena": 199
             }
         ]
@@ -114,12 +114,12 @@
             },
             {
                 "nazev": "Šulánky s mákem",
-                "popis": " máslo, cukr ",
+                "popis": " máslo, cukr",
                 "cena": 165
             },
             {
                 "nazev": "Kuřecí řízek v cornflakes",
-                "popis": " mačkané, brambory, okurek ",
+                "popis": " mačkané, brambory, okurek",
                 "cena": 165
             },
             {
@@ -128,8 +128,8 @@
                 "cena": 165
             },
             {
-                "nazev": "Zeleninový kuskus s kuřecím masem",
-                "popis": "",
+                "nazev": "Kuřecí supreme",
+                "popis": " zelenina ratatouille, pečené grenaille",
                 "cena": 199
             }
         ]
