@@ -1,54 +1,54 @@
 {
     "zacatekTydne": {
-        "den": 27,
-        "mesic": 5,
+        "den": 3,
+        "mesic": 6,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - mexická fazolová"
+                "nazev": "Polévka - zeleninový krém se smaženým hráškem"
             },
             {
-                "nazev": "Čočka na kyselo",
-                "popis": " opékaná klobása, cibulka, okurek, chléb",
+                "nazev": "Špagety cacciatore",
+                "popis": " parmezán",
                 "cena": 165
             },
             {
-                "nazev": "Jemně pikantní masová směs",
-                "popis": " jasmínová rýže",
+                "nazev": "Kuřecí filované prso",
+                "popis": " omáčka z čerstvých paprik, jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Česnekový vepřový řízek",
-                "popis": " bramborový salát ",
-                "cena": 179
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 165
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - květáková s bramborem"
+                "nazev": "Polévka - dršťková z hlívy ústřičné"
             },
             {
-                "nazev": "Zapečené těstoviny s kuřecím masem",
-                "popis": " brokolicí a sýrem",
+                "nazev": "Bílé fazole na kyselo",
+                "popis": " pečená klobása, cibulka, okurek, chléb",
                 "cena": 165
             },
             {
-                "nazev": "Hamburská vepřová plec",
-                "popis": " houskový knedlík",
+                "nazev": "Krkovička na grilu",
+                "popis": " rozmarýnová omáčka, pečené brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s herkulesem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " zelí, konfitovaná cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí supreme",
-                "popis": " zelenina ratatouille, pečené grenaille",
+                "nazev": "Gnochi s vepřovou panenkou",
+                "popis": " smetanovo-hořčičná omáčka,            sušená rajčata, rukola ",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - francouzská"
+                "nazev": "Polévka - hrstková"
             },
             {
-                "nazev": "Strapačky s kysaným  zelím a uzeným masem",
-                "popis": " restovaný špek",
+                "nazev": "Italské houbové rizoto",
+                "popis": " baby špenát, parmezán",
                 "cena": 165
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " šťouchané zámecké brambory",
+                "nazev": "Trhané vepřové maso BBQ",
+                "popis": " hranolky, salát coleslaw",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s herkulesem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " zelí, konfitovaná cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí supreme",
-                "popis": " zelenina ratatouille, pečené grenaille",
+                "nazev": "Gnochi s vepřovou panenkou",
+                "popis": " smetanovo-hořčičná omáčka,            sušená rajčata, rukola",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka s krutony"
+                "nazev": "Polévka - kapustová s bramborem"
             },
             {
-                "nazev": "Lasagne s kuřecím masem",
-                "popis": " listový špenát, parmazán",
+                "nazev": "Vepřový stroganoff",
+                "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Pečená vepřová plec na pivě",
-                "popis": " kapusta, bramborový knedlík",
+                "nazev": "Kuřecí závitek se slaninou a nivou",
+                "popis": " šťouchané brambory s cibulkou",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s herkulesem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " zelí, konfitovaná cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí supreme",
-                "popis": " zelenina ratatouille, pečené grenaille",
+                "nazev": "Gnochi s vepřovou panenkou",
+                "popis": " smetanovo-hořčičná omáčka,            sušená rajčata, rukola",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem, zeleninou a nudlemi"
+                "nazev": "Polévka - cibulačka s chlebovými krutony"
             },
             {
-                "nazev": "Šulánky s mákem",
-                "popis": " máslo, cukr",
+                "nazev": "Císařský trhanec s vanilkovou zmrzlinou a šlehačkou",
+                "popis": "",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí řízek v cornflakes",
-                "popis": " mačkané, brambory, okurek",
+                "nazev": "Vepřový řízek v pivním těstíčku",
+                "popis": " bramborová kaše",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s herkulesem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " zelí, konfitovaná cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí supreme",
-                "popis": " zelenina ratatouille, pečené grenaille",
+                "nazev": "Gnochi s vepřovou panenkou",
+                "popis": " smetanovo-hořčičná omáčka,            sušená rajčata, rukola",
                 "cena": 199
             }
         ]
