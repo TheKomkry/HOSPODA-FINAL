@@ -124,13 +124,8 @@
             },
             {
                 "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "popis": " šťouchané brambory s máslem, domácí tatarka",
                 "cena": 165
-            },
-            {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
-                "cena": 199
             }
         ]
     }
