@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 8,
+        "den": 15,
         "mesic": 7,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková s klobásou"
+                "nazev": "Polévka - špenátová s vejcem"
             },
             {
-                "nazev": "Špagety po milánsku sypané sýrem",
-                "popis": "",
+                "nazev": "Zapečené šunkafleky s uzeným masem",
+                "popis": " okurek",
                 "cena": 165
             },
             {
-                "nazev": "Jemně pikantní masová směs",
-                "popis": " jasmínová rýže",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " slaninová omáčka, krokety",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
-                "popis": " hranolky, domácí tatarka  ",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 165
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka"
+                "nazev": "Polévka - frankfurtská"
             },
             {
-                "nazev": "Francouzské brambory s vepřovým masem",
-                "popis": " sterilovaný okurek",
+                "nazev": "Filátka z tilápie",
+                "popis": " bramborová kaše, citron",
                 "cena": 165
             },
             {
-                "nazev": "Pečená vepřová plec",
-                "popis": " červené zelí, bramborový knedlík",
+                "nazev": "Trhané vepřové maso",
+                "popis": " pečené brambory, tzatziki",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Porthaus",
-                "popis": " vídeňský  bramborový salát ",
+                "nazev": "Pečená vepřová žebra",
+                "popis": " salát coleslaw z červeného zelí, pečivo          ",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - minestrone"
+                "nazev": "Polévka - květákový krém"
             },
             {
-                "nazev": "Hrachová kaše",
-                "popis": " uzené maso, cibulka, okurek, chléb",
+                "nazev": "Koprová omáčka",
+                "popis": " 2 ks vařené vejce, houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Holandská sekaná",
-                "popis": " mačkané brambory s pórkem, ledový salát",
+                "nazev": "Pečená vepřová krkovička",
+                "popis": " dušená kapusta, vařené brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Porthaus",
-                "popis": " vídeňský  bramborový salát",
+                "nazev": "Pečená vepřová žebra",
+                "popis": " salát coleslaw z červeného zelí, pečivo          ",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninová krémová  "
+                "nazev": "Polévka - mexická fazolová"
             },
             {
-                "nazev": "Italské houbové rizoto",
-                "popis": " parmezán, rukola",
+                "nazev": "Vepřové nudličky stroganoff",
+                "popis": " jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Filované kuřecí prso na paprice",
-                "popis": " houskový knedlík",
+                "nazev": "Kuřecí steak na grilu",
+                "popis": " rajčatová omáčka s česnekem a olivami,          šťouchané brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Porthaus",
-                "popis": " vídeňský  bramborový salát",
+                "nazev": "Pečená vepřová žebra",
+                "popis": " salát coleslaw z červeného zelí, pečivo          ",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - uzená s kroupami"
+                "nazev": "Polévka - hovězí vývar s masem a zeleninou"
             },
             {
-                "nazev": "Domácí žemlovka s jablky a tvarohem  ",
-                "popis": "",
+                "nazev": "Široké nudle s mákem",
+                "popis": " cukrem a máslem",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí stripsy",
-                "popis": " šťouchané brambory, česnekový dip",
+                "nazev": "Smažený vepřový řízek",
+                "popis": " nové brambory s máslem a pažitkou",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Porthaus",
-                "popis": " vídeňský  bramborový salát",
+                "nazev": "Pečená vepřová žebra",
+                "popis": " salát coleslaw z červeného zelí, pečivo          ",
                 "cena": 199
             }
         ]
