@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 15,
+        "den": 22,
         "mesic": 7,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - špenátová s vejcem"
+                "nazev": "Polévka - rajská s těstovinou"
             },
             {
-                "nazev": "Zapečené šunkafleky s uzeným masem",
-                "popis": " okurek",
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, cibulka, okurek, chléb  ",
                 "cena": 165
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " slaninová omáčka, krokety",
+                "nazev": "Chalupářská směs se slaninou",
+                "popis": " česnekem, jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s herkulesem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             }
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - frankfurtská"
+                "nazev": "Polévka - brokolicový krém se smaženým hráškem"
             },
             {
-                "nazev": "Filátka z tilápie",
-                "popis": " bramborová kaše, citron",
+                "nazev": "Gnochi s kuřecím masem",
+                "popis": " smetanovo parmazánový špenát",
                 "cena": 165
             },
             {
-                "nazev": "Trhané vepřové maso",
-                "popis": " pečené brambory, tzatziki",
+                "nazev": "Vepřový guláš kovář",
+                "popis": " domácí bramboráčky",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s herkulesem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát coleslaw z červeného zelí, pečivo          ",
+                "nazev": "Caesar salát                                                                                                   ",
+                "popis": "",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - květákový krém"
+                "nazev": "Polévka - moravská cibulačka"
             },
             {
-                "nazev": "Koprová omáčka",
-                "popis": " 2 ks vařené vejce, houskový knedlík",
+                "nazev": "Smažené kuřecí paličky",
+                "popis": " šťouchané brambory, sweet chilli omáčka",
                 "cena": 165
             },
             {
-                "nazev": "Pečená vepřová krkovička",
-                "popis": " dušená kapusta, vařené brambory",
+                "nazev": "Vepřová kýta na smetaně",
+                "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s herkulesem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát coleslaw z červeného zelí, pečivo          ",
+                "nazev": "Caesar salát                                                                                                   ",
+                "popis": "",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - mexická fazolová"
+                "nazev": "Polévka - francouzská"
             },
             {
-                "nazev": "Vepřové nudličky stroganoff",
-                "popis": " jasmínová rýže",
+                "nazev": "Chilli con carne se zakysanou smetanou",
+                "popis": " pečivo",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí steak na grilu",
-                "popis": " rajčatová omáčka s česnekem a olivami,          šťouchané brambory",
+                "nazev": "Kotleta na grilu zapečená šunkou a sýrem",
+                "popis": " bramborová kaše",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s herkulesem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát coleslaw z červeného zelí, pečivo          ",
+                "nazev": "Caesar salát                                                                                                   ",
+                "popis": "",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a zeleninou"
+                "nazev": "Polévka - masový vývar s nudlemi a zeleninou"
             },
             {
-                "nazev": "Široké nudle s mákem",
-                "popis": " cukrem a máslem",
+                "nazev": "Palačinky s povidlím a tvarohem",
+                "popis": " vanilkový cukr  ",
                 "cena": 165
             },
             {
-                "nazev": "Smažený vepřový řízek",
-                "popis": " nové brambory s máslem a pažitkou",
+                "nazev": "Kuřecí řízek",
+                "popis": " nové brambory s máslem, okurek",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
+                "nazev": "Smažený hermelín s herkulesem",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát coleslaw z červeného zelí, pečivo          ",
+                "nazev": "Caesar salát                                                                                                   ",
+                "popis": "",
                 "cena": 199
             }
         ]
