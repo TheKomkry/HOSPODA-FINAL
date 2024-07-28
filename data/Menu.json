@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 22,
+        "den": 29,
         "mesic": 7,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - rajská s těstovinou"
+                "nazev": "Polévka - zeleninová s vejcem a krupicí"
             },
             {
-                "nazev": "Čočka na kyselo",
-                "popis": " pečená klobása, cibulka, okurek, chléb  ",
+                "nazev": "Masové rizoto po srbsku sypané sýrem",
+                "popis": " okurek",
                 "cena": 165
             },
             {
-                "nazev": "Chalupářská směs se slaninou",
-                "popis": " česnekem, jasmínová rýže",
+                "nazev": "Bramborový guláš s domácí klobásou",
+                "popis": " smažená cibulka, pečivo",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s herkulesem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
                 "cena": 165
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - brokolicový krém se smaženým hráškem"
+                "nazev": "Polévka - fazolová s uzeninou"
             },
             {
-                "nazev": "Gnochi s kuřecím masem",
-                "popis": " smetanovo parmazánový špenát",
+                "nazev": "Špagety po uhlířsku",
+                "popis": " parmezán",
                 "cena": 165
             },
             {
-                "nazev": "Vepřový guláš kovář",
-                "popis": " domácí bramboráčky",
+                "nazev": "Kuřecí ražniči na plech",
+                "popis": " americké brambory, česnekový dip",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s herkulesem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát                                                                                                   ",
-                "popis": "",
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, chléb                                    ",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - moravská cibulačka"
+                "nazev": "Polévka - dršťková z hlívy ústřičné"
             },
             {
-                "nazev": "Smažené kuřecí paličky",
-                "popis": " šťouchané brambory, sweet chilli omáčka",
+                "nazev": "Halušky se zelím",
+                "popis": " slaninou a restovaným špekem",
                 "cena": 165
             },
             {
-                "nazev": "Vepřová kýta na smetaně",
-                "popis": " houskový knedlík",
+                "nazev": "Bavorské karbanátky",
+                "popis": " bramborová kaše, okurek",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s herkulesem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát                                                                                                   ",
-                "popis": "",
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, chléb                                    ",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - francouzská"
+                "nazev": "Polévka - kapustová s bramborem"
             },
             {
-                "nazev": "Chilli con carne se zakysanou smetanou",
-                "popis": " pečivo",
+                "nazev": "Kuřecí flamendr",
+                "popis": " hranolky",
                 "cena": 165
             },
             {
-                "nazev": "Kotleta na grilu zapečená šunkou a sýrem",
-                "popis": " bramborová kaše",
+                "nazev": "Vepřová plec po znojemsku",
+                "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s herkulesem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát                                                                                                   ",
-                "popis": "",
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, chléb                                    ",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - masový vývar s nudlemi a zeleninou"
+                "nazev": "Polévka - kuřecí kaldoun"
             },
             {
-                "nazev": "Palačinky s povidlím a tvarohem",
-                "popis": " vanilkový cukr  ",
+                "nazev": "Domácí ovocné knedlíky",
+                "popis": " zakysaná smetana, máslo, skořice",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí řízek",
-                "popis": " nové brambory s máslem, okurek",
+                "nazev": "Cordon bleu",
+                "popis": " šťouchané brambory s cibulkou",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s herkulesem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát                                                                                                   ",
-                "popis": "",
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, chléb                                    ",
                 "cena": 199
             }
         ]
