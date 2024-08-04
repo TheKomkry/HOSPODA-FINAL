@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 25,
-        "mesic": 3,
+        "den": 29,
+        "mesic": 7,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - fazolová s uzeninou"
+                "nazev": "Polévka - zeleninová s vejcem a krupicí"
             },
             {
-                "nazev": "Špagety aglio olio peperoncino",
-                "popis": "",
-                "cena": 155
+                "nazev": "Masové rizoto po srbsku sypané sýrem",
+                "popis": " okurek",
+                "cena": 165
             },
             {
-                "nazev": "Kuřecí nudličky na paprice",
-                "popis": " houskový knedlík",
-                "cena": 160
+                "nazev": "Bramborový guláš s domácí klobásou",
+                "popis": " smažená cibulka, pečivo",
+                "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda se šunkou",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
                 "cena": 165
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - mrkvový krém se zázvorem"
+                "nazev": "Polévka - fazolová s uzeninou"
             },
             {
-                "nazev": "Francouzské brambory s vepřovým masem",
-                "popis": " okurek",
-                "cena": 155
-            },
-            {
-                "nazev": "Plec po sedlácku",
-                "popis": " jasmínová rýže",
-                "cena": 160
-            },
-            {
-                "nazev": "Smažený sýr gouda se šunkou",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Špagety po uhlířsku",
+                "popis": " parmezán",
                 "cena": 165
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, okurek ",
+                "nazev": "Kuřecí ražniči na plech",
+                "popis": " americké brambory, česnekový dip",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, chléb                                    ",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - babiččina bramboračka"
+                "nazev": "Polévka - dršťková z hlívy ústřičné"
             },
             {
-                "nazev": "Strapačky se zelím",
-                "popis": " uzeným masem a špekem",
-                "cena": 155
-            },
-            {
-                "nazev": "Vepřová játra na grilu",
-                "popis": " pečené česnekové brambory, dip",
-                "cena": 160
-            },
-            {
-                "nazev": "Smažený sýr gouda se šunkou",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Halušky se zelím",
+                "popis": " slaninou a restovaným špekem",
                 "cena": 165
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, okurek",
+                "nazev": "Bavorské karbanátky",
+                "popis": " bramborová kaše, okurek",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, chléb                                    ",
                 "cena": 199
             }
         ]
@@ -83,32 +83,55 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a nudlemi  "
+                "nazev": "Polévka - kapustová s bramborem"
             },
             {
-                "nazev": "Domácí lívance",
-                "popis": " omáčka z lesních plodů, citronový tvaroh",
-                "cena": 155
-            },
-            {
-                "nazev": "Moravský vrabec",
-                "popis": " listový špenát, bramborový knedlík",
-                "cena": 160
-            },
-            {
-                "nazev": "Smažený sýr gouda se šunkou",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Kuřecí flamendr",
+                "popis": " hranolky",
                 "cena": 165
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, okurek",
+                "nazev": "Vepřová plec po znojemsku",
+                "popis": " houskový knedlík",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, chléb                                    ",
                 "cena": 199
             }
         ]
     },
     "Patek": {
         "jidla": [
+            {
+                "nazev": "Polévka - kuřecí kaldoun"
+            },
+            {
+                "nazev": "Domácí ovocné knedlíky",
+                "popis": " zakysaná smetana, máslo, skořice",
+                "cena": 165
+            },
+            {
+                "nazev": "Cordon bleu",
+                "popis": " šťouchané brambory s cibulkou",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený gothaj",
+                "popis": " máslové brambory s pažitkou, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Pečené vepřové koleno",
+                "popis": " jablka s křenem, chléb                                    ",
+                "cena": 199
+            }
         ]
     }
 }
