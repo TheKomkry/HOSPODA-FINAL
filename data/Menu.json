@@ -1,137 +1,22 @@
 {
     "zacatekTydne": {
-        "den": 29,
-        "mesic": 7,
+        "den": 5,
+        "mesic": 8,
         "rok": 2024
     },
     "Pondeli": {
-        "jidla": [
-            {
-                "nazev": "Polévka - zeleninová s vejcem a krupicí"
-            },
-            {
-                "nazev": "Masové rizoto po srbsku sypané sýrem",
-                "popis": " okurek",
-                "cena": 165
-            },
-            {
-                "nazev": "Bramborový guláš s domácí klobásou",
-                "popis": " smažená cibulka, pečivo",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " máslové brambory s pažitkou, domácí tatarka",
-                "cena": 165
-            }
-        ]
+        "jidla": []
     },
     "Utery": {
-        "jidla": [
-            {
-                "nazev": "Polévka - fazolová s uzeninou"
-            },
-            {
-                "nazev": "Špagety po uhlířsku",
-                "popis": " parmezán",
-                "cena": 165
-            },
-            {
-                "nazev": "Kuřecí ražniči na plech",
-                "popis": " americké brambory, česnekový dip",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " máslové brambory s pažitkou, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, chléb                                    ",
-                "cena": 199
-            }
-        ]
+        "jidla": []
     },
     "Streda": {
-        "jidla": [
-            {
-                "nazev": "Polévka - dršťková z hlívy ústřičné"
-            },
-            {
-                "nazev": "Halušky se zelím",
-                "popis": " slaninou a restovaným špekem",
-                "cena": 165
-            },
-            {
-                "nazev": "Bavorské karbanátky",
-                "popis": " bramborová kaše, okurek",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " máslové brambory s pažitkou, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, chléb                                    ",
-                "cena": 199
-            }
-        ]
+        "jidla": []
     },
     "Ctvrtek": {
-        "jidla": [
-            {
-                "nazev": "Polévka - kapustová s bramborem"
-            },
-            {
-                "nazev": "Kuřecí flamendr",
-                "popis": " hranolky",
-                "cena": 165
-            },
-            {
-                "nazev": "Vepřová plec po znojemsku",
-                "popis": " houskový knedlík",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " máslové brambory s pažitkou, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, chléb                                    ",
-                "cena": 199
-            }
-        ]
+        "jidla": []
     },
     "Patek": {
-        "jidla": [
-            {
-                "nazev": "Polévka - kuřecí kaldoun"
-            },
-            {
-                "nazev": "Domácí ovocné knedlíky",
-                "popis": " zakysaná smetana, máslo, skořice",
-                "cena": 165
-            },
-            {
-                "nazev": "Cordon bleu",
-                "popis": " šťouchané brambory s cibulkou",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " máslové brambory s pažitkou, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, chléb                                    ",
-                "cena": 199
-            }
-        ]
+        "jidla": []
     }
 }
