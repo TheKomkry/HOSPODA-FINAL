@@ -1,22 +1,137 @@
 {
     "zacatekTydne": {
-        "den": 5,
+        "den": 12,
         "mesic": 8,
         "rok": 2024
     },
     "Pondeli": {
-        "jidla": []
+        "jidla": [
+            {
+                "nazev": "Polévka - zeleninová krémová se smaženým hráškem"
+            },
+            {
+                "nazev": "Hrachová kaše",
+                "popis": " uzené maso, cibulka, okurek, chléb",
+                "cena": 165
+            },
+            {
+                "nazev": "Kotleta na grilu",
+                "popis": " sázené vejce, pečené brambory, dip",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 165
+            }
+        ]
     },
     "Utery": {
-        "jidla": []
+        "jidla": [
+            {
+                "nazev": "Polévka - česnečka"
+            },
+            {
+                "nazev": "Boloňské špagety sypané parmezánem",
+                "popis": "",
+                "cena": 165
+            },
+            {
+                "nazev": "Segedínský guláš",
+                "popis": " houskový knedlík",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Medailonky z vepřové panenky",
+                "popis": " pepřová omáčka, gratinované brambory",
+                "cena": 199
+            }
+        ]
     },
     "Streda": {
-        "jidla": []
+        "jidla": [
+            {
+                "nazev": "Polévka - hrstková"
+            },
+            {
+                "nazev": "Noky se smetanovým špenátem a kuřecím masem",
+                "popis": " rukola",
+                "cena": 165
+            },
+            {
+                "nazev": "Trhané vepřové maso",
+                "popis": " hranolky, tzatziki",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Medailonky z vepřové panenky",
+                "popis": " pepřová omáčka, gratinované brambory",
+                "cena": 199
+            }
+        ]
     },
     "Ctvrtek": {
-        "jidla": []
+        "jidla": [
+            {
+                "nazev": "Polévka - zelná s klobásou"
+            },
+            {
+                "nazev": "Drůbeží játra na cibulce",
+                "popis": " dušená rýže, sterilovaný okurek",
+                "cena": 165
+            },
+            {
+                "nazev": "Domácí sekaná",
+                "popis": " bramborová kaše, salátek",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Medailonky z vepřové panenky",
+                "popis": " pepřová omáčka, gratinované brambory",
+                "cena": 199
+            }
+        ]
     },
     "Patek": {
-        "jidla": []
+        "jidla": [
+            {
+                "nazev": "Polévka - hovězí vývar s masem a nudlemi"
+            },
+            {
+                "nazev": "Taštičky plněné povidlím",
+                "popis": " mák, máslo, cukr",
+                "cena": 165
+            },
+            {
+                "nazev": "Pečené vepřové maso",
+                "popis": " červené zelí, bramborový knedlík",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Medailonky z vepřové panenky",
+                "popis": " pepřová omáčka, gratinované brambory",
+                "cena": 199
+            }
+        ]
     }
 }
