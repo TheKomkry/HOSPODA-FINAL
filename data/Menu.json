@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 12,
+        "den": 19,
         "mesic": 8,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninová krémová se smaženým hráškem"
+                "nazev": "Polévka - rajská s těstovinou"
             },
             {
-                "nazev": "Hrachová kaše",
-                "popis": " uzené maso, cibulka, okurek, chléb",
+                "nazev": "Farmářské fazole s klobásou",
+                "popis": " cibulka, chléb",
                 "cena": 165
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " sázené vejce, pečené brambory, dip",
+                "nazev": "Pikantní kuřecí směs se zeleninou",
+                "popis": " jasmínová rýže ",
                 "cena": 165
             },
             {
-                "nazev": "Smažený květák",
+                "nazev": "Smažený uzený sýr",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             }
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka"
+                "nazev": "Polévka - gulášová"
             },
             {
-                "nazev": "Boloňské špagety sypané parmezánem",
-                "popis": "",
+                "nazev": "Špenátové lasagne s kuřecím masem",
+                "popis": " parmezánový bešamel",
                 "cena": 165
             },
             {
-                "nazev": "Segedínský guláš",
-                "popis": " houskový knedlík",
+                "nazev": "Řecké biftečky",
+                "popis": " bramborová kaše, sterilovaný okurek",
                 "cena": 165
             },
             {
-                "nazev": "Smažený květák",
+                "nazev": "Smažený uzený sýr",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": " pepřová omáčka, gratinované brambory",
+                "nazev": "Pečená vepřová žebra",
+                "popis": " salát coleslaw z červeného zelí, chléb ",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - hrstková"
+                "nazev": "Polévka - celerovo bramborový krém"
             },
             {
-                "nazev": "Noky se smetanovým špenátem a kuřecím masem",
-                "popis": " rukola",
+                "nazev": "Kuřecí steak caprese",
+                "popis": " šťouchané brambory",
                 "cena": 165
             },
             {
-                "nazev": "Trhané vepřové maso",
-                "popis": " hranolky, tzatziki",
+                "nazev": "Vepřové kostky na česneku",
+                "popis": " jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Smažený květák",
+                "nazev": "Smažený uzený sýr",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": " pepřová omáčka, gratinované brambory",
+                "nazev": "Pečená vepřová žebra",
+                "popis": " salát coleslaw z červeného zelí, chléb",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - zelná s klobásou"
+                "nazev": "Polévka - koprová"
             },
             {
-                "nazev": "Drůbeží játra na cibulce",
-                "popis": " dušená rýže, sterilovaný okurek",
+                "nazev": "Záhorácký závitek",
+                "popis": " pečené bramborové plátky",
                 "cena": 165
             },
             {
-                "nazev": "Domácí sekaná",
-                "popis": " bramborová kaše, salátek",
+                "nazev": "Vepřová plec na houbách",
+                "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažený květák",
+                "nazev": "Smažený uzený sýr",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": " pepřová omáčka, gratinované brambory",
+                "nazev": "Pečená vepřová žebra",
+                "popis": " salát coleslaw z červeného zelí, chléb",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a nudlemi"
+                "nazev": "Polévka - dršťková"
             },
             {
-                "nazev": "Taštičky plněné povidlím",
-                "popis": " mák, máslo, cukr",
+                "nazev": "Tagliatelle  all arrabbiata",
+                "popis": " rukola, parmezán",
                 "cena": 165
             },
             {
-                "nazev": "Pečené vepřové maso",
-                "popis": " červené zelí, bramborový knedlík",
+                "nazev": "Kuřecí řízek v cornflakes",
+                "popis": " mačkané brambory s cibulkou, dip",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda",
+                "nazev": "Smažený uzený sýr",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " slaninovo-pepřová omáčka, gratinované brambory",
+                "nazev": "Pečená vepřová žebra",
+                "popis": " salát coleslaw z červeného zelí, chléb",
                 "cena": 199
             }
         ]
