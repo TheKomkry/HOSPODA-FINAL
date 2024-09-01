@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 26,
-        "mesic": 8,
+        "den": 2,
+        "mesic": 9,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - kmínová s vejcem"
+                "nazev": "Polévka - hrachová  "
             },
             {
-                "nazev": "Čočka na kyselo",
-                "popis": " pečená klobása, cibulka, okurek, chléb",
+                "nazev": "Buřtguláš",
+                "popis": " cibulka, pečivo",
                 "cena": 165
             },
             {
-                "nazev": "Masový flamendr se zeleninou",
-                "popis": " krokety",
+                "nazev": "Kuřecí rizoto po srbsku",
+                "popis": " strouhaný sýr, okurek",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
+                "nazev": "Smažený sýr gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             }
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - bramboračka"
+                "nazev": "Polévka - bramborový krém se zeleninou"
             },
             {
-                "nazev": "Špagety s kuřecím masem",
-                "popis": " rajčatová omáčka s bazalkovým pestem, parmezán",
+                "nazev": "Kuřecí steak zapečený herkulesem a hermelínem",
+                "popis": " krokety",
                 "cena": 165
             },
             {
-                "nazev": "Hamburská vepřová pečeně",
-                "popis": " houskový knedlík",
+                "nazev": "Masové koule",
+                "popis": " rajská omáčka, houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " šťouchané brambory, dip",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát  ",
-                "popis": "",
+                "nazev": "Porthaus",
+                "popis": " lehký bramborový salát",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - špenátový krém"
+                "nazev": "Polévka - valašská kyselice"
             },
             {
-                "nazev": "Francouzské brambory s vepřovým masem",
-                "popis": "",
-                "cena": 165
-            },
-            {
-                "nazev": "Kuřecí kari soté",
+                "nazev": "Šťavnatá vepřová plec",
                 "popis": " jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Pečené kuřecí paličky",
+                "popis": " sweet chilli, červený coleslaw, bageta",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát ",
-                "popis": "",
+                "nazev": "Kuřecí stripsy",
+                "popis": " šťouchané brambory, dip",
+                "cena": 165
+            },
+            {
+                "nazev": "Porthaus",
+                "popis": " lehký bramborový salát",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - fazolová s klobásou"
+                "nazev": "Polévka - dýňová se zázvorem"
             },
             {
-                "nazev": "Kuřecí stehno na slanině",
-                "popis": " červené zelí, bramborový knedlík",
+                "nazev": "Fish and chips",
+                "popis": " citrionová majonéza",
                 "cena": 165
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " rozmarýnová omáčka, krupeto",
+                "nazev": "Pečená krkovička po selsku",
+                "popis": " dušená kapusta, vařené brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " šťouchané brambory, dip",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát ",
-                "popis": "",
+                "nazev": "Porthaus",
+                "popis": " lehký bramborový salát",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka"
+                "nazev": "Polévka - hovězí vývar s masem, tarhoňa"
             },
             {
-                "nazev": "Dukátové buchtičky s vanilkovým krémem",
-                "popis": "",
+                "nazev": "Bramborové šulánky s mákem",
+                "popis": " cukr, máslo",
                 "cena": 165
             },
             {
-                "nazev": "Obrácený vepřový řízek",
-                "popis": " vídeňský salát",
+                "nazev": "Holandský sekaný řízek",
+                "popis": " bramborová kaše, okurek",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " šťouchané brambory, dip",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát ",
-                "popis": "",
+                "nazev": "Porthaus",
+                "popis": " lehký bramborový salát",
                 "cena": 199
             }
         ]
