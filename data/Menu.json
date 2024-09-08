@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 2,
+        "den": 9,
         "mesic": 9,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - hrachová  "
+                "nazev": "Polévka - tomatová s bazalkovým pestem"
             },
             {
-                "nazev": "Buřtguláš",
-                "popis": " cibulka, pečivo",
+                "nazev": "Gnocchi s kuřecím masem",
+                "popis": " omáčka quattro formaggi, rukola",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí rizoto po srbsku",
-                "popis": " strouhaný sýr, okurek",
+                "nazev": "Segedínský guláš",
+                "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda",
+                "nazev": "Smažené sýrové duo",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             }
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - bramborový krém se zeleninou"
+                "nazev": "Polévka - cibulačka se smaženým hráškem"
             },
             {
-                "nazev": "Kuřecí steak zapečený herkulesem a hermelínem",
-                "popis": " krokety",
+                "nazev": "Smažené žampiony",
+                "popis": " vařené brambory s máslem, tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Masové koule",
-                "popis": " rajská omáčka, houskový knedlík",
+                "nazev": "Kuřecí kung-pao",
+                "popis": " wok zelenina, jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí stripsy",
-                "popis": " šťouchané brambory, dip",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Porthaus",
-                "popis": " lehký bramborový salát",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " omáčka ze slaniny a česneku, šťouchané brambory s cibulkou ",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - valašská kyselice"
+                "nazev": "Polévka - květáková s bramborem"
             },
             {
-                "nazev": "Šťavnatá vepřová plec",
-                "popis": " jasmínová rýže",
+                "nazev": "Vepřová plec na hřibech",
+                "popis": " bramborové plátky",
                 "cena": 165
             },
             {
-                "nazev": "Pečené kuřecí paličky",
-                "popis": " sweet chilli, červený coleslaw, bageta",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " tuřanské zelí, cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí stripsy",
-                "popis": " šťouchané brambory, dip",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Porthaus",
-                "popis": " lehký bramborový salát",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " omáčka ze slaniny a česneku,                šťouchané brambory s cibulkou",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - dýňová se zázvorem"
+                "nazev": "Polévka - žampionový krém"
             },
             {
-                "nazev": "Fish and chips",
-                "popis": " citrionová majonéza",
+                "nazev": "Kuřecí steak",
+                "popis": " tymiánová omáčka, krokety",
                 "cena": 165
             },
             {
-                "nazev": "Pečená krkovička po selsku",
-                "popis": " dušená kapusta, vařené brambory",
+                "nazev": "Vepřové kostky na česneku",
+                "popis": " listový špenát, bramborový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí stripsy",
-                "popis": " šťouchané brambory, dip",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Porthaus",
-                "popis": " lehký bramborový salát",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " omáčka ze slaniny a česneku,                šťouchané brambory s cibulkou",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem, tarhoňa"
+                "nazev": "Polévka - drůbeží vývar s masem a nudlemi"
             },
             {
-                "nazev": "Bramborové šulánky s mákem",
-                "popis": " cukr, máslo",
+                "nazev": "Kynuté ovocné knedle",
+                "popis": " zakysaná smetana, skořice, máslo",
                 "cena": 165
             },
             {
-                "nazev": "Holandský sekaný řízek",
+                "nazev": "Vepřový řízek v pivním těstíčku",
                 "popis": " bramborová kaše, okurek",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí stripsy",
-                "popis": " šťouchané brambory, dip",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Porthaus",
-                "popis": " lehký bramborový salát",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " omáčka ze slaniny a česneku,                šťouchané brambory s cibulkou",
                 "cena": 199
             }
         ]
