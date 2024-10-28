@@ -1,137 +1,59 @@
 {
     "zacatekTydne": {
-        "den": 21,
+        "den": 28,
         "mesic": 10,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková"
+                "nazev": "Polévka - Moravská cibulačka s uzeným masem a smaženým hráškem"
             },
             {
-                "nazev": "Špagety quattro formaggi",
-                "popis": " rukola",
-                "cena": 165
+                "nazev": "Domácí kynuté ovocné knedle",
+                "popis": " tvaroh, skořice, cukr, máslo",
+                "cena": 185
             },
             {
-                "nazev": "Masová směs po chalupářsku",
+                "nazev": "Jemně pikantní masová směs se zeleninou",
                 "popis": " jasmínová rýže",
-                "cena": 165
+                "cena": 195
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " brambory s máslem, domácí tatarka",
-                "cena": 165
+                "nazev": "Smažený kuřecí řízek",
+                "popis": " šťouchané brambory s cibulkou a slaninou, okurek",
+                "cena": 195
+            },
+            {
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 195
+            },
+            {
+                "nazev": "Vepřové karé na grilu",
+                "popis": " slaninová omáčka, šťouchané brambory",
+                "cena": 199
             }
         ]
     },
     "Utery": {
         "jidla": [
-            {
-                "nazev": "Polévka - francouzská s těstovinou"
-            },
-            {
-                "nazev": "Chilli con carne",
-                "popis": " cibulka, chléb",
-                "cena": 165
-            },
-            {
-                "nazev": "Vepřová plec po burgundsku",
-                "popis": " bramborové plátky, uzená slanina",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " brambory s máslem, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát ",
-                "cena": 199
-            }
+            
         ]
     },
     "Streda": {
         "jidla": [
-            {
-                "nazev": "Polévka - kapustová s bramborem"
-            },
-            {
-                "nazev": "Kuřecí játra na cibulce a majoránce",
-                "popis": " dušená rýže, okurek",
-                "cena": 165
-            },
-            {
-                "nazev": "Štěpánská vepřová pečeně",
-                "popis": " houskový knedlík",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " brambory s máslem, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
-                "cena": 199
-            }
+            
         ]
     },
     "Ctvrtek": {
         "jidla": [
-            {
-                "nazev": "Polévka - kmínová s krutony"
-            },
-            {
-                "nazev": "Šunkafleky",
-                "popis": " okurkový salát",
-                "cena": 165
-            },
-            {
-                "nazev": "Vepřové karé na grilu",
-                "popis": " sázené vejce, šunka, šťouchané brambory",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " brambory s máslem, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
-                "cena": 199
-            }
+            
         ]
     },
     "Patek": {
         "jidla": [
-            {
-                "nazev": "Polévka - kuřecí kaldoun"
-            },
-            {
-                "nazev": "Domácí lívance",
-                "popis": " omáčka z lesního ovoce, zakysaná smetana",
-                "cena": 165
-            },
-            {
-                "nazev": "Kuřecí řízek v parmazánové strouhance",
-                "popis": " bramborová kaše, zelný salát",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené sýrové duo",
-                "popis": " brambory s máslem, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
-                "cena": 199
-            }
+            
         ]
     }
 }
