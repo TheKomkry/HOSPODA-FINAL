@@ -1,141 +1,136 @@
 {
     "zacatekTydne": {
-        "den": 11,
+        "den": 18,
         "mesic": 11,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - kuřecí kaldoun"
+                "nazev": "Polévka - bramborový krém s žampiony a zeleninou"
             },
             {
-                "nazev": "Buřtguláš",
+                "nazev": "Mexické fazole s mletým masem",
                 "popis": " cibule, chléb",
                 "cena": 165
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " omáčka z uzené slaniny, krokety",
+                "nazev": "Kuřecí steak zapečený herkulesem a hermelínem",
+                "popis": " šťouchané brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
+                "nazev": "Smažený sýr gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
-            },
-            {
-                "nazev": "Tradiční kachní stehno",
-                "popis": " červené zelí se špekem, bramborový knedlík",
-                "cena": 220
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - květákový krém"
+                "nazev": "Polévka - špenátová s vejcem a bramborem"
             },
             {
-                "nazev": "Znojemská vepřová pečeně",
-                "popis": " jasmínová rýže",
+                "nazev": "Masové koule",
+                "popis": " rajská omáčka, tarhoňa",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí steak",
-                "popis": " nivová omáčka, pečené brambory",
+                "nazev": "Trhané vepřové maso BBQ",
+                "popis": " hranolky, salát coleslaw",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
+                "nazev": "Smažený sýr gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Tradiční kachní stehno",
-                "popis": " červené zelí se špekem, bramborový knedlík",
-                "cena": 220
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže",
+                "cena": 199
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - kulajda"
+                "nazev": "Polévka - krém z bílých fazolí se slaninou"
             },
             {
-                "nazev": "Těstoviny penne s kuřecím masem",
-                "popis": " smetanový špenát, parmezán",
+                "nazev": "Vepřové kostky s chorizovou omáčkou",
+                "popis": " jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Čevapčiči s hořčicí a cibulí",
-                "popis": " šťouchané brambory",
+                "nazev": "Smažené kuřecí paličky",
+                "popis": " bramborová kaše, okurek",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
+                "nazev": "Smažený sýr gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Tradiční kachní stehno",
-                "popis": " červené zelí se špekem, bramborový knedlík",
-                "cena": 220
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže",
+                "cena": 199
             }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - dýňový krém s chilli a zázvorem"
+                "nazev": "Polévka - čočková s klobásou"
             },
             {
-                "nazev": "Pečený bůček",
-                "popis": " dušená kapusta se slaninou, bramborový knedlík",
+                "nazev": "Koprová omáčka",
+                "popis": " vařené vejce, houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Uzená krkovička",
-                "popis": " bramborová kaše, okurek, křen",
+                "nazev": "Kuřecí ražniči na plech",
+                "popis": " pečené brambory s česnekem, tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
+                "nazev": "Smažený sýr gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Tradiční kachní stehno",
-                "popis": " červené zelí se špekem, bramborový knedlík",
-                "cena": 220
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže",
+                "cena": 199
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - masový vývar se zeleninou a nudlemi"
+                "nazev": "Polévka - zeleninový boršč"
             },
             {
-                "nazev": "Palačinky s tvarohem a povidlím",
-                "popis": " vanilkový cukr",
+                "nazev": "Šulánky s mákem",
+                "popis": " cukrem a máslem",
                 "cena": 165
             },
             {
-                "nazev": "Vepřový řízek v pařížském těstíčku",
-                "popis": " vídeňský bramborový salát",
+                "nazev": "Kuřecí ondráš",
+                "popis": " zelný salát s koprem, dip",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
+                "nazev": "Smažený sýr gouda",
                 "popis": " hranolky, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Tradiční kachní stehno",
-                "popis": " červené zelí se špekem, bramborový knedlík",
-                "cena": 220
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže",
+                "cena": 199
             }
         ]
     }
