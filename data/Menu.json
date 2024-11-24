@@ -21,7 +21,7 @@
             },
             {
                 "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka ",
+                "popis": " mačkané brambory, domácí tatarka ",
                 "cena": 165
             }
         ]
@@ -32,13 +32,13 @@
                 "nazev": "Polévka -  cibulačka "
             },
             {
-                "nazev": "Čočka na kyselo",
-                "popis": " pečená klobása, okurek, pečivo ",
+                "nazev": "Kuřecí steak caprese",
+                "popis": " bramborová kaše",
                 "cena": 165
             },
             {
-                "nazev": "Vepřové nudličky na žampionech",
-                "popis": " těstoviny penne",
+                "nazev": "Segedínskáý guláš",
+                "popis": " houskový knedlík ",
                 "cena": 165
             },
             {
@@ -59,13 +59,13 @@
                 "nazev": "Polévka -  hrášková se slaninou "
             },
             {
-                "nazev": "Čočka na kyselo",
-                "popis": " pečená klobása, okurek, pečivo ",
+                "nazev": "Smažené rybí filé",
+                "popis": " vařené brambory, citronový dip",
                 "cena": 165
             },
             {
-                "nazev": "Vepřové nudličky na žampionech",
-                "popis": " těstoviny penne",
+                "nazev": "Chalupářská masová směs",
+                "popis": " hranolky",
                 "cena": 165
             },
             {
@@ -85,14 +85,14 @@
             {
                 "nazev": "Polévka - gulášová "
             },
-           {
-                "nazev": "Čočka na kyselo",
-                "popis": " pečená klobása, okurek, pečivo ",
+            {
+                "nazev": "Špagety bolognese",
+                "popis": "",
                 "cena": 165
             },
             {
-                "nazev": "Vepřové nudličky na žampionech",
-                "popis": " těstoviny penne",
+                "nazev": "Kuřecí kung-pao s wok zeleninou",
+                "popis": " jasmínová rýže ",
                 "cena": 165
             },
             {
@@ -112,14 +112,14 @@
             {
                 "nazev": "Polévka - zabíjačková "
             },
-           {
-                "nazev": "Čočka na kyselo",
-                "popis": " pečená klobása, okurek, pečivo ",
+            {
+                "nazev": "Kynuté ovocné knedlíky",
+                "popis": " pražená strouhanka, cukr, máslo ",
                 "cena": 165
             },
             {
-                "nazev": "Vepřové nudličky na žampionech",
-                "popis": " těstoviny penne",
+                "nazev": "Kuřecí řízek v cornflakes",
+                "popis": " šťouchané brambory, salátek ",
                 "cena": 165
             },
             {
