@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 18,
+        "den": 25,
         "mesic": 11,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - bramborový krém s žampiony a zeleninou"
+                "nazev": "Polévka -   krupicová se zeleninou "
             },
             {
-                "nazev": "Mexické fazole s mletým masem",
-                "popis": " cibule, chléb",
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, okurek, pečivo ",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí steak zapečený herkulesem a hermelínem",
-                "popis": " šťouchané brambory",
+                "nazev": "Vepřové nudličky na žampionech",
+                "popis": " těstoviny penne",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranoůly, domácí tatarka ",
                 "cena": 165
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - špenátová s vejcem a bramborem"
+                "nazev": "Polévka -  cibulačka "
             },
             {
-                "nazev": "Masové koule",
-                "popis": " rajská omáčka, tarhoňa",
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, okurek, pečivo ",
                 "cena": 165
             },
             {
-                "nazev": "Trhané vepřové maso BBQ",
-                "popis": " hranolky, salát coleslaw",
+                "nazev": "Vepřové nudličky na žampionech",
+                "popis": " těstoviny penne",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka ",
                 "cena": 165
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
+                "nazev": "Medajlonky z vepřové panenky",
+                "popis": "pepřová omáčka, šťouchané brambory",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - krém z bílých fazolí se slaninou"
+                "nazev": "Polévka -  hrášková se slaninou "
             },
             {
-                "nazev": "Vepřové kostky s chorizovou omáčkou",
-                "popis": " jasmínová rýže",
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, okurek, pečivo ",
                 "cena": 165
             },
             {
-                "nazev": "Smažené kuřecí paličky",
-                "popis": " bramborová kaše, okurek",
+                "nazev": "Vepřové nudličky na žampionech",
+                "popis": " těstoviny penne",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka ",
                 "cena": 165
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
+                "nazev": "Medajlonky z vepřové panenky",
+                "popis": "pepřová omáčka, šťouchané brambory",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková s klobásou"
+                "nazev": "Polévka - gulášová "
             },
-            {
-                "nazev": "Koprová omáčka",
-                "popis": " vařené vejce, houskový knedlík",
+           {
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, okurek, pečivo ",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí ražniči na plech",
-                "popis": " pečené brambory s česnekem, tatarka",
+                "nazev": "Vepřové nudličky na žampionech",
+                "popis": " těstoviny penne",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka ",
                 "cena": 165
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže",
+                "nazev": "Medajlonky z vepřové panenky",
+                "popis": "pepřová omáčka, šťouchané brambory",
                 "cena": 199
             }
         ]
@@ -110,27 +110,27 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninový boršč"
+                "nazev": "Polévka - zabíjačková "
             },
-            {
-                "nazev": "Šulánky s mákem",
-                "popis": " cukrem a máslem",
+           {
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, okurek, pečivo ",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí ondráš",
-                "popis": " zelný salát s koprem, dip",
+                "nazev": "Vepřové nudličky na žampionech",
+                "popis": " těstoviny penne",
                 "cena": 165
             },
             {
-                "nazev": "Smažený sýr gouda",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " hranolky, domácí tatarka ",
                 "cena": 165
             },
             {
-                "nazev": "Vepřový plec",
-                "popis": " slaninová omáčka, houskový knedlík",
-                "cena": 165
+                "nazev": "Medajlonky z vepřové panenky",
+                "popis": "pepřová omáčka, šťouchané brambory",
+                "cena": 199
             }
         ]
     }
