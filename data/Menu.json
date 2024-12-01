@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 25,
-        "mesic": 11,
+        "den": 2,
+        "mesic": 12,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka -   krupicová se zeleninou "
+                "nazev": "Polévka - zeleninový krém se smaženým hráškem "
             },
             {
-                "nazev": "Čočka na kyselo",
-                "popis": " pečená klobása, okurek, pečivo ",
+                "nazev": "Špagety carbonara",
+                "popis": " parmezán",
                 "cena": 165
             },
             {
-                "nazev": "Vepřové nudličky na žampionech",
-                "popis": " těstoviny penne",
+                "nazev": "Vepřový guláš",
+                "popis": " cibule s křenem, houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " mačkané brambory, domácí tatarka ",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 165
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka -  cibulačka "
+                "nazev": "Polévka - hovězí vývar s masem, zeleninou a nudlemi"
             },
             {
-                "nazev": "Kuřecí steak caprese",
-                "popis": " bramborová kaše",
+                "nazev": "Gnochi s vepřovým masem po burgundsku",
+                "popis": "",
                 "cena": 165
             },
             {
-                "nazev": "Segedínskáý guláš",
-                "popis": " houskový knedlík ",
+                "nazev": "Kuřecí řízek",
+                "popis": " bramborový salát",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " kysané zelí, cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": "pepřová omáčka, šťouchané brambory",
+                "nazev": "Pomalu pečené hovězí maso",
+                "popis": " hřibovosmetanová omáčka, h. knedlík",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka -  hrášková se slaninou "
+                "nazev": "Polévka - frankfurtská s bramborem"
             },
             {
-                "nazev": "Smažené rybí filé",
-                "popis": " vařené brambory, citronový dip",
+                "nazev": "Pečené kuřecí stehno po sedlácku",
+                "popis": " dušená rýže  ",
                 "cena": 165
             },
             {
-                "nazev": "Chalupářská masová směs",
-                "popis": " hranolky",
+                "nazev": "Bavorský karbanátek",
+                "popis": " bramborová kaše, okurek",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " kysané zelí, cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": "pepřová omáčka, šťouchané brambory",
+                "nazev": "Pomalu pečené hovězí maso",
+                "popis": " hřibovosmetanová omáčka, h. knedlík",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - gulášová "
+                "nazev": "Polévka - česnečka"
             },
             {
-                "nazev": "Špagety bolognese",
-                "popis": "",
+                "nazev": "Hrachová kaše",
+                "popis": " uzené maso, okurek, cibule, chléb",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí kung-pao s wok zeleninou",
-                "popis": " jasmínová rýže ",
+                "nazev": "Pečená krkovice na česneku a pivu",
+                "popis": " dušená kedluben, vařené brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " kysané zelí, cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": "pepřová omáčka, šťouchané brambory",
+                "nazev": "Pomalu pečené hovězí maso",
+                "popis": " hřibovosmetanová omáčka, h. knedlík",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - zabíjačková "
+                "nazev": "Polévka - brokolicový krém s krutony"
             },
             {
-                "nazev": "Kynuté ovocné knedlíky",
-                "popis": " pražená strouhanka, cukr, máslo ",
+                "nazev": "Císařský trhanec",
+                "popis": "",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí řízek v cornflakes",
-                "popis": " šťouchané brambory, salátek ",
+                "nazev": "Vepřový závitek plněný slaninou a nivou",
+                "popis": " šťouchané brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " hranolky, domácí tatarka ",
+                "nazev": "Bramborové knedlíky plněné uzeným masem",
+                "popis": " kysané zelí, cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": "pepřová omáčka, šťouchané brambory",
+                "nazev": "Pomalu pečené hovězí maso",
+                "popis": " hřibovosmetanová omáčka, h. knedlík",
                 "cena": 199
             }
         ]
