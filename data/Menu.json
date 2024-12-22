@@ -1,137 +1,32 @@
 {
     "zacatekTydne": {
-        "den": 16,
+        "den": 22,
         "mesic": 12,
         "rok": 2024
     },
     "Pondeli": {
         "jidla": [
-            {
-                "nazev": "Polévka - čočková"
-            },
-            {
-                "nazev": "Bramborový guláš",
-                "popis": " cibule, chléb",
-                "cena": 165
-            },
-            {
-                "nazev": "Grilovaná kotleta",
-                "popis": " slaninová omáčka, hranolky",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené žampiony",
-                "popis": " máslové brambory, domácí tatarka",
-                "cena": 165
-            }
+            
         ]
     },
     "Utery": {
         "jidla": [
-            {
-                "nazev": "Polévka - valašská kyselice"
-            },
-            {
-                "nazev": "Zapečené šunkafleky s uzeným masem",
-                "popis": " sterilovaný okurek",
-                "cena": 165
-            },
-            {
-                "nazev": "Kuřecí steak zapečený s poličanem a hermelínem",
-                "popis": " bramborová kaše",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené žampiony",
-                "popis": " máslové brambory, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, pečivo ",
-                "cena": 199
-            }
+            
         ]
     },
     "Streda": {
         "jidla": [
-            {
-                "nazev": "Polévka - mexická"
-            },
-            {
-                "nazev": "Drůbeží játra na cibulce",
-                "popis": " jasmínová rýže, kukuřice",
-                "cena": 165
-            },
-            {
-                "nazev": "Šťavnatá vepřová plec s vejcem",
-                "popis": " houskový knedlík",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené žampiony",
-                "popis": " máslové brambory, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, pečivo",
-                "cena": 199
-            }
+            
         ]
     },
     "Ctvrtek": {
         "jidla": [
-            {
-                "nazev": "Polévka - francouzská s těstovinou"
-            },
-            {
-                "nazev": "Kuřecí nudličky na smetaně s brokolicí",
-                "popis": " farfalle",
-                "cena": 165
-            },
-            {
-                "nazev": "Vepřový gyros",
-                "popis": " bramborové plátky, tzatziki",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené žampiony",
-                "popis": " máslové brambory, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, pečivo",
-                "cena": 199
-            }
+            
         ]
     },
     "Patek": {
         "jidla": [
-            {
-                "nazev": "Polévka - hovězí vývar s masem a nudlemi"
-            },
-            {
-                "nazev": "Dukátové buchtičky s vanilkovým krémem",
-                "popis": "",
-                "cena": 165
-            },
-            {
-                "nazev": "Předvánoční vepřový řízek",
-                "popis": " tradiční bramborový salát",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené žampiony",
-                "popis": " máslové brambory, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Pečené vepřové koleno",
-                "popis": " jablka s křenem, pečivo",
-                "cena": 199
-            }
+            
         ]
     }
 }
