@@ -1,8 +1,8 @@
 {
     "zacatekTydne": {
-        "den": 23,
+        "den": 30,
         "mesic": 12,
-        "rok": 2024
+        "rok": 2025
     },
     "Pondeli": {
         "jidla": [
@@ -16,17 +16,51 @@
     },
     "Streda": {
         "jidla": [
-            
+           
         ]
     },
     "Ctvrtek": {
         "jidla": [
-            
+            {
+                "nazev": "Polévka - hrachová"
+            },
+            {
+                "nazev": "Kuřecí plátek po sedlácku",
+                "popis": "dušená rýže",
+                "cena": 165
+            },
+            {
+                "nazev": "Ceasar salát",
+                "popis": " ",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažaný sýr gouda",
+                "popis": " vařené brambory, domácí tatarka",
+                "cena": 165
+            }
         ]
     },
     "Patek": {
         "jidla": [
-            
+            {
+                "nazev": "Polévka - česnekovobramborový krém"
+            },
+            {
+                "nazev": "Mix listových salátů s grilovaným hermelínem",
+                "popis": " toast",
+                "cena": 165
+            },
+            {
+                "nazev": "Přírodní vepřový řízek",
+                "popis": " šťouchané brambory s cibulkou",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažaný sýr gouda",
+                "popis": " vařené brambory, domácí tatarka",
+                "cena": 165
+            }
         ]
     }
 }
