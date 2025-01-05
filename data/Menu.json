@@ -1,65 +1,136 @@
 {
     "zacatekTydne": {
-        "den": 30,
-        "mesic": 12,
-        "rok": 2024
+        "den": 6,
+        "mesic": 1,
+        "rok": 2025
     },
     "Pondeli": {
         "jidla": [
-            
+            {
+                "nazev": "Polévka - italská"
+            },
+            {
+                "nazev": "Masové rizoto po srbsku",
+                "popis": " strouhaný sýr gouda, okurek",
+                "cena": 165
+            },
+            {
+                "nazev": "Vepřový flamendr se zeleninou",
+                "popis": " krokety",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " šťouchané brambory s cibulkou, domácí tatarka",
+                "cena": 165
+            }
         ]
     },
     "Utery": {
         "jidla": [
-            
+            {
+                "nazev": "Polévka - babiččina bramboračka"
+            },
+            {
+                "nazev": "Uzené maso",
+                "popis": " křenová omáčka se smetanou, houskový knedlík",
+                "cena": 165
+            },
+            {
+                "nazev": "Pečená plec na česneku",
+                "popis": " slanině a pivu, jasmínová rýže",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " šťouchané brambory s cibulkou, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Vepřová játra na roštu",
+                "popis": " opékačky, dip ",
+                "cena": 199
+            }
         ]
     },
     "Streda": {
         "jidla": [
-           
+            {
+                "nazev": "Polévka - krém z bílých fazolí s uzeninou"
+            },
+            {
+                "nazev": "Gnochi s kuřecím masem",
+                "popis": " smetanový špenát, parmezán",
+                "cena": 165
+            },
+            {
+                "nazev": "Vepřové nudličky Stroganoff",
+                "popis": " mačkané brambory s pórkem",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " šťouchané brambory s cibulkou, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Vepřová játra na roštu",
+                "popis": " opékačky, dip",
+                "cena": 199
+            }
         ]
     },
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - hrachová"
+                "nazev": "Polévka - gulášová"
             },
             {
-                "nazev": "Kuřecí plátek po sedlácku",
-                "popis": "dušená rýže",
+                "nazev": "Pomalu pečený bůček",
+                "popis": " dušená kapusta, bramborový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Ceasar salát",
-                "popis": " ",
+                "nazev": "Holandská sekaná",
+                "popis": " bramborová kaše, zelný salát",
                 "cena": 165
             },
             {
-                "nazev": "Smažaný sýr gouda",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Smažený květák",
+                "popis": " šťouchané brambory s cibulkou, domácí tatarka",
                 "cena": 165
+            },
+            {
+                "nazev": "Vepřová játra na roštu",
+                "popis": " opékačky, dip",
+                "cena": 199
             }
         ]
     },
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - česnekovobramborový krém"
+                "nazev": "Polévka - uzená s kroupami"
             },
             {
-                "nazev": "Mix listových salátů s grilovaným hermelínem",
-                "popis": " toast",
+                "nazev": "Bramborové taštičky planěné povidlím",
+                "popis": " tvaroh, máslo",
                 "cena": 165
             },
             {
-                "nazev": "Přírodní vepřový řízek",
-                "popis": " šťouchané brambory s cibulkou",
+                "nazev": "Obrácený vepřový řízek",
+                "popis": " vídeňský bramborový salát",
                 "cena": 165
             },
             {
-                "nazev": "Smažaný sýr gouda",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Smažený květák",
+                "popis": " šťouchané brambory s cibulkou, domácí tatarka",
                 "cena": 165
+            },
+            {
+                "nazev": "Vepřová játra na roštu",
+                "popis": " opékačky, dip",
+                "cena": 199
             }
         ]
     }
