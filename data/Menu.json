@@ -1,8 +1,8 @@
 {
     "zacatekTydne": {
-        "den": 19,
-        "mesic": 8,
-        "rok": 2024
+        "den": 13,
+        "mesic": 1,
+        "rok": 2025
     },
     "Pondeli": {
         "jidla": [
@@ -10,8 +10,8 @@
                 "nazev": "Polévka - kmínová s uzeným a vejcem"
             },
             {
-                "nazev": "Farmářské fazole s klobásou",
-                "popis": " cibulka, chléb",
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, okurek, chléb",
                 "cena": 165
             },
             {

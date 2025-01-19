@@ -12,7 +12,7 @@ body{
 }
 /* ------------------NAVIGATION------------------ */
 .navbar-brand{
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster', cursive !important;
     font-size: 1.5rem;
     text-decoration: none;
     cursor: pointer;
@@ -143,7 +143,7 @@ nav ul li a:hover{
     text-decoration: underline;
 }
 .copyright{
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster', cursive !important;
     font-size: 1rem;
 }
 /* ----------------------PAGE TITLE------------------------ */
