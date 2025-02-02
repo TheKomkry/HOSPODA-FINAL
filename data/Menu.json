@@ -45,6 +45,11 @@
                 "nazev": "Smažený gothaj",
                 "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
+            },
+            {
+                "nazev": "Kotleta na grilu",
+                "popis": " pecená brambora se zakysanou smetanou, slaninová omácka",
+                "cena": 199
             }
         ]
     },
@@ -67,6 +72,11 @@
                 "nazev": "Smažený gothaj",
                 "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
+            },
+            {
+                "nazev": "Kotleta na grilu",
+                "popis": " pecená brambora se zakysanou smetanou, slaninová omácka",
+                "cena": 199
             }
         ]
     },
@@ -89,6 +99,11 @@
                 "nazev": "Smažený gothaj",
                 "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
+            },
+            {
+                "nazev": "Kotleta na grilu",
+                "popis": " pecená brambora se zakysanou smetanou, slaninová omácka",
+                "cena": 199
             }
         ]
     },
@@ -111,6 +126,11 @@
                 "nazev": "Smažený gothaj",
                 "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
+            },
+            {
+                "nazev": "Kotleta na grilu",
+                "popis": " pecená brambora se zakysanou smetanou, slaninová omácka",
+                "cena": 199
             }
         ]
     }
