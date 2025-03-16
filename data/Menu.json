@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 10,
+        "den": 17,
         "mesic": 3,
         "rok": 2025
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - zeleninový krém"
+                "nazev": "Polévka - kmínová s vejcem a zeleninou"
             },
             {
-                "nazev": "Kovbojské fazole s uzeninou",
-                "popis": " cibulka, pečivo",
+                "nazev": "Bramborový guláš s domácí klobásou a cibulkou",
+                "popis": " pečivo",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí nudličky na kari",
-                "popis": " jasmínová rýže",
+                "nazev": "Vepřový flamendr",
+                "popis": " jasmínová rýže s pórkem",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " máslové brambory s petrželkou",
                 "cena": 165
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - kuřecí kaldoun"
+                "nazev": "Polévka - drůbeží vývar s masem  a nudlemi"
             },
             {
-                "nazev": "Gnochi carbonara",
-                "popis": " parmezán",
+                "nazev": "Koprová omáčka",
+                "popis": " 2 ks vejce, vařené brambory",
                 "cena": 165
             },
             {
-                "nazev": "Vepřové výpečky",
-                "popis": " tuřanské kysané zelí, bramborový knedlík",
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " zapečená se šunkou a nivou, hranolky",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " máslové brambory s petrželkou",
                 "cena": 165
             },
             {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč ",
+                "nazev": "Hovězí guláš „kovář“",
+                "popis": " cibule, feferonka, houskový knedlík ",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková s párkem"
+                "nazev": "Polévka - mexická pikantní"
             },
             {
-                "nazev": "Masové rizoto se zeleninou",
-                "popis": " sýr gouda, okurek",
+                "nazev": "Plněné bramborové knedle s uzeným masem",
+                "popis": " tuřanské zelí, cibulka",
                 "cena": 165
             },
             {
-                "nazev": "Segedínský guláš",
+                "nazev": "Vepřová kýta po frankfurtsku",
                 "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " máslové brambory s petrželkou",
                 "cena": 165
             },
             {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč",
+                "nazev": "Hovězí guláš „kovář“",
+                "popis": " cibule, feferonka, houskový knedlík",
                 "cena": 199
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - valašská kyselice"
+                "nazev": "Polévka - česneková krémová se slaninou"
             },
             {
-                "nazev": "Francouzské brambory s vepřovým masem",
-                "popis": " okurkový salát",
+                "nazev": "Pečené kuřecí paličky BBQ",
+                "popis": " zelný salát, bagetka",
                 "cena": 165
             },
             {
-                "nazev": "Pečená krkovice na černém pivu",
-                "popis": " bramborová kaše",
+                "nazev": "Vepřové nudličky po myslivecku",
+                "popis": " pečené brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " máslové brambory s petrželkou",
                 "cena": 165
             },
             {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč",
+                "nazev": "Hovězí guláš „kovář“",
+                "popis": " cibule, feferonka, houskový knedlík",
                 "cena": 199
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - žampionový krém s bylinkovým olejem"
+                "nazev": "Polévka - kulajda"
             },
             {
-                "nazev": "Domácí kynuté knedle s ovocem",
-                "popis": " zakysaná smetana, skořice, cukr, máslo",
+                "nazev": "Dukátové buchtičky s vanilkovým krémem",
+                "popis": "",
                 "cena": 165
             },
             {
-                "nazev": "Krůtí řízek v parmezánové strouhance",
-                "popis": " mačkané brambory s pórkem",
+                "nazev": "Smažený vepřový řízek",
+                "popis": " sedlácké šťouchané brambory",
                 "cena": 165
             },
             {
-                "nazev": "Smažený hermelín s poličanem",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené žampiony",
+                "popis": " máslové brambory s petrželkou",
                 "cena": 165
             },
             {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč",
+                "nazev": "Hovězí guláš „kovář“",
+                "popis": " cibule, feferonka, houskový knedlík",
                 "cena": 199
             }
         ]
