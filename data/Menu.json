@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 7,
+        "den": 14,
         "mesic": 4,
         "rok": 2025
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka s vejcem a šunkou"
+                "nazev": "Polévka - krupicová s bramborem a vejcem  "
             },
             {
-                "nazev": "Špagety aglio olio peperoncino",
-                "popis": " rukola, parmezán  ",
+                "nazev": "Fazole v rajčatové omáčce",
+                "popis": " pečená klobása, pečivo",
                 "cena": 165
             },
             {
-                "nazev": "Kuřecí nudličky po thajsku",
+                "nazev": "Jemně pikantní masová směs",
                 "popis": " jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Smažený uzený sýr",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené rybí filé",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - drůbeží vývar s fritátovými nudlemi"
+                "nazev": "Polévka - hovězí vývar s masem, zeleninou a nudlemi"
             },
             {
-                "nazev": "Kuřecí špíz se zeleninou",
-                "popis": " vařené brambory, dip",
+                "nazev": "Záhorácký závitek",
+                "popis": " šťouchané brambory",
                 "cena": 165
             },
             {
-                "nazev": "Domácí sekaná s rajskou omáčkou",
-                "popis": " houskový knedlík",
+                "nazev": "Trhané vepřové maso v BBQ omáčce",
+                "popis": " hranolky, salát coleslaw",
                 "cena": 165
             },
             {
-                "nazev": "Smažený uzený sýr",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené rybí filé",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát s vepřovou panenkou ",
-                "popis": "",
+                "nazev": "Smažená vepřová játra",
+                "popis": " bramborový salát ",
                 "cena": 199
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - kapustová se slaninou a bramborem"
+                "nazev": "Polévka - dršťková"
             },
             {
-                "nazev": "Kuřecí steak na grilu",
-                "popis": " šťouchané brambory, bylinková omáčka",
+                "nazev": "Drůbeží játra na cibulce",
+                "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Vepřový guláš Kovář",
-                "popis": " domácí bramboráčky",
+                "nazev": "Vepřová kotleta zapečená herkulesem a hermelínem",
+                "popis": " bramborová kaše",
                 "cena": 165
             },
             {
-                "nazev": "Smažený uzený sýr",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené rybí filé",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát s vepřovou panenkou",
-                "popis": "",
+                "nazev": "Smažená vepřová játra",
+                "popis": " bramborový salát",
                 "cena": 199
             }
         ]
@@ -83,55 +83,33 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - květákový krém s římským kmínem"
+                "nazev": "Polévka - bramborovo-pórkový krém"
             },
             {
-                "nazev": "Gnochi  quatro formagi  s kuřecím masem",
+                "nazev": "Chilli con carne",
                 "popis": "",
                 "cena": 165
             },
             {
-                "nazev": "Řecké biftečky se sušenými rajčaty",
-                "popis": " bramborová kaše",
+                "nazev": "Moravský vrabec",
+                "popis": " listový špenát, bramborový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažený uzený sýr",
-                "popis": " hranolky, domácí tatarka",
+                "nazev": "Smažené rybí filé",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Caesar salát s vepřovou panenkou",
-                "popis": "",
+                "nazev": "Smažená vepřová játra",
+                "popis": " bramborový salát",
                 "cena": 199
             }
         ]
     },
     "Patek": {
         "jidla": [
-            {
-                "nazev": "Polévka - hrstková"
-            },
-            {
-                "nazev": "Palačinky s ovocnou marmeládou",
-                "popis": " citronový tvaroh, vanilkový cukr  ",
-                "cena": 165
-            },
-            {
-                "nazev": "Mix gril / kuřecí",
-                "popis": " vepřové /, pečené bramborové plátky, česnekový dip",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažený uzený sýr",
-                "popis": " hranolky, domácí tatarka",
-                "cena": 165
-            },
-            {
-                "nazev": "Caesar salát s vepřovou panenkou",
-                "popis": "",
-                "cena": 199
-            }
+
         ]
     }
 }
