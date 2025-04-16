@@ -1,0 +1,30 @@
+name: Scheduled Merge to Main
+
+on:
+  schedule:
+    - cron: '0 6 * * 0'  # každou neděli v 08:00 našeho času (06:00 UTC)
+
+permissions:
+  contents: write  # povolení pro zápis do mainu
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch scheduled-update branch
+        run: git fetch origin scheduled-update
+
+      - name: Merge scheduled-update into main
+        run: |
+          git merge origin/scheduled-update --no-ff -m "Auto-merge: scheduled Menu update"
+          git push origin main
