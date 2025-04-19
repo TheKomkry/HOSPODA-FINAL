@@ -1,6 +1,6 @@
-let alertText = "Otevírací doba přes vánoční svátky byla zveřejněna v Info & Akce nebo v Otevírací doba \n\nDěkujeme za pochopení.";
+let alertText = "Otevírací doba přes velikonočí svátky byla zveřejněna v Info & Akce nebo v Otevírací doba \n\nDěkujeme za pochopení.";
 let allowAlerts = true;
-let alertCode = 'VANOCE2024';
+let alertCode = 'VELIKONOCE2025';
 function alertUser() {
     let hasBeenAlerted = localStorage['hasBeenAlerted'] || 'false';
     if (hasBeenAlerted != alertCode && allowAlerts) {
