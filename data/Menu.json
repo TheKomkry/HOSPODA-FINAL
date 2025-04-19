@@ -1,54 +1,36 @@
 {
     "zacatekTydne": {
-        "den": 14,
+        "den": 22,
         "mesic": 4,
         "rok": 2025
     },
     "Pondeli": {
         "jidla": [
-            {
-                "nazev": "Polévka - krupicová s bramborem a vejcem  "
-            },
-            {
-                "nazev": "Fazole v rajčatové omáčce",
-                "popis": " pečená klobása, pečivo",
-                "cena": 165
-            },
-            {
-                "nazev": "Jemně pikantní masová směs",
-                "popis": " jasmínová rýže",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažené rybí filé",
-                "popis": " vařené brambory, domácí tatarka",
-                "cena": 165
-            }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem, zeleninou a nudlemi"
+                "nazev": "Polévka - čočková s uzeninou"
             },
             {
-                "nazev": "Záhorácký závitek",
-                "popis": " šťouchané brambory",
+                "nazev": "Buřtguláš s domácí klobásou",
+                "popis": " cibule, chléb",
                 "cena": 165
             },
             {
-                "nazev": "Trhané vepřové maso v BBQ omáčce",
-                "popis": " hranolky, salát coleslaw",
+                "nazev": "Maďarský kuřecí perkelt",
+                "popis": " jasmínová rýže",
                 "cena": 165
             },
             {
-                "nazev": "Smažené rybí filé",
+                "nazev": "Smažené žampiony",
                 "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " bramborový salát ",
+                "nazev": "Lasagne bolognese",
+                "popis": " parmezánový bešamel ",
                 "cena": 199
             }
         ]
@@ -56,26 +38,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - dršťková"
+                "nazev": "Polévka - kuřecí thajská"
             },
             {
-                "nazev": "Drůbeží játra na cibulce",
-                "popis": " houskový knedlík",
+                "nazev": "Strapačky s uzeným masem",
+                "popis": " tuřanské zelí, uzený špek",
                 "cena": 165
             },
             {
-                "nazev": "Vepřová kotleta zapečená herkulesem a hermelínem",
-                "popis": " bramborová kaše",
+                "nazev": "Holandský řízek",
+                "popis": " šťouchané brambory s konfitovanou cibulí",
                 "cena": 165
             },
             {
-                "nazev": "Smažené rybí filé",
+                "nazev": "Smažené žampiony",
                 "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " bramborový salát",
+                "nazev": "Lasagne bolognese",
+                "popis": " parmezánový bešamel",
                 "cena": 199
             }
         ]
@@ -83,33 +65,55 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - bramborovo-pórkový krém"
+                "nazev": "Polévka - hráškový krém s krutony"
             },
             {
-                "nazev": "Chilli con carne",
-                "popis": "",
+                "nazev": "Masové rizoto po srbsku sypané sýrem gouda",
+                "popis": " okurek",
                 "cena": 165
             },
             {
-                "nazev": "Moravský vrabec",
-                "popis": " listový špenát, bramborový knedlík",
+                "nazev": "Vepřová pečeně po hambursku",
+                "popis": " houskový knedlík",
                 "cena": 165
             },
             {
-                "nazev": "Smažené rybí filé",
+                "nazev": "Smažené žampiony",
                 "popis": " vařené brambory, domácí tatarka",
                 "cena": 165
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " bramborový salát",
+                "nazev": "Lasagne bolognese",
+                "popis": " parmezánový bešamel",
                 "cena": 199
             }
         ]
     },
     "Patek": {
         "jidla": [
-
+            {
+                "nazev": "Polévka - zelňačka s uzeninou"
+            },
+            {
+                "nazev": "Domácí žemlovka s jablky a tvarohem",
+                "popis": "",
+                "cena": 165
+            },
+            {
+                "nazev": "Kuřecí řízek v cornflakes",
+                "popis": " bramborové pyré",
+                "cena": 165
+            },
+            {
+                "nazev": "Smažené žampiony",
+                "popis": " vařené brambory, domácí tatarka",
+                "cena": 165
+            },
+            {
+                "nazev": "Lasagne bolognese",
+                "popis": " parmezánový bešamel",
+                "cena": 199
+            }
         ]
     }
 }
