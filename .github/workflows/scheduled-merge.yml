@@ -1,34 +1,31 @@
-name: Scheduled Menu Update (test)
+name: Scheduled Merge to Main
 
 on:
   schedule:
-    - cron: '20 14 * * 6'  # Sobota 16:20 českého času (14:20 UTC)
-  workflow_dispatch:      # Umožní ruční spuštění z GitHub Actions
+    - cron: '0 6 * * 0'  # každou neděli v 08:00 našeho času (06:00 UTC)
+  workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # povolení pro zápis do mainu
 
 jobs:
-  update-menu:
+  merge:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
           ref: main
 
-      - name: Fetch scheduled-update branch
-        run: |
-          git fetch origin scheduled-update
-
-      - name: Replace only data/Menu.json from scheduled-update
-        run: |
-          git checkout origin/scheduled-update -- data/Menu.json
-
-      - name: Commit and push updated Menu.json
+      - name: Set up Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Scheduled update: replaced Menu.json from scheduled-update"
+
+      - name: Fetch scheduled-update branch
+        run: git fetch origin scheduled-update
+
+      - name: Merge scheduled-update into main
+        run: |
+          git merge origin/scheduled-update --no-ff -m "Auto-merge: scheduled Menu update"
           git push origin main
