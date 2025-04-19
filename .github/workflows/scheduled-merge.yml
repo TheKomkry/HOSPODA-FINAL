@@ -3,6 +3,7 @@ name: Scheduled Menu Update (test)
 on:
   schedule:
     - cron: '20 14 * * 6'  # Sobota 16:20 českého času (14:20 UTC)
+  workflow_dispatch:      # Umožní ruční spuštění z GitHub Actions
 
 permissions:
   contents: write
