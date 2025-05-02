@@ -1,83 +1,113 @@
 {
     "zacatekTydne": {
-        "den": 28,
-        "mesic": 4,
-        "rok": 2025
+      "den": 5,
+      "mesic": 5,
+      "rok": 2025
     },
     "Pondeli": {
-        "jidla": [
-            {
-                "nazev": "Polévka - moravská cibulačka s uzeným"
-            },
-            {
-                "nazev": "Zeleninové lečo s domácí klobásou",
-                "popis": " pečivo",
-                "cena": 165
-            },
-            {
-                "nazev": "Pečená krkovička na pivě a česneku",
-                "popis": " jasmínová rýže",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažený květák",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 165
-            }
-        ]
+      "jidla": [
+        {
+          "nazev": "Polévka - česnečka s uzeninou"
+        },
+        {
+          "nazev": "Hrachová kaše, pečená klobása, cibulka, okurek",
+          "popis": " chléb",
+          "cena": 165
+        },
+        {
+          "nazev": "Přírodní vepřový plátek po selsku",
+          "popis": " dušená rýže",
+          "cena": 165
+        }
+      ]
     },
     "Utery": {
-        "jidla": [
-            {
-                "nazev": "Polévka - hovězí vývar s masem a zeleninou, tarhoňa"
-            },
-            {
-                "nazev": "Štěpánská vepřová pečeně",
-                "popis": " houskový knedlík",
-                "cena": 165
-            },
-            {
-                "nazev": "Uzená kýta",
-                "popis": " bramborová kaše, strouhaný křen, okurek",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažený květák",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 165
-            }
-        ]
+      "jidla": [
+        {
+          "nazev": "Polévka - masový vývar s fritátovými nudlemi"
+        },
+        {
+          "nazev": "Tagliatelle po milánsku",
+          "popis": " parmezán, rukola",
+          "cena": 165
+        },
+        {
+          "nazev": "Pečená kýta",
+          "popis": " dušená kapusta se slaninou, vařené brambory",
+          "cena": 165
+        },
+        {
+          "nazev": "Pečené vepřové koleno",
+          "popis": " jablka s křenem, chléb",
+          "cena": 199
+        }
+      ]
     },
     "Streda": {
-        "jidla": [
-            {
-                "nazev": "Polévka - kedlubnová s bramborem"
-            },
-            {
-                "nazev": "Smažené kuřecí paličky ",
-                "popis": " sweet chilli omáčka, coleslaw",
-                "cena": 165
-            },
-            {
-                "nazev": "Vepřová játra na roštu",
-                "popis": " pečené brambory, dip",
-                "cena": 165
-            },
-            {
-                "nazev": "Smažený květák",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 165
-            }
-        ]
+      "jidla": [
+        {
+          "nazev": "Polévka - minestrone"
+        },
+        {
+          "nazev": "Plněný paprikový lusk",
+          "popis": " rajská omáčka, houskový knedlík",
+          "cena": 165
+        },
+        {
+          "nazev": "Kuřecí steak capese",
+          "popis": " šťouchané brambory s pórkem",
+          "cena": 165
+        },
+        {
+          "nazev": "Pečené vepřové koleno",
+          "popis": " jablka s křenem, chléb",
+          "cena": 199
+        }
+      ]
     },
     "Ctvrtek": {
-        "jidla": [
-            
-        ]
+      "jidla": [
+        {
+          "nazev": "Polévka - frankfurtská s párkem"
+        },
+        {
+          "nazev": "Gnochi se špenátem a kuřecím masem",
+          "popis": "",
+          "cena": 165
+        },
+        {
+          "nazev": "Kotleta na grilu",
+          "popis": " pepřová omáčka, pečené brambory",
+          "cena": 165
+        },
+        {
+          "nazev": "Pečené vepřové koleno",
+          "popis": " jablka s křenem, chléb",
+          "cena": 199
+        }
+      ]
     },
     "Patek": {
-        "jidla": [
-            
-        ]
+      "jidla": [
+        {
+          "nazev": "Polévka - zeleninová krémová se smaženým hráškem"
+        },
+        {
+          "nazev": "Kynuté ovocné knedle",
+          "popis": " zakysaná smetana, skořice, máslo",
+          "cena": 165
+        },
+        {
+          "nazev": "Smažený vepřový řízek",
+          "popis": " vídeňský bramborový salát",
+          "cena": 165
+        },
+        {
+          "nazev": "Pečené vepřové koleno",
+          "popis": " jablka s křenem, chléb",
+          "cena": 199
+        }
+      ]
     }
-}
+  }
+  
