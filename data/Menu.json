@@ -1,113 +1,137 @@
 {
-    "zacatekTydne": {
-      "den": 5,
-      "mesic": 5,
-      "rok": 2025
-    },
-    "Pondeli": {
-      "jidla": [
-        {
-          "nazev": "Polévka - česnečka s uzeninou"
-        },
-        {
-          "nazev": "Hrachová kaše, pečená klobása, cibulka, okurek",
-          "popis": " chléb",
-          "cena": 165
-        },
-        {
-          "nazev": "Přírodní vepřový plátek po selsku",
-          "popis": " dušená rýže",
-          "cena": 165
-        }
-      ]
-    },
-    "Utery": {
-      "jidla": [
-        {
-          "nazev": "Polévka - masový vývar s fritátovými nudlemi"
-        },
-        {
-          "nazev": "Tagliatelle po milánsku",
-          "popis": " parmezán, rukola",
-          "cena": 165
-        },
-        {
-          "nazev": "Pečená kýta",
-          "popis": " dušená kapusta se slaninou, vařené brambory",
-          "cena": 165
-        },
-        {
-          "nazev": "Pečené vepřové koleno",
-          "popis": " jablka s křenem, chléb",
-          "cena": 199
-        }
-      ]
-    },
-    "Streda": {
-      "jidla": [
-        {
-          "nazev": "Polévka - minestrone"
-        },
-        {
-          "nazev": "Plněný paprikový lusk",
-          "popis": " rajská omáčka, houskový knedlík",
-          "cena": 165
-        },
-        {
-          "nazev": "Kuřecí steak capese",
-          "popis": " šťouchané brambory s pórkem",
-          "cena": 165
-        },
-        {
-          "nazev": "Pečené vepřové koleno",
-          "popis": " jablka s křenem, chléb",
-          "cena": 199
-        }
-      ]
-    },
-    "Ctvrtek": {
-      "jidla": [
-        {
-          "nazev": "Polévka - frankfurtská s párkem"
-        },
-        {
-          "nazev": "Gnochi se špenátem a kuřecím masem",
-          "popis": "",
-          "cena": 165
-        },
-        {
-          "nazev": "Kotleta na grilu",
-          "popis": " pepřová omáčka, pečené brambory",
-          "cena": 165
-        },
-        {
-          "nazev": "Pečené vepřové koleno",
-          "popis": " jablka s křenem, chléb",
-          "cena": 199
-        }
-      ]
-    },
-    "Patek": {
-      "jidla": [
-        {
-          "nazev": "Polévka - zeleninová krémová se smaženým hráškem"
-        },
-        {
-          "nazev": "Kynuté ovocné knedle",
-          "popis": " zakysaná smetana, skořice, máslo",
-          "cena": 165
-        },
-        {
-          "nazev": "Smažený vepřový řízek",
-          "popis": " vídeňský bramborový salát",
-          "cena": 165
-        },
-        {
-          "nazev": "Pečené vepřové koleno",
-          "popis": " jablka s křenem, chléb",
-          "cena": 199
-        }
-      ]
-    }
+  "zacatekTydne": {
+    "den": 5,
+    "mesic": 5,
+    "rok": 2025
+  },
+  "Pondeli": {
+    "jidla": [
+      {
+        "nazev": "Polévka – česnečka s uzeninou"
+      },
+      {
+        "nazev": "Hrachová kaše",
+        "popis": "pečená klobása, cibulka, okurek, chléb",
+        "cena": 165
+      },
+      {
+        "nazev": "Přírodní vepřový plátek po selsku",
+        "popis": "dušená rýže",
+        "cena": 165
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
+        "cena": 165
+      }
+    ]
+  },
+  "Utery": {
+    "jidla": [
+      {
+        "nazev": "Polévka – masový vývar s fritátovými nudlemi"
+      },
+      {
+        "nazev": "Tagliatelle po milánsku",
+        "popis": "parmezán, rukola",
+        "cena": 165
+      },
+      {
+        "nazev": "Pečená kýta",
+        "popis": "dušená kapusta se slaninou, vařené brambory",
+        "cena": 165
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
+        "cena": 165
+      },
+      {
+        "nazev": "Pečené vepřové koleno",
+        "popis": "jablka s křenem, chléb",
+        "cena": 199
+      }
+    ]
+  },
+  "Streda": {
+    "jidla": [
+      {
+        "nazev": "Polévka – minestrone"
+      },
+      {
+        "nazev": "Plněný paprikový lusk",
+        "popis": "rajská omáčka, houskový knedlík",
+        "cena": 165
+      },
+      {
+        "nazev": "Kuřecí steak capese",
+        "popis": "šťouchané brambory s pórkem",
+        "cena": 165
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
+        "cena": 165
+      },
+      {
+        "nazev": "Pečené vepřové koleno",
+        "popis": "jablka s křenem, chléb",
+        "cena": 199
+      }
+    ]
+  },
+  "Ctvrtek": {
+    "jidla": [
+      {
+        "nazev": "Polévka – frankfurtská s párkem"
+      },
+      {
+        "nazev": "Gnochi se špenátem a kuřecím masem",
+        "popis": "",
+        "cena": 165
+      },
+      {
+        "nazev": "Kotleta na grilu",
+        "popis": "pepřová omáčka, pečené brambory",
+        "cena": 165
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
+        "cena": 165
+      },
+      {
+        "nazev": "Pečené vepřové koleno",
+        "popis": "jablka s křenem, chléb",
+        "cena": 199
+      }
+    ]
+  },
+  "Patek": {
+    "jidla": [
+      {
+        "nazev": "Polévka – zeleninová krémová se smaženým hráškem"
+      },
+      {
+        "nazev": "Kynuté ovocné knedle",
+        "popis": "zakysaná smetana, skořice, máslo",
+        "cena": 165
+      },
+      {
+        "nazev": "Smažený vepřový řízek",
+        "popis": "vídeňský bramborový salát",
+        "cena": 165
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
+        "cena": 165
+      },
+      {
+        "nazev": "Pečené vepřové koleno",
+        "popis": "jablka s křenem, chléb",
+        "cena": 199
+      }
+    ]
   }
-  
+}
