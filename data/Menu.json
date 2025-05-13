@@ -67,11 +67,6 @@
         "nazev": "Smažené sýrové duo",
         "popis": "vařené brambory, domácí tatarka",
         "cena": 165
-      },
-      {
-        "nazev": "Svíčková na smetaně",
-        "popis": "houskový knedlík, brusinkový terč",
-        "cena": 219
       }
     ]
   },
@@ -94,11 +89,6 @@
         "nazev": "Smažené sýrové duo",
         "popis": "vařené brambory, domácí tatarka",
         "cena": 165
-      },
-      {
-        "nazev": "Svíčková na smetaně",
-        "popis": "houskový knedlík, brusinkový terč",
-        "cena": 219
       }
     ]
   },
@@ -121,11 +111,6 @@
         "nazev": "Smažené sýrové duo",
         "popis": "vařené brambory, domácí tatarka",
         "cena": 165
-      },
-      {
-        "nazev": "Svíčková na smetaně",
-        "popis": "houskový knedlík, brusinkový terč",
-        "cena": 219
       }
     ]
   }
