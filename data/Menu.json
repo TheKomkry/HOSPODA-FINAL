@@ -45,6 +45,11 @@
         "nazev": "Smažený květák",
         "popis": "vařené brambory, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Svíčková na smetaně",
+        "popis": "houskový knedlík, brusinkový terč",
+        "cena": 219
       }
     ]
   },
@@ -67,6 +72,11 @@
         "nazev": "Smažený květák",
         "popis": "vařené brambory, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Svíčková na smetaně",
+        "popis": "houskový knedlík, brusinkový terč",
+        "cena": 219
       }
     ]
   },
@@ -89,6 +99,11 @@
         "nazev": "Smažený květák",
         "popis": "vařené brambory, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Svíčková na smetaně",
+        "popis": "houskový knedlík, brusinkový terč",
+        "cena": 219
       }
     ]
   },
@@ -111,6 +126,11 @@
         "nazev": "Smažený květák",
         "popis": "vařené brambory, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Svíčková na smetaně",
+        "popis": "houskový knedlík, brusinkový terč",
+        "cena": 219
       }
     ]
   }
