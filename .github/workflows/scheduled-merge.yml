@@ -2,7 +2,7 @@ name: Scheduled Merge to Main
 
 on:
   schedule:
-    - cron: '0 6 * * 0'  # každou neděli v 08:00 našeho času (06:00 UTC)
+    - cron: '0 6 * * 6'  # každou sobotu v 08:00 našeho času (06:00 UTC)
   workflow_dispatch:
 
 permissions:
