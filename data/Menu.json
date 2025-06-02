@@ -1,27 +1,27 @@
 {
   "zacatekTydne": {
-    "den": 26,
-    "mesic": 5,
+    "den": 2,
+    "mesic": 6,
     "rok": 2025
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – špenátová s vejci a bramborem"
+        "nazev": "Polévka – rajská s těstovinou"
       },
       {
-        "nazev": "Buřtguláš",
-        "popis": "cibule, chléb",
+        "nazev": "Čočka na kyselo",
+        "popis": "pečená klobása, cibule, okurek, chléb",
         "cena": 165
       },
       {
-        "nazev": "Vepřový flamendr se zeleninou",
+        "nazev": "Kuřecí kari sote",
         "popis": "jasmínová rýže",
         "cena": 165
       },
       {
-        "nazev": "Smažený hermelín",
-        "popis": "hranolky, domácí tatarka",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory s máslem, domácí tatarka",
         "cena": 165
       }
     ]
@@ -29,26 +29,26 @@
   "Utery": {
     "jidla": [
       {
-        "nazev": "Polévka – hovězí vývar s masem a nudlemi"
+        "nazev": "Polévka – kuřecí kaldoun"
       },
       {
-        "nazev": "Smažená tilapie",
-        "popis": "vařené brambory, citrusová majonéza",
+        "nazev": "Špagety po uhlířsku",
+        "popis": "parmezán",
         "cena": 165
       },
       {
-        "nazev": "Kuřecí nudličky na čerstvé paprice",
-        "popis": "mačkané brambory s cibulí",
+        "nazev": "Pečená krkovice na česneku a pivu",
+        "popis": "houskový knedlík",
         "cena": 165
       },
       {
-        "nazev": "Plněné bramborové knedlíky",
-        "popis": "uzeným masem, kysané zelí, cibulka",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory s máslem, domácí tatarka",
         "cena": 165
       },
       {
-        "nazev": "Kotleta na grilu",
-        "popis": "slaninová omáčka, hranolky, zelný salátek",
+        "nazev": "Řízečky z vepřové panenky",
+        "popis": "vídeňský bramborový salát",
         "cena": 219
       }
     ]
@@ -56,26 +56,26 @@
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka – květáková"
+        "nazev": "Polévka – česnekovo-bramborový krém se zeleninou"
       },
       {
-        "nazev": "Gnocchi „amatriciana“",
-        "popis": "(rajčata, olivy, pancheta, česnek, bílé víno), špenát, parmezán",
+        "nazev": "Zadělávané fazolové lusky na smetaně",
+        "popis": "vařené vejce, šťouchané brambory",
         "cena": 165
       },
       {
-        "nazev": "Vepřový guláš",
-        "popis": "s domácími bramboráčky",
+        "nazev": "Vepřová kotleta na grilu se šunkou a sýrem",
+        "popis": "krokety",
         "cena": 165
       },
       {
-        "nazev": "Plněné bramborové knedlíky",
-        "popis": "uzeným masem, kysané zelí, cibulka",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory s máslem, domácí tatarka",
         "cena": 165
       },
       {
-        "nazev": "Kotleta na grilu",
-        "popis": "slaninová omáčka, hranolky, zelný salátek",
+        "nazev": "Řízečky z vepřové panenky",
+        "popis": "vídeňský bramborový salát",
         "cena": 219
       }
     ]
@@ -83,26 +83,26 @@
   "Ctvrtek": {
     "jidla": [
       {
-        "nazev": "Polévka – mrkvový krém s chilli a kokosovým mlékem"
+        "nazev": "Polévka – zelňačka s klobásou"
       },
       {
-        "nazev": "Kuřecí steak na grilu",
-        "popis": "sýrová omáčka, pečené brambory",
+        "nazev": "Hřibové italské rizoto",
+        "popis": "rukola, parmezán",
         "cena": 165
       },
       {
-        "nazev": "Vepřová kýta po hambursku",
-        "popis": "houskový knedlík",
+        "nazev": "Kuřecí kung-pao",
+        "popis": "wok zelenina, rýže",
         "cena": 165
       },
       {
-        "nazev": "Plněné bramborové knedlíky",
-        "popis": "uzeným masem, kysané zelí, cibulka",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory s máslem, domácí tatarka",
         "cena": 165
       },
       {
-        "nazev": "Kotleta na grilu",
-        "popis": "slaninová omáčka, hranolky, zelný salátek",
+        "nazev": "Řízečky z vepřové panenky",
+        "popis": "vídeňský bramborový salát",
         "cena": 219
       }
     ]
@@ -110,26 +110,26 @@
   "Patek": {
     "jidla": [
       {
-        "nazev": "Polévka – zeleninový boršč"
+        "nazev": "Polévka – kapustová s bramborem"
       },
       {
-        "nazev": "Šulánky s mákem",
-        "popis": "cukrem a máslem",
+        "nazev": "Palačinky s tvarohem a povidlím",
+        "popis": "vanilkový cukr",
         "cena": 165
       },
       {
-        "nazev": "Řízkové duo",
-        "popis": "(kuřecí, vepřový), bramborová kaše, okurek",
+        "nazev": "Holandský řízek",
+        "popis": "bramborová kaše, okurek",
         "cena": 165
       },
       {
-        "nazev": "Plněné bramborové knedlíky",
-        "popis": "uzeným masem, kysané zelí, cibulka",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory s máslem, domácí tatarka",
         "cena": 165
       },
       {
-        "nazev": "Kotleta na grilu",
-        "popis": "slaninová omáčka, hranolky, zelný salátek",
+        "nazev": "Řízečky z vepřové panenky",
+        "popis": "vídeňský bramborový salát",
         "cena": 219
       }
     ]
