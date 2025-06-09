@@ -1,27 +1,27 @@
 {
   "zacatekTydne": {
-    "den": 2,
+    "den": 9,
     "mesic": 6,
     "rok": 2025
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – rajská s těstovinou"
+        "nazev": "Polévka – hrachová s uzeninou"
       },
       {
-        "nazev": "Čočka na kyselo",
-        "popis": "pečená klobása, cibule, okurek, chléb",
+        "nazev": "Tagliatelle s bazalkovým pestem",
+        "popis": "ricotta, cherry rajče, parmezán",
         "cena": 165
       },
       {
-        "nazev": "Kuřecí kari sote",
-        "popis": "jasmínová rýže",
+        "nazev": "Přírodní vepřový řízek",
+        "popis": "bylinková omáčka se slaninou, pečené brambory",
         "cena": 165
       },
       {
-        "nazev": "Smažený uzený sýr",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažený gothaj",
+        "popis": "máslové brambory, domácí tatarka",
         "cena": 165
       }
     ]
@@ -29,108 +29,108 @@
   "Utery": {
     "jidla": [
       {
-        "nazev": "Polévka – kuřecí kaldoun"
+        "nazev": "Polévka – hovězí vývar se zeleninou a nudlemi"
       },
       {
-        "nazev": "Špagety po uhlířsku",
-        "popis": "parmezán",
+        "nazev": "Francouzské brambory",
+        "popis": "s vepřovým masem, salát coleslaw",
         "cena": 165
       },
       {
-        "nazev": "Pečená krkovice na česneku a pivu",
+        "nazev": "Segedínský guláš",
         "popis": "houskový knedlík",
         "cena": 165
       },
       {
-        "nazev": "Smažený uzený sýr",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažený gothaj",
+        "popis": "máslové brambory, domácí tatarka",
         "cena": 165
       },
       {
-        "nazev": "Řízečky z vepřové panenky",
-        "popis": "vídeňský bramborový salát",
-        "cena": 219
+        "nazev": "Kuřecí supreme",
+        "popis": "zelenina ratatouille, jasmínová rýže",
+        "cena": 220
       }
     ]
   },
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka – česnekovo-bramborový krém se zeleninou"
+        "nazev": "Polévka – pórková s vejcem a bramborem"
       },
       {
-        "nazev": "Zadělávané fazolové lusky na smetaně",
-        "popis": "vařené vejce, šťouchané brambory",
+        "nazev": "Drůbeží játra na cibulce",
+        "popis": "dušená rýže, okurek",
         "cena": 165
       },
       {
-        "nazev": "Vepřová kotleta na grilu se šunkou a sýrem",
-        "popis": "krokety",
+        "nazev": "Domácí sekaná se špekem",
+        "popis": "bramborová kaše, červená řepa",
         "cena": 165
       },
       {
-        "nazev": "Smažený uzený sýr",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažený gothaj",
+        "popis": "máslové brambory, domácí tatarka",
         "cena": 165
       },
       {
-        "nazev": "Řízečky z vepřové panenky",
-        "popis": "vídeňský bramborový salát",
-        "cena": 219
+        "nazev": "Kuřecí supreme",
+        "popis": "zelenina ratatouille, jasmínová rýže",
+        "cena": 220
       }
     ]
   },
   "Ctvrtek": {
     "jidla": [
       {
-        "nazev": "Polévka – zelňačka s klobásou"
+        "nazev": "Polévka – gulášová"
       },
       {
-        "nazev": "Hřibové italské rizoto",
-        "popis": "rukola, parmezán",
+        "nazev": "Kuřecí stehno ala kachna",
+        "popis": "červené zelí, bramborový knedlík",
         "cena": 165
       },
       {
-        "nazev": "Kuřecí kung-pao",
-        "popis": "wok zelenina, rýže",
+        "nazev": "Katův šleh",
+        "popis": "hranolky, domácí tatarka",
         "cena": 165
       },
       {
-        "nazev": "Smažený uzený sýr",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažený gothaj",
+        "popis": "máslové brambory, domácí tatarka",
         "cena": 165
       },
       {
-        "nazev": "Řízečky z vepřové panenky",
-        "popis": "vídeňský bramborový salát",
-        "cena": 219
+        "nazev": "Kuřecí supreme",
+        "popis": "zelenina ratatouille, jasmínová rýže",
+        "cena": 220
       }
     ]
   },
   "Patek": {
     "jidla": [
       {
-        "nazev": "Polévka – kapustová s bramborem"
+        "nazev": "Polévka – cibulačka"
       },
       {
-        "nazev": "Palačinky s tvarohem a povidlím",
-        "popis": "vanilkový cukr",
+        "nazev": "Domácí kynuté ovocné knedlíky",
+        "popis": "zakysaná smetana, cukr, máslo, skořice",
         "cena": 165
       },
       {
-        "nazev": "Holandský řízek",
-        "popis": "bramborová kaše, okurek",
+        "nazev": "Kuřecí řízek v cornflakes",
+        "popis": "šťouchané brambory s cibulkou a pažitkou",
         "cena": 165
       },
       {
-        "nazev": "Smažený uzený sýr",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažený gothaj",
+        "popis": "máslové brambory, domácí tatarka",
         "cena": 165
       },
       {
-        "nazev": "Řízečky z vepřové panenky",
-        "popis": "vídeňský bramborový salát",
-        "cena": 219
+        "nazev": "Kuřecí supreme",
+        "popis": "zelenina ratatouille, jasmínová rýže",
+        "cena": 220
       }
     ]
   }
