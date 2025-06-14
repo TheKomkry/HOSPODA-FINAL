@@ -1,27 +1,27 @@
 {
   "zacatekTydne": {
-    "den": 9,
+    "den": 16,
     "mesic": 6,
     "rok": 2025
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – hrachová s uzeninou"
+        "nazev": "Polévka – zeleninová s krupicí"
       },
       {
-        "nazev": "Tagliatelle s bazalkovým pestem",
-        "popis": "ricotta, cherry rajče, parmezán",
+        "nazev": "Kovbojské fazole",
+        "popis": "s domácí klobásou, pečivo",
         "cena": 165
       },
       {
-        "nazev": "Přírodní vepřový řízek",
-        "popis": "bylinková omáčka se slaninou, pečené brambory",
+        "nazev": "Masové nudličky po srbsku",
+        "popis": "dušená rýže",
         "cena": 165
       },
       {
-        "nazev": "Smažený gothaj",
-        "popis": "máslové brambory, domácí tatarka",
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": "vařené brambory, domácí tatarka",
         "cena": 165
       }
     ]
@@ -29,108 +29,88 @@
   "Utery": {
     "jidla": [
       {
-        "nazev": "Polévka – hovězí vývar se zeleninou a nudlemi"
+        "nazev": "Polévka – uzená s kroupami"
       },
       {
-        "nazev": "Francouzské brambory",
-        "popis": "s vepřovým masem, salát coleslaw",
+        "nazev": "Kuřecí gyros",
+        "popis": "hranolky, tzatziki",
         "cena": 165
       },
       {
-        "nazev": "Segedínský guláš",
-        "popis": "houskový knedlík",
+        "nazev": "Moravský vrabec",
+        "popis": "tuřanské zelí, houskový knedlík",
         "cena": 165
       },
       {
-        "nazev": "Smažený gothaj",
-        "popis": "máslové brambory, domácí tatarka",
+        "nazev": "Smažené žampiony",
+        "popis": "vařené brambory s máslem a pažitkou, tatarka",
         "cena": 165
-      },
-      {
-        "nazev": "Kuřecí supreme",
-        "popis": "zelenina ratatouille, jasmínová rýže",
-        "cena": 220
       }
     ]
   },
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka – pórková s vejcem a bramborem"
+        "nazev": "Polévka – koprová s bramborem a vejcem"
       },
       {
-        "nazev": "Drůbeží játra na cibulce",
-        "popis": "dušená rýže, okurek",
+        "nazev": "Marinovaná kuřecí křídla BBQ",
+        "popis": "zelný salát s mrkví, bageta",
         "cena": 165
       },
       {
-        "nazev": "Domácí sekaná se špekem",
-        "popis": "bramborová kaše, červená řepa",
+        "nazev": "Vepřový závitek",
+        "popis": "s herkulesem a nivou, šťouchané brambory",
         "cena": 165
       },
       {
-        "nazev": "Smažený gothaj",
-        "popis": "máslové brambory, domácí tatarka",
+        "nazev": "Smažené žampiony",
+        "popis": "vařené brambory s máslem a pažitkou, tatarka",
         "cena": 165
-      },
-      {
-        "nazev": "Kuřecí supreme",
-        "popis": "zelenina ratatouille, jasmínová rýže",
-        "cena": 220
       }
     ]
   },
   "Ctvrtek": {
     "jidla": [
       {
-        "nazev": "Polévka – gulášová"
+        "nazev": "Polévka – dršťková z hlívy ústřičné"
       },
       {
-        "nazev": "Kuřecí stehno ala kachna",
-        "popis": "červené zelí, bramborový knedlík",
+        "nazev": "Boloňské špagety",
+        "popis": "sypané sýrem",
         "cena": 165
       },
       {
-        "nazev": "Katův šleh",
-        "popis": "hranolky, domácí tatarka",
+        "nazev": "Kotleta na grilu",
+        "popis": "sázené vejce, bramborové plátky, dip",
         "cena": 165
       },
       {
-        "nazev": "Smažený gothaj",
-        "popis": "máslové brambory, domácí tatarka",
+        "nazev": "Smažené žampiony",
+        "popis": "vařené brambory s máslem a pažitkou, tatarka",
         "cena": 165
-      },
-      {
-        "nazev": "Kuřecí supreme",
-        "popis": "zelenina ratatouille, jasmínová rýže",
-        "cena": 220
       }
     ]
   },
   "Patek": {
     "jidla": [
       {
-        "nazev": "Polévka – cibulačka"
+        "nazev": "Polévka – krémová česnečka"
       },
       {
-        "nazev": "Domácí kynuté ovocné knedlíky",
-        "popis": "zakysaná smetana, cukr, máslo, skořice",
+        "nazev": "Domácí žemlovka",
+        "popis": "s jablky a tvarohem",
         "cena": 165
       },
       {
-        "nazev": "Kuřecí řízek v cornflakes",
-        "popis": "šťouchané brambory s cibulkou a pažitkou",
+        "nazev": "Kuřecí řízek v parmezánové strouhance",
+        "popis": "bramborová kaše, okurek",
         "cena": 165
       },
       {
-        "nazev": "Smažený gothaj",
-        "popis": "máslové brambory, domácí tatarka",
+        "nazev": "Smažené žampiony",
+        "popis": "vařené brambory s máslem a pažitkou, tatarka",
         "cena": 165
-      },
-      {
-        "nazev": "Kuřecí supreme",
-        "popis": "zelenina ratatouille, jasmínová rýže",
-        "cena": 220
       }
     ]
   }
