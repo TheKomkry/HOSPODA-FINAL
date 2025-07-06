@@ -1,27 +1,27 @@
 {
   "zacatekTydne": {
-    "den": 23,
-    "mesic": 6,
+    "den": 7,
+    "mesic": 7,
     "rok": 2025
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – italská rajčatová"
+        "nazev": "Polévka – krém z pečených paprik"
       },
       {
-        "nazev": "Hrachová kaše",
-        "popis": "pečená klobása, konfitovaná cibule, chléb",
+        "nazev": "Bramborový guláš",
+        "popis": "s domácí klobásou, pečivo",
         "cena": 165
       },
       {
-        "nazev": "Masové mix rizoto",
-        "popis": "se zeleninou, strouhaný sýr, okurek",
+        "nazev": "Kuřecí plátek",
+        "popis": "chorizová omáčka s tymiánem, krokety",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený sýr gouda",
+        "popis": "hranolky, domácí tatarka",
         "cena": 165
       }
     ]
@@ -29,21 +29,21 @@
   "Utery": {
     "jidla": [
       {
-        "nazev": "Polévka – drůbeží vývar s masem a nudlemi"
+        "nazev": "Polévka – thajská kuřecí"
       },
       {
-        "nazev": "Kuřecí nudličky na žampionech",
-        "popis": "šťouchané brambory",
+        "nazev": "Fusilli s vepřovým masem",
+        "popis": "po burgundsku",
         "cena": 165
       },
       {
-        "nazev": "Vepřová plec po znojemsku",
-        "popis": "jasmínová rýže",
+        "nazev": "Vepřová kotleta na grilu",
+        "popis": "zelené fazolky, slaninová omáčka, pečené brambory",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený sýr gouda",
+        "popis": "hranolky, domácí tatarka",
         "cena": 165
       }
     ]
@@ -51,21 +51,21 @@
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka – brokolicový krém"
+        "nazev": "Polévka – cizrnový krém"
       },
       {
-        "nazev": "Uzené maso",
-        "popis": "křenová omáčka, houskový knedlík",
+        "nazev": "Šafránové rizotto",
+        "popis": "kuřecí maso, rukola, parmezán",
         "cena": 165
       },
       {
-        "nazev": "Vykostěné kuřecí stehno",
-        "popis": "medovohořčičná omáčka, hranolky",
+        "nazev": "Dušené hovězí",
+        "popis": "rajská omáčka, houskový knedlík",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený sýr gouda",
+        "popis": "hranolky, domácí tatarka",
         "cena": 165
       }
     ]
@@ -73,21 +73,21 @@
   "Ctvrtek": {
     "jidla": [
       {
-        "nazev": "Polévka – francouzská"
+        "nazev": "Polévka – mexická fazolová"
       },
       {
-        "nazev": "Kuřecí prso na smetaně",
-        "popis": "penne",
+        "nazev": "Halušky s brynzou",
+        "popis": "anglická slanina, uzený špek",
         "cena": 165
       },
       {
-        "nazev": "Pečená krkovička na pivu",
-        "popis": "listový špenát, bramborový knedlík",
+        "nazev": "Pečená krkovička",
+        "popis": "kedlubnové zelí, bramborový knedlík",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený sýr gouda",
+        "popis": "hranolky, domácí tatarka",
         "cena": 165
       }
     ]
@@ -95,21 +95,21 @@
   "Patek": {
     "jidla": [
       {
-        "nazev": "Polévka – kmínová s vejcem"
+        "nazev": "Polévka – hrstková"
       },
       {
-        "nazev": "Široké nudle s mákem",
-        "popis": "cukrem a máslem",
+        "nazev": "Domácí lívance",
+        "popis": "s lesním ovocem, tvaroh, máta",
         "cena": 165
       },
       {
-        "nazev": "Kuřecí paličky sweet chilli",
-        "popis": "krokety, pórek",
+        "nazev": "Mix gril",
+        "popis": "vepřová kotleta, kuřecí prso, bramborová kaše, pepřová omáčka",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený sýr gouda",
+        "popis": "hranolky, domácí tatarka",
         "cena": 165
       }
     ]
