@@ -45,6 +45,11 @@
         "nazev": "Smažený sýr gouda",
         "popis": "hranolky, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Vepřová krkovice na grilu",
+        "popis": "restovaná červená cibule na červeném víně a balzamiku, šťouchané brambory",
+        "cena": 219
       }
     ]
   },
@@ -67,6 +72,11 @@
         "nazev": "Smažený sýr gouda",
         "popis": "hranolky, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Vepřová krkovice na grilu",
+        "popis": "restovaná červená cibule na červeném víně a balzamiku, šťouchané brambory",
+        "cena": 219
       }
     ]
   },
@@ -89,6 +99,11 @@
         "nazev": "Smažený sýr gouda",
         "popis": "hranolky, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Vepřová krkovice na grilu",
+        "popis": "restovaná červená cibule na červeném víně a balzamiku, šťouchané brambory",
+        "cena": 219
       }
     ]
   },
@@ -111,6 +126,11 @@
         "nazev": "Smažený sýr gouda",
         "popis": "hranolky, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Vepřová krkovice na grilu",
+        "popis": "restovaná červená cibule na červeném víně a balzamiku, šťouchané brambory",
+        "cena": 219
       }
     ]
   }
