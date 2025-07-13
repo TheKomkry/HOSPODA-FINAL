@@ -1,27 +1,26 @@
 {
   "zacatekTydne": {
-    "den": 23,
-    "mesic": 6,
+    "den": 14,
+    "mesic": 7,
     "rok": 2025
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – italská rajčatová"
+        "nazev": "Polévka – česnečka"
       },
       {
-        "nazev": "Hrachová kaše",
-        "popis": "pečená klobása, konfitovaná cibule, chléb",
+        "nazev": "Čočka na kyselo, pečená klobása, okurek, cibule, chléb",
         "cena": 165
       },
       {
-        "nazev": "Masové mix rizoto",
-        "popis": "se zeleninou, strouhaný sýr, okurek",
+        "nazev": "Masový flamendr",
+        "popis": "se zeleninou a žampiony, jasmínová rýže",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory, domácí tatarka",
         "cena": 165
       }
     ]
@@ -29,88 +28,108 @@
   "Utery": {
     "jidla": [
       {
-        "nazev": "Polévka – drůbeží vývar s masem a nudlemi"
+        "nazev": "Polévka – masový vývar s masem a nudlemi"
       },
       {
-        "nazev": "Kuřecí nudličky na žampionech",
-        "popis": "šťouchané brambory",
+        "nazev": "Tagliatelle carbonara",
+        "popis": "parmezán",
         "cena": 165
       },
       {
-        "nazev": "Vepřová plec po znojemsku",
-        "popis": "jasmínová rýže",
+        "nazev": "Trhané vepřové maso",
+        "popis": "hranolky, tzatziki",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Cesar salát",
+        "popis": "s kuřecím masem, parmezán",
+        "cena": 219
       }
     ]
   },
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka – brokolicový krém"
+        "nazev": "Polévka – kapustová se slaninou a bramborem"
       },
       {
-        "nazev": "Uzené maso",
-        "popis": "křenová omáčka, houskový knedlík",
+        "nazev": "Bramborové knedle s uzeným masem",
+        "popis": "zelí, konfitovaná cibulka",
         "cena": 165
       },
       {
-        "nazev": "Vykostěné kuřecí stehno",
-        "popis": "medovohořčičná omáčka, hranolky",
+        "nazev": "Vepřová kotleta zapečená šunkou a sýrem",
+        "popis": "šťouchané brambory",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Cesar salát",
+        "popis": "s kuřecím masem, parmezán",
+        "cena": 219
       }
     ]
   },
   "Ctvrtek": {
     "jidla": [
       {
-        "nazev": "Polévka – francouzská"
+        "nazev": "Polévka – květáková s římským kmínem"
       },
       {
-        "nazev": "Kuřecí prso na smetaně",
-        "popis": "penne",
+        "nazev": "Smažená tilápie",
+        "popis": "bramborová kaše, okurkový salát",
         "cena": 165
       },
       {
-        "nazev": "Pečená krkovička na pivu",
-        "popis": "listový špenát, bramborový knedlík",
+        "nazev": "Maďarský kuřecí perkelt",
+        "popis": "houskový knedlík",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Cesar salát",
+        "popis": "s kuřecím masem, parmezán",
+        "cena": 219
       }
     ]
   },
   "Patek": {
     "jidla": [
       {
-        "nazev": "Polévka – kmínová s vejcem"
+        "nazev": "Polévka – dýňový krém"
       },
       {
-        "nazev": "Široké nudle s mákem",
-        "popis": "cukrem a máslem",
+        "nazev": "Taštičky plněné povidlím",
+        "popis": "mák, máslo, cukr",
         "cena": 165
       },
       {
-        "nazev": "Kuřecí paličky sweet chilli",
-        "popis": "krokety, pórek",
+        "nazev": "Smažený vepřový česnekový řízek",
+        "popis": "vídeňský bramborový salát",
         "cena": 165
       },
       {
-        "nazev": "Smažený vepřový řízek",
-        "popis": "máslové brambory, česnekový dip",
+        "nazev": "Smažený uzený sýr",
+        "popis": "vařené brambory, domácí tatarka",
         "cena": 165
+      },
+      {
+        "nazev": "Cesar salát",
+        "popis": "s kuřecím masem, parmezán",
+        "cena": 219
       }
     ]
   }
