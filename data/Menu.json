@@ -1,116 +1,138 @@
 {
   "zacatekTydne": {
-    "den": 21,
-    "mesic": 7,
+    "den": 4,
+    "mesic": 8,
     "rok": 2025
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – tomatová s bazalkovým pestem"
+        "nazev": "Polévka – kapustová"
       },
       {
-        "nazev": "Gnocchi s kuřecím masem",
-        "popis": "omáčka quattro formaggi, rukola",
-        "cena": 165
+        "nazev": "Bram,borový guláš",
+        "popis": "domácí klobása, chléb",
+        "cena": 175
       },
       {
-        "nazev": "Vepřový guláš",
-        "popis": "houskový knedlík",
-        "cena": 165
+        "nazev": "Vepřová plec po znojemmsku",
+        "popis": "špecle",
+        "cena": 185
       },
       {
-        "nazev": "Smažené sýrové duo",
-        "popis": "hranolky, domácí tatarka",
-        "cena": 165
+        "nazev": "Smažené rybí filé",
+        "popis": "bramborový salát",
+        "cena": 185
+        
       }
     ]
   },
   "Utery": {
     "jidla": [
       {
-        "nazev": "Polévka – drůbeží vývar s masem a nudlemi"
+        "nazev": "Polévka – kuřecí thajská"
       },
       {
-        "nazev": "Smažené žampiony",
-        "popis": "vařené brambory s máslem, tatarka",
-        "cena": 165
+        "nazev": "Drůbeží játra na cibulce",
+        "popis": "jasmínová rýže, okurek",
+        "cena": 175
       },
       {
-        "nazev": "Kuřecí kung-pao",
-        "popis": "wok zelenina, jasmínová rýže",
-        "cena": 165
+        "nazev": "Plněný paprikový lusk",
+        "popis": "rajská omáčka, houskový knedlík",
+        "cena": 185
       },
       {
-        "nazev": "Smažené sýrové duo",
-        "popis": "hranolky, domácí tatarka",
-        "cena": 165
+        "nazev": "Smažené rybí filé",
+        "popis": "vařené brambory s pažitkou, tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Španělský ptáček,
+        "popis": "jasmínová rýže",
+        "cena": 235
       }
     ]
   },
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka – květáková s bramborem"
+        "nazev": "Polévka – frankfurtská s bramborem"
       },
       {
-        "nazev": "Pečené kuřecí stehno",
-        "popis": "máslová omáčka, jasmínová rýže",
-        "cena": 165
+        "nazev": "Kuřecí steak",
+        "popis": "italská omáčka, kus-kus",
+        "cena": 175
       },
       {
-        "nazev": "Vepřová kýta po hambursku",
-        "popis": "houskový knedlík",
-        "cena": 165
+        "nazev": "Pečená krkovička",
+        "popis": "listový špenát, bramborový knedlík",
+        "cena": 185
       },
       {
-        "nazev": "Smažené sýrové duo",
-        "popis": "hranolky, domácí tatarka",
-        "cena": 165
+        "nazev": "Smažené rybí filé",
+        "popis": "vařené brambory s pažitkou, tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Španělský ptáček,
+        "popis": "jasmínová rýže",
+        "cena": 235
       }
     ]
   },
   "Ctvrtek": {
     "jidla": [
       {
-        "nazev": "Polévka – žampionový krém"
+        "nazev": "Polévka – pikantní mrkvová s kokosovým mlékem"
       },
       {
-        "nazev": "Kuřecí steak",
-        "popis": "tymiánová omáčka s bílým vínem, krokety",
+        "nazev": "Chilli con carne",
+        "popis": "pečivo",
         "cena": 165
       },
       {
-        "nazev": "Vepřové kostky na česneku",
-        "popis": "červené zelí, bramborový knedlík",
-        "cena": 165
+        "nazev": "Bavorský karbanátek",
+        "popis": "bramborová kaše, okurkový salát",
+        "cena": 185
       },
       {
-        "nazev": "Smažené sýrové duo",
-        "popis": "hranolky, domácí tatarka",
-        "cena": 165
+         "nazev": "Smažené rybí filé",
+        "popis": "vařené brambory s pažitkou, tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Španělský ptáček,
+        "popis": "jasmínová rýže",
+        "cena": 235
       }
     ]
   },
   "Patek": {
     "jidla": [
       {
-        "nazev": "Polévka – cibulačka se smaženým hráškem"
+        "nazev": "Polévka – minestrone"
       },
       {
-        "nazev": "Kynuté ovocné knedle",
-        "popis": "zakysaná smetana, skořice, máslo",
+        "nazev": "Široké nudle s mákem",
+        "popis": "máslo, cukr",
         "cena": 165
       },
       {
-        "nazev": "Cordonbleu",
-        "popis": "bramborová kaše, okurek",
-        "cena": 165
+        "nazev": "Smažený vepřový řízek",
+        "popis": "šťouchané brambory",
+        "cena": 185
       },
       {
-        "nazev": "Smažené sýrové duo",
-        "popis": "hranolky, domácí tatarka",
-        "cena": 165
+        "nazev": "Smažené rybí filé",
+        "popis": "vařené brambory s pažitkou, tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Španělský ptáček,
+        "popis": "jasmínová rýže",
+        "cena": 235
+        
       }
     ]
   }
