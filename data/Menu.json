@@ -1,22 +1,22 @@
 {
   "zacatekTydne": {
-    "den": 6,
-    "mesic": 10,
+    "den": 25,
+    "mesic": 8,
     "rok": 2025
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – kedlubnová"
+        "nazev": "Polévka – bramborovo-česnekový krém"
       },
       {
-        "nazev": "Zeleninové lečo s klobásou a vajíčkem",
-        "popis": "chléb",
+        "nazev": "Farmářské fazole s klobásou",
+        "popis": "cibule, chléb",
         "cena": 185
       },
       {
-        "nazev": "Segedínský guláš",
-        "popis": "houskový knedlík",
+        "nazev": "Masová směs po chalupářsku",
+        "popis": "jasmínová rýže",
         "cena": 185
       },
       {
@@ -32,13 +32,13 @@
         "nazev": "Polévka – uzená s kroupami"
       },
       {
-        "nazev": "Smažené kuřecí paličky",
-        "popis": "sweet chilli omáčka, mačkané brambory",
+        "nazev": "Koprová omáčka",
+        "popis": "2ks vejce, houskový knedlík",
         "cena": 185
       },
       {
-        "nazev": "Vepřová krkovice po znojemsku",
-        "popis": "jasmínová rýže",
+        "nazev": "Vepřová krkovice po burgundsku",
+        "popis": "krokety",
         "cena": 185
       },
       {
@@ -47,8 +47,8 @@
         "cena": 185
       },
       {
-        "nazev": "Bramborové noky s vepřovou panenkou a sušenými rajčaty",
-        "popis": "smetanovo-hořčičná omáčka, rukola",
+        "nazev": "Hovězí nudličky stroganoff",
+        "popis": "houskový knedlík",
         "cena": 235
       }
     ]
@@ -56,15 +56,69 @@
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka – zeleninový krém se smaženým hráškem"
+        "nazev": "Polévka – brokolicový krém se smaženým hráškem"
       },
       {
-        "nazev": "Strapačky se zelím",
-        "popis": "uzené maso, vypečený špek",
+        "nazev": "Gnochi s kuřecím masem",
+        "popis": "smetanovo-hořčičná omáčka, baby špenát",
         "cena": 185
       },
       {
-        "nazev": "Holandská sekaná",
+        "nazev": "Smažený řecký biftek",
+        "popis": "šťouchané brambory s cibulí",
+        "cena": 185
+      },
+      {
+        "nazev": "Smažený květák",
+        "popis": "vařené brambory s máslem, domácí tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Hovězí nudličky stroganoff",
+        "popis": "houskový knedlík",
+        "cena": 235
+      }
+    ]
+  },
+  "Ctvrtek": {
+    "jidla": [
+      {
+        "nazev": "Polévka – česneková s bramborem"
+      },
+      {
+        "nazev": "Fusilli",
+        "popis": "tomatová omáčka s bazalkovým pestem, mozarella",
+        "cena": 185
+      },
+      {
+        "nazev": "Kuřecí stehno na česneku",
+        "popis": "slanině a tymiánu, pečené brambory",
+        "cena": 185
+      },
+      {
+        "nazev": "Smažený květák",
+        "popis": "vařené brambory s máslem, domácí tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Hovězí nudličky stroganoff",
+        "popis": "houskový knedlík",
+        "cena": 235
+      }
+    ]
+  },
+  "Patek": {
+    "jidla": [
+      {
+        "nazev": "Polévka – boršč"
+      },
+      {
+        "nazev": "Plněné bramborové taštičky povidlím",
+        "popis": "zakysaná smetana, máslo",
+        "cena": 185
+      },
+      {
+        "nazev": "Smažené kuřecí stripsy KFC",
         "popis": "bramborová kaše, okurek",
         "cena": 185
       },
@@ -74,62 +128,8 @@
         "cena": 185
       },
       {
-        "nazev": "Bramborové noky s vepřovou panenkou a sušenými rajčaty",
-        "popis": "smetanovo-hořčičná omáčka, rukola",
-        "cena": 235
-      }
-    ]
-  },
-  "Ctvrtek": {
-    "jidla": [
-      {
-        "nazev": "Polévka – bramboračka s houbami"
-      },
-      {
-        "nazev": "Kuřecí steak na grilu",
-        "popis": "dijonská omáčka, krokety",
-        "cena": 185
-      },
-      {
-        "nazev": "Mac and cheese s trhaným vepřovým masem",
-        "popis": "cibulka",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažený květák",
-        "popis": "vařené brambory s máslem, domácí tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Bramborové noky s vepřovou panenkou a sušenými rajčaty",
-        "popis": "smetanovo-hořčičná omáčka, rukola",
-        "cena": 235
-      }
-    ]
-  },
-  "Patek": {
-    "jidla": [
-      {
-        "nazev": "Polévka – krémová česnečka se šunkou a krutony"
-      },
-      {
-        "nazev": "Taštičky plněné povidlím",
-        "popis": "opečená strouhanka, máslo, cukr",
-        "cena": 185
-      },
-      {
-        "nazev": "Kuřecí řízek v parmazánové strouhance",
-        "popis": "šťouchané brambory",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažený květák",
-        "popis": "vařené brambory s máslem, domácí tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Bramborové noky s vepřovou panenkou a sušenými rajčaty",
-        "popis": "smetanovo-hořčičná omáčka, rukola",
+        "nazev": "Hovězí nudličky stroganoff",
+        "popis": "houskový knedlík",
         "cena": 235
       }
     ]
