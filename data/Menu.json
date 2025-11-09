@@ -1,27 +1,27 @@
 {
   "zacatekTydne": {
-    "den": 25,
-    "mesic": 8,
+    "den": 10,
+    "mesic": 11,
     "rok": 2025
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – bramborovo-česnekový krém"
+        "nazev": "Polévka – rajská s těstovinou"
       },
       {
-        "nazev": "Farmářské fazole s klobásou",
-        "popis": "cibule, chléb",
+        "nazev": "Buřtguláš s klobásou",
+        "popis": "chléb",
         "cena": 185
       },
       {
-        "nazev": "Masová směs po chalupářsku",
-        "popis": "jasmínová rýže",
+        "nazev": "Pečená krkovice na česneku",
+        "popis": "kapusta se slaninou, houskový knedlík",
         "cena": 185
       },
       {
-        "nazev": "Smažený květák",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažená gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
         "cena": 185
       }
     ]
@@ -29,26 +29,26 @@
   "Utery": {
     "jidla": [
       {
-        "nazev": "Polévka – uzená s kroupami"
+        "nazev": "Polévka – uzená s kroupami a zeleninou"
       },
       {
-        "nazev": "Koprová omáčka",
-        "popis": "2ks vejce, houskový knedlík",
+        "nazev": "Masové rizoto po srbsku",
+        "popis": "strouhaný sýr, okurek",
         "cena": 185
       },
       {
-        "nazev": "Vepřová krkovice po burgundsku",
-        "popis": "krokety",
+        "nazev": "Vepřová játra na grilu",
+        "popis": "pečené brambory, domácí tatarka",
         "cena": 185
       },
       {
-        "nazev": "Smažený květák",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažená gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
         "cena": 185
       },
       {
-        "nazev": "Hovězí nudličky stroganoff",
-        "popis": "houskový knedlík",
+        "nazev": "Kuřecí quesadilla se slaninou, chedarem a jalapeños",
+        "popis": "salát coleslaw",
         "cena": 235
       }
     ]
@@ -56,26 +56,26 @@
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka – brokolicový krém se smaženým hráškem"
+        "nazev": "Polévka – bramborovo-celerový krém"
       },
       {
-        "nazev": "Gnochi s kuřecím masem",
-        "popis": "smetanovo-hořčičná omáčka, baby špenát",
+        "nazev": "Gnocchi s pestem z paprik a rajčat",
+        "popis": "olivy, pancheta, baby špenát",
         "cena": 185
       },
       {
-        "nazev": "Smažený řecký biftek",
-        "popis": "šťouchané brambory s cibulí",
+        "nazev": "Kuřecí gyros",
+        "popis": "tzatziki, hranolky",
         "cena": 185
       },
       {
-        "nazev": "Smažený květák",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažená gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
         "cena": 185
       },
       {
-        "nazev": "Hovězí nudličky stroganoff",
-        "popis": "houskový knedlík",
+        "nazev": "Kuřecí quesadilla se slaninou, chedarem a jalapeños",
+        "popis": "salát coleslaw",
         "cena": 235
       }
     ]
@@ -83,26 +83,26 @@
   "Ctvrtek": {
     "jidla": [
       {
-        "nazev": "Polévka – česneková s bramborem"
+        "nazev": "Polévka – boršč"
       },
       {
-        "nazev": "Fusilli",
-        "popis": "tomatová omáčka s bazalkovým pestem, mozarella",
+        "nazev": "Masové švédské koule",
+        "popis": "bramborová kaše",
         "cena": 185
       },
       {
-        "nazev": "Kuřecí stehno na česneku",
-        "popis": "slanině a tymiánu, pečené brambory",
+        "nazev": "Vepřová kotleta na grilu",
+        "popis": "omáčka z modrého sýra, krokety",
         "cena": 185
       },
       {
-        "nazev": "Smažený květák",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažená gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
         "cena": 185
       },
       {
-        "nazev": "Hovězí nudličky stroganoff",
-        "popis": "houskový knedlík",
+        "nazev": "Kuřecí quesadilla se slaninou, chedarem a jalapeños",
+        "popis": "salát coleslaw",
         "cena": 235
       }
     ]
@@ -110,26 +110,26 @@
   "Patek": {
     "jidla": [
       {
-        "nazev": "Polévka – boršč"
+        "nazev": "Polévka – kukuřičný krém s krutony"
       },
       {
-        "nazev": "Plněné bramborové taštičky povidlím",
-        "popis": "zakysaná smetana, máslo",
+        "nazev": "Lívance",
+        "popis": "omáčka z lesního ovoce, zakysaná smetana",
         "cena": 185
       },
       {
-        "nazev": "Smažené kuřecí stripsy KFC",
-        "popis": "bramborová kaše, okurek",
+        "nazev": "Kuřecí rarášci",
+        "popis": "šťouchané brambory se slaninou, BBQ dip",
         "cena": 185
       },
       {
-        "nazev": "Smažený květák",
-        "popis": "vařené brambory s máslem, domácí tatarka",
+        "nazev": "Smažená gouda se šunkou",
+        "popis": "hranolky, domácí tatarka",
         "cena": 185
       },
       {
-        "nazev": "Hovězí nudličky stroganoff",
-        "popis": "houskový knedlík",
+        "nazev": "Kuřecí quesadilla se slaninou, chedarem a jalapeños",
+        "popis": "salát coleslaw",
         "cena": 235
       }
     ]
