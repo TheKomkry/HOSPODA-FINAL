@@ -1,56 +1,28 @@
-name: Scheduled Merge to Main
+name: Sync Main to scheduled-update
 
 on:
   schedule:
-#            ┌───────────── minuty (0 - 59)
-#            │ ┌───────────── hodiny (0 - 23, UTC - abys měl čas v čr -> zima=-1, léto=-2)
-#            │ │ ┌───────────── den v měsíci (1 - 31)
-#            │ │ │ ┌───────────── měsíc (1 - 12)
-#            │ │ │ │ ┌───────────── den v týdnu (0 - 7, kde 0 a 7 = neděle)
-#            │ │ │ │ │
-#            │ │ │ │ │
     - cron: '0 6 * * 6'  # každou sobotu v 08:00 našeho času (06:00 UTC)
   workflow_dispatch:
 
-env:
-  MERGE_MODE: 2  # Změň na 1 (celý merge) nebo 2 (jen Menu.json)
-
 permissions:
-  contents: write  # povolení pro zápis do mainu
+  contents: write
 
 jobs:
-  merge:
+  sync:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v3
         with:
           ref: main
+          fetch-depth: 0
 
       - name: Set up Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Fetch scheduled-update branch
-        run: git fetch origin scheduled-update
-
-      # === MODE 1: Sloučení celé větve ===
-      - name: Merge entire branch if MERGE_MODE is 1
-        if: env.MERGE_MODE == '1'
-        run: |
-          git merge origin/scheduled-update --no-ff -m "Auto-merge: scheduled Menu update"
-          git push origin main
-
-      # === MODE 2: Přepsání pouze Menu.json ===
-      - name: Checkout Menu.json from scheduled-update if MERGE_MODE is 2
-        if: env.MERGE_MODE == '2'
-        run: |
-          git checkout origin/scheduled-update -- ./data/Menu.json
-          git commit -am "Auto-update: Menu.json from scheduled-update"
-          git push origin main
-
-      # === SYNC scheduled-update => main ===
-      - name: Sync scheduled-update to match main
+      - name: Force-push main → scheduled-update
         run: |
           git push origin main:scheduled-update --force
