@@ -1,26 +1,26 @@
 {
   "zacatekTydne": {
-    "den": 15,
+    "den": 22,
     "mesic": 12,
     "rok": 2025
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – italská s těstovinou"
+        "nazev": "Polévka – česnečka se šunkou, vejcem a chlebovými krutony"
       },
       {
-        "nazev": "Bramborový guláš s domácí klobásou",
-        "popis": "čerstvý chléb",
+        "nazev": "Smažený květák ",
+        "popis": "vařené brambory, naše tatarka",
         "cena": 185
       },
       {
-        "nazev": "Kuřecí steak kari soté",
-        "popis": "jasmínová rýže",
+        "nazev": "Kuřecí prso na čerstvé paprice",
+        "popis": "houskový knedlík",
         "cena": 185
       },
       {
-        "nazev": "Smažený uzený sýr",
+        "nazev": "Smažené sýrové duo",
         "popis": "hranolky, naše tatarka",
         "cena": 185
       }
@@ -28,110 +28,22 @@
   },
   "Utery": {
     "jidla": [
-      {
-        "nazev": "Polévka – čočková s uzeninou"
-      },
-      {
-        "nazev": "Boloňské špagety",
-        "popis": "sypané sýrem gouda",
-        "cena": 185
-      },
-      {
-        "nazev": "Vepřová kýta s houbovou omáčkou",
-        "popis": "houskový knedlík",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažený uzený sýr",
-        "popis": "hranolky, naše tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Hovězí guláš Kovář",
-        "popis": "houskový knedlík",
-        "cena": 235
-      }
+      
     ]
   },
   "Streda": {
     "jidla": [
-      {
-        "nazev": "Polévka – frankfurtská s bramborem"
-      },
-      {
-        "nazev": "Vykostěné kuřecí stehno se zeleninou",
-        "popis": "pečená brambora ve slupce",
-        "cena": 185
-      },
-      {
-        "nazev": "Plněný paprikový lusk",
-        "popis": "rajská omáčka, houskový knedlík",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažený uzený sýr",
-        "popis": "hranolky, naše tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Hovězí guláš Kovář",
-        "popis": "houskový knedlík",
-        "cena": 235
-      }
+      
     ]
   },
   "Ctvrtek": {
     "jidla": [
-      {
-        "nazev": "Polévka – celerovo-bramborový krém s krutony"
-      },
-      {
-        "nazev": "Šunkafleky s uzeným masem",
-        "popis": "okurkový salát",
-        "cena": 185
-      },
-      {
-        "nazev": "Vepřová játra na roštu",
-        "popis": "pečené brambory, dip",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažený uzený sýr",
-        "popis": "hranolky, naše tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Hovězí guláš Kovář",
-        "popis": "houskový knedlík",
-        "cena": 235
-      }
+      
     ]
   },
   "Patek": {
     "jidla": [
-      {
-        "nazev": "Polévka – moravská cibulačka"
-      },
-      {
-        "nazev": "Široké nudle s mákem",
-        "popis": "cukr, máslo",
-        "cena": 185
-      },
-      {
-        "nazev": "Vepřový závitek se slaninou a nivou",
-        "popis": "bramborová kaše, okurek",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažený uzený sýr",
-        "popis": "hranolky, naše tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Hovězí guláš Kovář",
-        "popis": "houskový knedlík",
-        "cena": 235
-      }
+      
     ]
   }
 }
