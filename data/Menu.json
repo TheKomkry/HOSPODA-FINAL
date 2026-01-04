@@ -1,49 +1,136 @@
 {
   "zacatekTydne": {
-    "den": 22,
-    "mesic": 12,
-    "rok": 2025
+    "den": 5,
+    "mesic": 1,
+    "rok": 2026
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka – česnečka se šunkou, vejcem a chlebovými krutony"
+        "nazev": "Polévka – zeleninový krém s bramborem"
       },
       {
-        "nazev": "Smažený květák ",
-        "popis": "vařené brambory, naše tatarka",
+        "nazev": "Farmářské fazole s klobásou",
+        "popis": "cibulka, chléb",
         "cena": 185
       },
       {
-        "nazev": "Kuřecí prso na čerstvé paprice",
-        "popis": "houskový knedlík",
+        "nazev": "Vepřová plec po znojemsku",
+        "popis": "jasmínová rýže",
         "cena": 185
       },
       {
-        "nazev": "Smažené sýrové duo",
-        "popis": "hranolky, naše tatarka",
+        "nazev": "Smažený sýr gouda",
+        "popis": "vařené brambory, domácí tatarka",
         "cena": 185
       }
     ]
   },
   "Utery": {
     "jidla": [
-      
+      {
+        "nazev": "Polévka – uzená s kroupami"
+      },
+      {
+        "nazev": "Špagety carbonara",
+        "popis": "parmezán",
+        "cena": 185
+      },
+      {
+        "nazev": "Čevapčiči",
+        "popis": "vařené brambory, hořčice, cibule",
+        "cena": 185
+      },
+      {
+        "nazev": "Smažený sýr gouda",
+        "popis": "vařené brambory, domácí tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Bramborové knedle se škvarkama",
+        "popis": "kysané zelí, cibulka",
+        "cena": 235
+      }
     ]
   },
   "Streda": {
     "jidla": [
-      
+      {
+        "nazev": "Polévka – zelňačka"
+      },
+      {
+        "nazev": "Kuřecí rizoto",
+        "popis": "sypané sýrem, okurek",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřový steak na grilu",
+        "popis": "sázené vejce, pečené brambory s cibulí",
+        "cena": 185
+      },
+      {
+        "nazev": "Smažený sýr gouda",
+        "popis": "vařené brambory, domácí tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Bramborové knedle se škvarkama",
+        "popis": "kysané zelí, cibulka",
+        "cena": 235
+      }
     ]
   },
   "Ctvrtek": {
     "jidla": [
-      
+      {
+        "nazev": "Polévka – gulášová"
+      },
+      {
+        "nazev": "Zapečené šunkofleky",
+        "popis": "okurkový salát",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřová kýta na smetaně",
+        "popis": "houskový knedlík",
+        "cena": 185
+      },
+      {
+        "nazev": "Smažený sýr gouda",
+        "popis": "vařené brambory, domácí tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Bramborové knedle se škvarkama",
+        "popis": "kysané zelí, cibulka",
+        "cena": 235
+      }
     ]
   },
   "Patek": {
     "jidla": [
-      
+      {
+        "nazev": "Polévka – hráškový krém s krutony"
+      },
+      {
+        "nazev": "Palačinky s povidlím a tvarohem",
+        "cena": 185
+      },
+      {
+        "nazev": "Soukenický řízek",
+        "popis": "bramborová kaše, okurek",
+        "cena": 185
+      },
+      {
+        "nazev": "Smažený sýr gouda",
+        "popis": "vařené brambory, domácí tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Bramborové knedle se škvarkama",
+        "popis": "kysané zelí, cibulka",
+        "cena": 235
+      }
     ]
   }
 }
