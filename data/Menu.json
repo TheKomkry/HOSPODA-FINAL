@@ -91,4 +91,47 @@
         "cena": 185
       },
       {
-        "
+        "nazev": "Vepřová kýta na mrkvi a hrášku",
+        "popis": "vařené brambory",
+        "cena": 185
+      },
+      {
+        "nazev": "Smažená vepřová játra",
+        "popis": "tradiční bramborový salát",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřová panenka na grilu",
+        "popis": "chedarová omáčka, pečená brambora ve slupce",
+        "cena": 235
+      }
+    ]
+  },
+  "Patek": {
+    "jidla": [
+      {
+        "nazev": "Polévka – květáková s bramborem"
+      },
+      {
+        "nazev": "Domácí žemlovka s jablky",
+        "popis": "tvaroh, skořice",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřový řízek v pivním těstíčku",
+        "popis": "pečené bramborové plátky, tatarka",
+        "cena": 185
+      },
+      {
+        "nazev": "Smažená vepřová játra",
+        "popis": "tradiční bramborový salát",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřová panenka na grilu",
+        "popis": "chedarová omáčka, pečená brambora ve slupce",
+        "cena": 235
+      }
+    ]
+  }
+}
