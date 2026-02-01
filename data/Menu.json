@@ -1,137 +1,137 @@
 {
-  "zacatekTydne": {
-    "den": 26,
-    "mesic": 1,
-    "rok": 2026
-  },
-  "Pondeli": {
-    "jidla": [
-      {
-        "nazev": "Polévka – hrachová s uzeninou"
-      },
-      {
-        "nazev": "Špagety cacio e pepe",
-        "popis": "rukola",
-        "cena": 185
-      },
-      {
-        "nazev": "Štěpánská vepřová pečeně",
-        "popis": "jasmínová rýže",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažená treska",
-        "popis": "vařené brambory s máslem, domácí tatarka",
-        "cena": 185
-      }
-    ]
-  },
-  "Utery": {
-    "jidla": [
-      {
-        "nazev": "Polévka – thajská kuřecí"
-      },
-      {
-        "nazev": "Koprová omáčka",
-        "popis": "2 ks vejce, houskový knedlík",
-        "cena": 185
-      },
-      {
-        "nazev": "Trhané vepřové maso BBQ",
-        "popis": "hranolky, tzatziki",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažená treska",
-        "popis": "vařené brambory s máslem, domácí tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Zvěřinové ragú",
-        "popis": "domácí bramboráčky, vídeňská cibulka",
-        "cena": 235
-      }
-    ]
-  },
-  "Streda": {
-    "jidla": [
-      {
-        "nazev": "Polévka – kapustová se slaninou"
-      },
-      {
-        "nazev": "Francouzské brambory s vepřovým masem",
-        "popis": "zelný salát",
-        "cena": 185
-      },
-      {
-        "nazev": "Pečená krkovička",
-        "popis": "listový špenát, noky",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažená treska",
-        "popis": "vařené brambory s máslem, domácí tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Zvěřinové ragú",
-        "popis": "domácí bramboráčky, vídeňská cibulka",
-        "cena": 235
-      }
-    ]
-  },
-  "Ctvrtek": {
-    "jidla": [
-      {
-        "nazev": "Polévka – cizrnová se zeleninou"
-      },
-      {
-        "nazev": "Chilli con carne",
-        "popis": "cibulka, chléb",
-        "cena": 185
-      },
-      {
-        "nazev": "Kuřecí steak",
-        "popis": "omáčka quattro formaggi, krokety",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažená treska",
-        "popis": "vařené brambory s máslem, domácí tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Zvěřinové ragú",
-        "popis": "domácí bramboráčky, vídeňská cibulka",
-        "cena": 235
-      }
-    ]
-  },
-  "Patek": {
-    "jidla": [
-      {
-        "nazev": "Polévka – krémová česnečka"
-      },
-      {
-        "nazev": "Dukátové buchtičky",
-        "popis": "vanilkový krém",
-        "cena": 185
-      },
-      {
-        "nazev": "Vepřový porthaus",
-        "popis": "šťouchané brambory s konfitovanou cibulí a slaninou",
-        "cena": 185
-      },
-      {
-        "nazev": "Smažená treska",
-        "popis": "vařené brambory s máslem, domácí tatarka",
-        "cena": 185
-      },
-      {
-        "nazev": "Zvěřinové ragú",
-        "popis": "domácí bramboráčky, vídeňská cibulka",
-        "cena": 235
-      }
-    ]
-  }
+    "zacatekTydne": {
+        "den": 2,
+        "mesic": 2,
+        "rok": 2026
+    },
+    "Pondeli": {
+        "jidla": [
+            {
+                "nazev": "Polévka - houbový krém s krutony"
+            },
+            {
+                "nazev": "Buřtguláš",
+                "popis": " cibulka, chléb",
+                "cena": 185
+            },
+            {
+                "nazev": "Kuřecí steak",
+                "popis": " medovodionská omáčka, mačkané brambory",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažený uzený sýr",
+                "popis": " vařené brambory, domácí tatarka",
+                "cena": 185
+            }
+        ]
+    },
+    "Utery": {
+        "jidla": [
+            {
+                "nazev": "Polévka - hovězí vývar s masem, zeleninou a špeclemi"
+            },
+            {
+                "nazev": "Špagety po milánsku sypané sýrem",
+                "popis": "",
+                "cena": 185
+            },
+            {
+                "nazev": "Kotleta na grilu",
+                "popis": " sázené vejce, americké brambory, dip",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažený uzený sýr",
+                "popis": " vařené brambory, domácí tatarka",
+                "cena": 185
+            },
+            {
+                "nazev": "Club sendvič s kuřecím masem",
+                "popis": " hranolky",
+                "cena": 235
+            }
+        ]
+    },
+    "Streda": {
+        "jidla": [
+            {
+                "nazev": "Polévka - krémová z pečených paprik"
+            },
+            {
+                "nazev": "Kuřecí kungpao s wok zeleninou",
+                "popis": " jasmínová rýže",
+                "cena": 185
+            },
+            {
+                "nazev": "Vepřová kýta na žampionech",
+                "popis": " houskový knedlík",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažený uzený sýr",
+                "popis": " vařené brambory, domácí tatarka",
+                "cena": 185
+            },
+            {
+                "nazev": "Club sendvič s kuřecím masem",
+                "popis": " hranolky",
+                "cena": 235
+            }
+        ]
+    },
+    "Ctvrtek": {
+        "jidla": [
+            {
+                "nazev": "Polévka - kmínová s vejcem"
+            },
+            {
+                "nazev": "Kuřecí kungpao s wok zeleninou",
+                "popis": " jasmínová rýže",
+                "cena": 185
+            },
+            {
+                "nazev": "Vepřová kýta na žampionech",
+                "popis": " houskový knedlík",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažený uzený sýr",
+                "popis": " vařené brambory, domácí tatarka",
+                "cena": 185
+            },
+            {
+                "nazev": "Club sendvič s kuřecím masem",
+                "popis": " hranolky",
+                "cena": 235
+            }
+        ]
+    },
+    "Patek": {
+        "jidla": [
+            {
+                "nazev": "Polévka - zeleninová s bramborem"
+            },
+            {
+                "nazev": "Nudle s mákem",
+                "popis": " cukrem a máslem",
+                "cena": 185
+            },
+            {
+                "nazev": "Kuřecí řízek v parmazánové strouhance",
+                "popis": " bramborová kaše, červená řepa",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažený uzený sýr",
+                "popis": " vařené brambory, domácí tatarka",
+                "cena": 185
+            },
+            {
+                "nazev": "Club sendvič s kuřecím masem",
+                "popis": " hranolky",
+                "cena": 235
+            }
+        ]
+    }
 }
