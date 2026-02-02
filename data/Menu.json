@@ -11,17 +11,17 @@
             },
             {
                 "nazev": "Buřtguláš",
-                "popis": " cibulka, chléb",
+                "popis": "cibulka, chléb",
                 "cena": 185
             },
             {
                 "nazev": "Kuřecí steak",
-                "popis": " medovodionská omáčka, mačkané brambory",
+                "popis": "medovodionská omáčka, mačkané brambory",
                 "cena": 185
             },
             {
                 "nazev": "Smažený uzený sýr",
-                "popis": " vařené brambory, domácí tatarka",
+                "popis": "vařené brambory, domácí tatarka",
                 "cena": 185
             }
         ]
@@ -32,23 +32,23 @@
                 "nazev": "Polévka - hovězí vývar s masem, zeleninou a špeclemi"
             },
             {
-                "nazev": "Špagety po milánsku sypané sýrem",
-                "popis": "",
+                "nazev": "Špagety po milánsku",
+                "popis": "sypané sýrem",
                 "cena": 185
             },
             {
                 "nazev": "Kotleta na grilu",
-                "popis": " sázené vejce, americké brambory, dip",
+                "popis": "sázené vejce, americké brambory, dip",
                 "cena": 185
             },
             {
                 "nazev": "Smažený uzený sýr",
-                "popis": " vařené brambory, domácí tatarka",
+                "popis": "vařené brambory, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Club sendvič s kuřecím masem",
-                "popis": " hranolky",
+                "nazev": "Club sendwich s kuřecím masem",
+                "popis": "hranolky",
                 "cena": 235
             }
         ]
@@ -60,22 +60,22 @@
             },
             {
                 "nazev": "Kuřecí kungpao s wok zeleninou",
-                "popis": " jasmínová rýže",
+                "popis": "jasmínová rýže",
                 "cena": 185
             },
             {
                 "nazev": "Vepřová kýta na žampionech",
-                "popis": " houskový knedlík",
+                "popis": "houskový knedlík",
                 "cena": 185
             },
             {
                 "nazev": "Smažený uzený sýr",
-                "popis": " vařené brambory, domácí tatarka",
+                "popis": "vařené brambory, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Club sendvič s kuřecím masem",
-                "popis": " hranolky",
+                "nazev": "Club sendwich s kuřecím masem",
+                "popis": "hranolky",
                 "cena": 235
             }
         ]
@@ -86,23 +86,23 @@
                 "nazev": "Polévka - kmínová s vejcem"
             },
             {
-                "nazev": "Kuřecí kungpao s wok zeleninou",
-                "popis": " jasmínová rýže",
+                "nazev": "Kuřecí paličky KFC",
+                "popis": "salát coleslaw, bageta",
                 "cena": 185
             },
             {
-                "nazev": "Vepřová kýta na žampionech",
-                "popis": " houskový knedlík",
+                "nazev": "Pečený bůček",
+                "popis": "kedlubnové zelí, bramborový knedlík",
                 "cena": 185
             },
             {
                 "nazev": "Smažený uzený sýr",
-                "popis": " vařené brambory, domácí tatarka",
+                "popis": "vařené brambory, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Club sendvič s kuřecím masem",
-                "popis": " hranolky",
+                "nazev": "Club sendwich s kuřecím masem",
+                "popis": "hranolky",
                 "cena": 235
             }
         ]
@@ -114,22 +114,22 @@
             },
             {
                 "nazev": "Nudle s mákem",
-                "popis": " cukrem a máslem",
+                "popis": "cukrem a máslem",
                 "cena": 185
             },
             {
                 "nazev": "Kuřecí řízek v parmazánové strouhance",
-                "popis": " bramborová kaše, červená řepa",
+                "popis": "bramborová kaše, červená řepa",
                 "cena": 185
             },
             {
                 "nazev": "Smažený uzený sýr",
-                "popis": " vařené brambory, domácí tatarka",
+                "popis": "vařené brambory, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Club sendvič s kuřecím masem",
-                "popis": " hranolky",
+                "nazev": "Club sendwich s kuřecím masem",
+                "popis": "hranolky",
                 "cena": 235
             }
         ]
