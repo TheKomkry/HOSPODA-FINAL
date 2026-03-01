@@ -1,26 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 23,
+        "den": 2,
         "mesic": 2,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka – květáková s bramborem"
+                "nazev": "Polévka - zeleninový krém se smaženým hráškem"
             },
             {
-                "nazev": "Farmářské fazole s domácí uzeninou",
-                "popis": "smažená cibulka, pečivo",
+                "nazev": "Špagety aglio olio e peperoncino",
+                "popis": "rukola, parmezán",
                 "cena": 185
             },
             {
-                "nazev": "Jemně pikantní masová směs",
+                "nazev": "Kuřecí nudličky na kari",
                 "popis": "jasmínová rýže",
                 "cena": 185
             },
             {
-                "nazev": "Smažený sýr gouda",
+                "nazev": "Smažené žampiony",
                 "popis": "vařené brambory s máslem, domácí tatarka",
                 "cena": 185
             }
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka – hovězí vývar s masem a fritátovými nudlemi"
+                "nazev": "Polévka - uzená s kroupami"
             },
             {
-                "nazev": "Zapečené těstoviny s kuřecím masem",
-                "popis": "brokolicí a sýrem",
+                "nazev": "Noky po uhlířsku",
+                "popis": "uzený sýr",
                 "cena": 185
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": "šťouchané zámecké brambory",
+                "nazev": "Vepřová kýta po hambursku",
+                "popis": "houskový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažený sýr gouda",
+                "nazev": "Smažené žampiony",
                 "popis": "vařené brambory s máslem, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": "jablka s křenem, hořčice, pečivo",
+                "nazev": "Kachní stehno",
+                "popis": "červené zelí se spekem, br.knedlik,cibulka",
                 "cena": 235
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka – gulášová"
+                "nazev": "Polévka - houbový krém s bylinkovým olejem"
             },
             {
-                "nazev": "Uzené maso",
-                "popis": "křenová omáčka, kynutý knedlík",
+                "nazev": "Pečené kuřecí stehno",
+                "popis": "máslová omáčka, tarhoňa",
                 "cena": 185
             },
             {
-                "nazev": "Pštrosí vejce",
-                "popis": "mačkané brambory s konfitovanou cibulkou",
+                "nazev": "Řecké biftečky",
+                "popis": "bramborová kaše, červená řepa",
                 "cena": 185
             },
             {
-                "nazev": "Smažený sýr gouda",
+                "nazev": "Smažené žampiony",
                 "popis": "vařené brambory s máslem, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": "jablka s křenem, hořčice, pečivo",
+                "nazev": "Kachní stehno",
+                "popis": "červené zelí se spekem, br.knedlik,cibulka",
                 "cena": 235
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka – krupicová s vejcem"
+                "nazev": "Polévka - hráškový krém s mátou"
             },
             {
-                "nazev": "Strapačky s kysaným zelím a uzeným masem",
-                "popis": "restovaný špek",
+                "nazev": "Segedínský guláš",
+                "popis": "kynutý knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Pečená krkovička s anglickou slaninou",
-                "popis": "kapusta, bramborový knedlík",
+                "nazev": "Kuřecí prso na grilu",
+                "popis": "chorizová omáčka, krokety",
                 "cena": 185
             },
             {
-                "nazev": "Smažený sýr gouda",
+                "nazev": "Smažené žampiony",
                 "popis": "vařené brambory s máslem, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": "jablka s křenem, hořčice, pečivo",
+                "nazev": "Kachní stehno",
+                "popis": "červené zelí se spekem, br.knedlik,cibulka",
                 "cena": 235
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka – selská"
+                "nazev": "Polévka - minestrone"
             },
             {
-                "nazev": "Šulánky s mákem",
-                "popis": "cukr, máslo",
+                "nazev": "Palačinky s povidlím a tvarohem",
+                "popis": "vanilkový cukr",
                 "cena": 185
             },
             {
-                "nazev": "Klasický vepřový řízek",
-                "popis": "bramborový salát s majonézou",
+                "nazev": "Sedlácký řízek s lepenicí",
+                "popis": "cibulka",
                 "cena": 185
             },
             {
-                "nazev": "Smažený sýr gouda",
+                "nazev": "Smažené žampiony",
                 "popis": "vařené brambory s máslem, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": "jablka s křenem, hořčice, pečivo",
+                "nazev": "Kachní stehno",
+                "popis": "červené zelí se spekem, br.knedlik,cibulka",
                 "cena": 235
             }
         ]
