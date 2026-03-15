@@ -1,273 +1,137 @@
 {
-
     "zacatekTydne": {
-
-        "den": 9,
-
+        "den": 16,
         "mesic": 3,
-
         "rok": 2026
-
     },
-
     "Pondeli": {
-
         "jidla": [
-
             {
-
-                "nazev": "Polévka - krémová česnečka se zeleninou"
-
+                "nazev": "Polévka – zelňačka s uzeninou"
             },
-
             {
-
-                "nazev": "Čočka na kyselo",
-
-                "popis": "pečená klobása, okurek, cibulka, chléb",
-
+                "nazev": "Zeleninové lečo s klobásou a vejcem",
+                "popis": " chléb",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Vepřová kýta po znojemsku",
-
-                "popis": "houskový knedlík",
-
+                "nazev": "Vepřová kotleta na grilu",
+                "popis": " omáčka z modrého sýru, pečené brambory",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Smažená gouda se šunkou",
-
-                "popis": "hranolky, domácí tatarka",
-
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
-
             }
-
         ]
-
     },
-
     "Utery": {
-
         "jidla": [
-
             {
-
-                "nazev": "Polévka - thajská kuřecí"
-
+                "nazev": "Polévka – hovězí vývar s masem, zeleninou, tarhoňa"
             },
-
             {
-
-                "nazev": "Tagliatelle pomodoro s mozzarellou",
-
-                "popis": "bazalka",
-
+                "nazev": "Kuřecí maďarský perkelt",
+                "popis": " vařené brambory s pažitkou",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Pečená krkovička na česneku a slanině",
-
-                "popis": "bramborové plátky",
-
+                "nazev": "Chalupářská masová směs",
+                "popis": " jasmínová rýže",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Smažená gouda se šunkou",
-
-                "popis": "hranolky, domácí tatarka",
-
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Medailonky z vepřové panenky",
-
-                "popis": "slaninova omáčka, opekané brambory, salatek",
-
+                "nazev": "Hovězí guláš Kovář",
+                "popis": " houskový knedlík",
                 "cena": 235
-
             }
-
         ]
-
     },
-
     "Streda": {
-
         "jidla": [
-
             {
-
-                "nazev": "Polévka - cizrnová s rajčaty"
-
+                "nazev": "Polévka – květáková s bramborem a římským kmínem"
             },
-
             {
-
-                "nazev": "Šafránové rizoto",
-
-                "popis": "grilovaná tilápie, baby špenát",
-
+                "nazev": "Cmunda po kaplicku",
+                "popis": " vídeňská cibulka",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Vepřové výpečky",
-
-                "popis": "červené zelí, bramborový knedlík",
-
+                "nazev": "Vepřová kýta na hřibech a smetaně",
+                "popis": " houskový knedlík",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Smažená gouda se šunkou",
-
-                "popis": "hranolky, domácí tatarka",
-
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Medailonky z vepřové panenky",
-
-                "popis": "slaninova omáčka, opekané brambory, salatek",
-
+                "nazev": "Hovězí guláš Kovář",
+                "popis": " houskový knedlík",
                 "cena": 235
-
             }
-
         ]
-
     },
-
     "Ctvrtek": {
-
         "jidla": [
-
             {
-
-                "nazev": "Polévka - fazolová"
-
+                "nazev": "Polévka – francouzská s těstovinou"
             },
-
             {
-
-                "nazev": "Koprová omáčka",
-
-                "popis": "2 ks vařené vejce, kynutý knedlík",
-
+                "nazev": "Boloňské špagety sypané sýrem",
+                "popis": "",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Kuřecí plátek zapečený poličanem a hermelínem",
-
-                "popis": "steakové hranolky",
-
+                "nazev": "Kuřecí gyros",
+                "popis": " tzatziki, opékané brambory",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Smažená gouda se šunkou",
-
-                "popis": "hranolky, domácí tatarka",
-
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Medailonky z vepřové panenky",
-
-                "popis": "slaninova omáčka, opekané brambory, salatek",
-
+                "nazev": "Hovězí guláš Kovář",
+                "popis": " houskový knedlík",
                 "cena": 235
-
             }
-
         ]
-
     },
-
     "Patek": {
-
         "jidla": [
-
             {
-
-                "nazev": "Polévka - kulajda"
-
+                "nazev": "Polévka – babiččina bramboračka"
             },
-
             {
-
-                "nazev": "Kynuté knedlíky plněné povidlím",
-
-                "popis": "zakysaná smetana, skořice, máslo",
-
+                "nazev": "Domácí žemlovka s jablky, tvarohem a rozinkami",
+                "popis": "",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Holandský řízek",
-
-                "popis": "šťouchané brambory se slaninou a cibulkou, okurek",
-
+                "nazev": "Obrácený vepřový řízek",
+                "popis": " vídeňský bramborový salát",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Smažená gouda se šunkou",
-
-                "popis": "hranolky, domácí tatarka",
-
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
-
             },
-
             {
-
-                "nazev": "Medailonky z vepřové panenky",
-
-                "popis": "slaninova omáčka, opekané brambory, salatek",
-
+                "nazev": "Hovězí guláš Kovář",
+                "popis": " houskový knedlík",
                 "cena": 235
-
             }
-
         ]
-
     }
-
 }
