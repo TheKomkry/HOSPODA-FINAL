@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 16,
+        "den": 23,
         "mesic": 3,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka – zelňačka s uzeninou"
+                "nazev": "Polévka - zeleninový krém se smaženým hráškem"
             },
             {
-                "nazev": "Zeleninové lečo s klobásou a vejcem",
-                "popis": " chléb",
+                "nazev": "Fazole na kyselo",
+                "popis": " uzené maso, cibulka, okurek, chléb",
                 "cena": 185
             },
             {
                 "nazev": "Vepřová kotleta na grilu",
-                "popis": " omáčka z modrého sýru, pečené brambory",
+                "popis": " sázené vejce, mačkané brambory",
                 "cena": 185
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, česnekový dip",
                 "cena": 185
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka – hovězí vývar s masem, zeleninou, tarhoňa"
+                "nazev": "Polévka - drůbeží vývar"
             },
             {
-                "nazev": "Kuřecí maďarský perkelt",
-                "popis": " vařené brambory s pažitkou",
+                "nazev": "Těstovinový salát s kuřecím masem",
+                "popis": " bylinkové pesto",
                 "cena": 185
             },
             {
-                "nazev": "Chalupářská masová směs",
+                "nazev": "Španělský ptáček z vepřového masa",
                 "popis": " jasmínová rýže",
                 "cena": 185
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, česnekový dip",
                 "cena": 185
             },
             {
-                "nazev": "Hovězí guláš Kovář",
-                "popis": " houskový knedlík",
+                "nazev": "Vepřová krkovice na grilu",
+                "popis": " medovo-hořčičná omáčka, mačkané brambory s uzeninou a cibulí",
                 "cena": 235
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka – květáková s bramborem a římským kmínem"
+                "nazev": "Polévka - kukuřičný krém s krutony"
             },
             {
-                "nazev": "Cmunda po kaplicku",
-                "popis": " vídeňská cibulka",
+                "nazev": "Gnocchi all'arrabbiata s parmskou šunkou",
+                "popis": " rukola",
                 "cena": 185
             },
             {
-                "nazev": "Vepřová kýta na hřibech a smetaně",
-                "popis": " houskový knedlík",
+                "nazev": "Vepřová krkovice",
+                "popis": " červené zelí s restovaným špekem, bramborový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažené medailonky z vepřové panenky",
-                "popis": " bramborový salát",
-                "cena": 225
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, česnekový dip",
+                "cena": 185
             },
             {
-                "nazev": "Hovězí guláš Kovář",
-                "popis": " houskový knedlík",
+                "nazev": "Vepřová krkovice na grilu",
+                "popis": " medovo-hořčičná omáčka, mačkané brambory s uzeninou a cibulí",
                 "cena": 235
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka – francouzská s těstovinou"
+                "nazev": "Polévka - kapustová s bramborem"
             },
             {
-                "nazev": "Boloňské špagety sypané sýrem",
-                "popis": "",
+                "nazev": "Francouzské brambory",
+                "popis": " sterilovaný okurek",
                 "cena": 185
             },
             {
-                "nazev": "Kuřecí gyros",
-                "popis": " tzatziki, opékané brambory",
+                "nazev": "Masové koule",
+                "popis": " rajská omáčka, houskový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, česnekový dip",
                 "cena": 185
             },
             {
-                "nazev": "Hovězí guláš Kovář",
-                "popis": " houskový knedlík",
+                "nazev": "Vepřová krkovice na grilu",
+                "popis": " medovo-hořčičná omáčka, mačkané brambory s uzeninou a cibulí",
                 "cena": 235
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka – babiččina bramboračka"
+                "nazev": "Polévka - valašská kyselica"
             },
             {
-                "nazev": "Domácí žemlovka s jablky, tvarohem a rozinkami",
-                "popis": "",
+                "nazev": "Bramborové taštičky plněné povidlím",
+                "popis": " citronový tvaroh",
                 "cena": 185
             },
             {
-                "nazev": "Obrácený vepřový řízek",
-                "popis": " vídeňský bramborový salát",
+                "nazev": "Bavorský kabanátek",
+                "popis": " bramborová kaše, zelný salátek",
                 "cena": 185
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, česnekový dip",
                 "cena": 185
             },
             {
-                "nazev": "Hovězí guláš Kovář",
-                "popis": " houskový knedlík",
+                "nazev": "Vepřová krkovice na grilu",
+                "popis": " medovo-hořčičná omáčka, mačkané brambory s uzeninou a cibulí",
                 "cena": 235
             }
         ]
