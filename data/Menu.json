@@ -1,57 +1,81 @@
 {
     "zacatekTydne": {
-        "den": 6,
+        "den": 13,
         "mesic": 4,
         "rok": 2026
     },
     "Pondeli": {
-        "jidla": []
-    },
-    "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - krém z pečených paprik"
+                "nazev": "Polévka - celerový krém se smaženým hráškem"
             },
             {
-                "nazev": "Uzené maso s hrachovou kaší",
-                "popis": " pečivo, sterilovaný okurek, cibulka",
+                "nazev": "Fusilli pomodoro s baby mozzarellou",
+                "popis": " rukola",
                 "cena": 185
             },
             {
-                "nazev": "Masový flamendr se zeleninou",
+                "nazev": "Vepřová kýta po burgundsku",
                 "popis": " hranolky",
                 "cena": 185
             },
             {
-                "nazev": "Smažený sýr Gouda",
-                "popis": "  vařené brambory / hranolky, domácí tatarka",
+                "nazev": "Smažená treska tmavá",
+                "popis": " vařené brambory s máslem, citrusová majonéza",
                 "cena": 185
+            }
+        ]
+    },
+    "Utery": {
+        "jidla": [
+            {
+                "nazev": "Polévka - uzená s kroupami"
+            },
+            {
+                "nazev": "Vykostěné vepřové koleno",
+                "popis": " salát coleslaw s křenem a dijonskou hořčicí, chléb",
+                "cena": 185
+            },
+            {
+                "nazev": "Bramborové knedle plněné uzeným masem",
+                "popis": " tuřanské zelí se špekem, cibulka",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažená treska tmavá",
+                "popis": " vařené brambory s máslem, citrusová majonéza",
+                "cena": 185
+            },
+            {
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, vídeňská cibulka",
+                "cena": 235
             }
         ]
     },
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - hovězí vývar s masem a nudlemi"
+                "nazev": "Polévka - frankfurtská s bramborem"
             },
             {
-                "nazev": "Kuřecí soté s jarní zeleninou",
-                "popis": " jasmínová rýže",
+                "nazev": "Kuřecí steak „caprese“",
+                "popis": " pečené grenaille",
                 "cena": 185
             },
             {
-                "nazev": "Vepřová roláda s karlovarskou nádivkou",
-                "popis": " šťouchané brambory",
+                "nazev": "Živáňská vepřová krkovice s klobásou, paprikou a cibulí",
+                "popis": " mačkané brambory",
                 "cena": 185
             },
             {
-                "nazev": "Smažené olomoucké tvarůžky",
-                "popis": " vařené brambory s pažitkou, domácí tatarka",
+                "nazev": "Smažená treska tmavá",
+                "popis": " vařené brambory s máslem, citrusová majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Caesar salát s kuřecím masem",
-                "popis": "",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, vídeňská cibulka",
                 "cena": 235
             }
         ]
@@ -59,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - dršťková"
+                "nazev": "Polévka - mrkvový krém s kokosovým mlékem a chilli"
             },
             {
-                "nazev": "Špagety Carbonara",
-                "popis": " parmezán",
+                "nazev": "Řecký salát s bazalkovým pestem",
+                "popis": " balkánský sýr",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová plec po štěpánsku",
-                "popis": " kynutý knedlík",
+                "nazev": "Vepřový guláš",
+                "popis": " domácí bramboráčky",
                 "cena": 185
             },
             {
-                "nazev": "Smažené olomoucké tvarůžky",
-                "popis": " vařené brambory s pažitkou, domácí tatarka",
+                "nazev": "Smažená treska tmavá",
+                "popis": " vařené brambory s máslem, citrusová majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Caesar salát s kuřecím masem",
-                "popis": "",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, vídeňská cibulka",
                 "cena": 235
             }
         ]
@@ -86,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - brokolicový krém"
+                "nazev": "Polévka - moravská cibulačka"
             },
             {
-                "nazev": "Dukátové buchtičky s vanilkovým krémem",
+                "nazev": "Bavorské vdolky s tvarohem a povidly",
                 "popis": "",
                 "cena": 185
             },
             {
-                "nazev": "Kuřecí řízek v sýrovém těstíčku",
-                "popis": " šťouchané brambory",
+                "nazev": "Smažené řízkové duo",
+                "popis": " bramborová kaše, okurkový salát",
                 "cena": 185
             },
             {
-                "nazev": "Smažené olomoucké tvarůžky",
-                "popis": " vařené brambory s pažitkou, domácí tatarka",
+                "nazev": "Smažená treska tmavá",
+                "popis": " vařené brambory s máslem, citrusová majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Caesar salát s kuřecím masem",
-                "popis": "",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, vídeňská cibulka",
                 "cena": 235
             }
         ]
