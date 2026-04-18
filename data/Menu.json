@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 13,
+        "den": 20,
         "mesic": 4,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - celerový krém se smaženým hráškem"
+                "nazev": "Polévka - krémová česnečka s bramborem"
             },
             {
-                "nazev": "Fusilli pomodoro s baby mozzarellou",
-                "popis": " rukola",
+                "nazev": "Farmářské fazole s domácí klobásou",
+                "popis": " cibule, chléb",
                 "cena": 185
             },
             {
-                "nazev": "Vepřová kýta po burgundsku",
-                "popis": " hranolky",
+                "nazev": "Kotleta na grilu s mozzarellou",
+                "popis": " krokety",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska tmavá",
-                "popis": " vařené brambory s máslem, citrusová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - uzená s kroupami"
+                "nazev": "Polévka - kuřecí vývar s masem a nudlemi"
             },
             {
-                "nazev": "Vykostěné vepřové koleno",
-                "popis": " salát coleslaw s křenem a dijonskou hořčicí, chléb",
+                "nazev": "Drůbeží játra na cibulce a majoránce",
+                "popis": " jasmínová rýže",
                 "cena": 185
             },
             {
-                "nazev": "Bramborové knedle plněné uzeným masem",
-                "popis": " tuřanské zelí se špekem, cibulka",
+                "nazev": "Trhané vepřové maso BBQ",
+                "popis": " americké brambory, dip",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska tmavá",
-                "popis": " vařené brambory s máslem, citrusová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, vídeňská cibulka",
+                "nazev": "Kuřecí Quesadilla se slaninou, chedarem a jalapeňos",
+                "popis": " salát coleslaw",
                 "cena": 235
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - frankfurtská s bramborem"
+                "nazev": "Polévka - pórková"
             },
             {
-                "nazev": "Kuřecí steak „caprese“",
-                "popis": " pečené grenaille",
+                "nazev": "Uzené maso",
+                "popis": " šťouchané brambory s cibulkou, hořčice, křen",
                 "cena": 185
             },
             {
-                "nazev": "Živáňská vepřová krkovice s klobásou, paprikou a cibulí",
-                "popis": " mačkané brambory",
+                "nazev": "Pečená krkovice na černém pivu",
+                "popis": " kedlubnové zelí, bramborový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska tmavá",
-                "popis": " vařené brambory s máslem, citrusová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, vídeňská cibulka",
+                "nazev": "Kuřecí Quesadilla se slaninou, chedarem a jalapeňos",
+                "popis": " salát coleslaw",
                 "cena": 235
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - mrkvový krém s kokosovým mlékem a chilli"
+                "nazev": "Polévka - hrachová s párkem"
             },
             {
-                "nazev": "Řecký salát s bazalkovým pestem",
-                "popis": " balkánský sýr",
+                "nazev": "Těstovinový salát s grilovaným hermelínem",
+                "popis": "",
                 "cena": 185
             },
             {
-                "nazev": "Vepřový guláš",
-                "popis": " domácí bramboráčky",
+                "nazev": "Filované kuřecí prso na paprice se smetanou",
+                "popis": " houskový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska tmavá",
-                "popis": " vařené brambory s máslem, citrusová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, vídeňská cibulka",
+                "nazev": "Kuřecí Quesadilla se slaninou, chedarem a jalapeňos",
+                "popis": " salát coleslaw",
                 "cena": 235
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - moravská cibulačka"
+                "nazev": "Polévka - krupicová s vejcem"
             },
             {
-                "nazev": "Bavorské vdolky s tvarohem a povidly",
-                "popis": "",
+                "nazev": "Šulánky plněné mákem",
+                "popis": " cukr, máslo",
                 "cena": 185
             },
             {
-                "nazev": "Smažené řízkové duo",
-                "popis": " bramborová kaše, okurkový salát",
+                "nazev": "Holandský řízek",
+                "popis": " bramborová kaše, sterilovaný okurek",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska tmavá",
-                "popis": " vařené brambory s máslem, citrusová majonéza",
+                "nazev": "Smažený sýr gouda",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, vídeňská cibulka",
+                "nazev": "Kuřecí Quesadilla se slaninou, chedarem a jalapeňos",
+                "popis": " salát coleslaw",
                 "cena": 235
             }
         ]
