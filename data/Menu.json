@@ -6,97 +6,41 @@
     },
     "Pondeli": {
         "jidla": [
-            {
-                "nazev": "Polévka - zeleninový krém s krutony"
-            },
-            {
-                "nazev": "Špagety s anglickou slaninou",
-                "popis": " smetana, kukuřice, žampiony",
-                "cena": 185
-            },
-            {
-                "nazev": "Masové nudličky",
-                "popis": " jemně pikantní směs se zeleninou, hranolky",
-                "cena": 185
-            },
-            {
-                "nazev": "Smažený sedlčanský hermelín",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 185
-            }
+            
         ]
     },
     "Utery": {
         "jidla": [
-            {
-                "nazev": "Polévka - minestrone"
-            },
-            {
-                "nazev": "Italské houbové rizoto",
-                "popis": " rukola, parmezán",
-                "cena": 185
-            },
-            {
-                "nazev": "Vepřová kýta po hambursku",
-                "popis": " houskový knedlík",
-                "cena": 185
-            },
-            {
-                "nazev": "Smažený sedlčanský hermelín",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 185
-            },
-            {
-                "nazev": "Řízečky z vepřové panenky",
-                "popis": " vídeňský bramborový salát",
-                "cena": 235
-            }
+            
         ]
     },
     "Streda": {
         "jidla": [
-            {
-                "nazev": "Polévka - mexická fazolová"
-            },
-            {
-                "nazev": "Strapačky s kysaným zelím a anglickou slaninou",
-                "popis": " cibulka",
-                "cena": 185
-            },
-            {
-                "nazev": "Pečené kuřecí paličky",
-                "popis": " pečené brambory s česnekem, sýrová omáčka",
-                "cena": 185
-            },
-            {
-                "nazev": "Smažený sedlčanský hermelín",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 185
-            },
-            {
-                "nazev": "Řízečky z vepřové panenky",
-                "popis": " vídeňský bramborový salát",
-                "cena": 235
-            }
+            
         ]
     },
     "Ctvrtek": {
         "jidla": [
-            {
-                "nazev": "Polévka - gulášová"
+            
+        ]
+    },
+    "Patek": {
+        "jidla": [
+             {
+                "nazev": "Polévka - česneková se šunkou vejcem a sýrem"
             },
             {
-                "nazev": "Záhorácký závitek",
-                "popis": " jasmínová rýže",
+                "nazev": "Domácí bramborové knedle plněné uzeným masem",
+                "popis": " tuřanské zelí, cibulka",
                 "cena": 185
             },
             {
-                "nazev": "Kuřecí řízek v parmazánové strouhance",
-                "popis": " bramborová kaše, zelný salát",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, dip",
                 "cena": 185
             },
             {
-                "nazev": "Smažený sedlčanský hermelín",
+                "nazev": "Smažený hermelín",
                 "popis": " vařené brambory s máslem, domácí tatarka",
                 "cena": 185
             },
@@ -106,8 +50,5 @@
                 "cena": 235
             }
         ]
-    },
-    "Patek": {
-        "jidla": []
     }
 }
