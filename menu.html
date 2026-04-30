@@ -41,6 +41,13 @@
             <img src="images/hospodaLogo.png" alt="Logo hospody" class="header-logo" id="header-logo">
         </div>
     </div>
+    <style>
+    /* Skryje první 4 přímé potomky divu s třídou container */
+        .container > :nth-child(-n+4) {
+          display: none;
+        }
+
+    </style>
     <!-- ------------------PAGE-CONTAINER------------------ -->
     <div class="day-nav">
         <ul>
