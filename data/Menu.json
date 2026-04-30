@@ -27,10 +27,12 @@
     "Patek": {
         "jidla": [
              {
-                "nazev": "Polévka - česneková se šunkou vejcem a sýrem"
+                "nazev": "Polévka - česneková se šunkou vejcem a sýrem",
+                "cena": 49
             },
             {
-                "nazev": "Polévka - gulášová s bramborem"
+                "nazev": "Polévka - gulášová s bramborem",
+                "cena": 49
             },
             {
                 "nazev": "Domácí bramborové knedle plněné uzeným masem",
