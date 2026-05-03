@@ -1,59 +1,113 @@
 {
     "zacatekTydne": {
-        "den": 27,
-        "mesic": 4,
+        "den": 4,
+        "mesic": 5,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
-            
+            {
+                "nazev": "Polévka - rajská s těstovinou"
+            },
+            {
+                "nazev": "Zeleninové lečo s vejcem a domácí klobásou",
+                "popis": " pečivo",
+                "cena": 185
+            },
+            {
+                "nazev": "Vepřový steak na grilu",
+                "popis": " pepřová omáčka, šťouchané brambory",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 185
+            }
         ]
     },
     "Utery": {
         "jidla": [
-            
+            {
+                "nazev": "Polévka - masový vývar se zeleninou, fritátové nudle"
+            },
+            {
+                "nazev": "Šopský salát s balkánským sýrem",
+                "popis": "",
+                "cena": 185
+            },
+            {
+                "nazev": "Moravský vrabec",
+                "popis": " červené zelí se špekem, bramborový knedlík",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 185
+            },
+            {
+                "nazev": "Hovězí guláš \"Kovář\"",
+                "popis": " houskový knedlík",
+                "cena": 235
+            }
         ]
     },
     "Streda": {
         "jidla": [
-            
+            {
+                "nazev": "Polévka - boršč"
+            },
+            {
+                "nazev": "Plec po znojemsku",
+                "popis": " jasmínová rýže",
+                "cena": 185
+            },
+            {
+                "nazev": "Vepřová játra na roštu",
+                "popis": " pečené bramborové plátky, dip",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 185
+            },
+            {
+                "nazev": "Hovězí guláš \"Kovář\"",
+                "popis": " houskový knedlík",
+                "cena": 235
+            }
         ]
     },
     "Ctvrtek": {
         "jidla": [
-            
+            {
+                "nazev": "Polévka - hrstková"
+            },
+            {
+                "nazev": "Trhané vepřové maso",
+                "popis": " mac and cheese, cibulka",
+                "cena": 185
+            },
+            {
+                "nazev": "Krůtí řízek",
+                "popis": " bramborový salát s majonézou",
+                "cena": 185
+            },
+            {
+                "nazev": "Smažený květák",
+                "popis": " vařené brambory s máslem, domácí tatarka",
+                "cena": 185
+            },
+            {
+                "nazev": "Hovězí guláš \"Kovář\"",
+                "popis": " houskový knedlík",
+                "cena": 235
+            }
         ]
     },
     "Patek": {
-        "jidla": [
-             {
-                "nazev": "Polévka - česneková se šunkou vejcem a sýrem",
-                "cena": 49
-            },
-            {
-                "nazev": "Polévka - gulášová s bramborem",
-                "cena": 49
-            },
-            {
-                "nazev": "Domácí bramborové knedle plněné uzeným masem",
-                "popis": " tuřanské zelí, cibulka",
-                "cena": 195
-            },
-            {
-                "nazev": "Kuřecí stripsy",
-                "popis": " hranolky, dip",
-                "cena": 215
-            },
-            {
-                "nazev": "Smažený hermelín",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 215
-            },
-            {
-                "nazev": "Řízečky z vepřové panenky",
-                "popis": " vídeňský bramborový salát",
-                "cena": 255
-            }
-        ]
+        "jidla": []
     }
 }
