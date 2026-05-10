@@ -106,7 +106,7 @@ small-date{
     width: 100%;
     margin-bottom: 1rem;
     color:#ae941f;
-    text-align: center;
+    padding-left: 20px;
 }
 .price-no-wrap{
     white-space: nowrap;
