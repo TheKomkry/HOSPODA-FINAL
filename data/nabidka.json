@@ -7,39 +7,48 @@
     ],
     "Vikend": [
         {
-            "nazev": "Polévka - Fazolová s domácí slaninou",
+            "nazev": "Polévka - Fazolová",
+            "popis": "s domácí slaninou",
             "cena": 55
         },
         {
-            "nazev": "Masová směs se zeleninou, jasmíová rýže",
+            "nazev": "Masová směs se zeleninou",
+            "popis": "jasmínová rýže",
             "cena": 169
         },
         {
-            "nazev": "Česnekový vepřový řízek, vařené brambory s máslem, okurek",
+            "nazev": "Česnekový vepřový řízek",
+            "popis": "vařené brambory s máslem, okurek",
             "cena": 179
         },
         {
-            "nazev": "Kuřecí řízek v cornflakes, mačkané brambory",
+            "nazev": "Kuřecí řízek v cornflakes",
+            "popis": "mačkané brambory",
             "cena": 179
         },
         {
-            "nazev": "Pečená krkovička, listový špenát, bramborový knedlík",
+            "nazev": "Pečená krkovička",
+            "popis": "listový špenát, bramborový knedlík",
             "cena": 179
         },
         {
-            "nazev": "Smažený sýr gouda, hranolky, domácí tatarka",
+            "nazev": "Smažený sýr gouda",
+            "popis": "hranolky, domácí tatarka",
             "cena": 179
         },
         {
-            "nazev": "Smažený hermelín, hranolky, domácí tatarka",
+            "nazev": "Smažený hermelín",
+            "popis": "hranolky, domácí tatarka",
             "cena": 179
         },
         {
-            "nazev": "Hovězí svíčková na smetaně, houskový knedlík, brusinkový terč",
+            "nazev": "Hovězí svíčková na smetaně",
+            "popis": "houskový knedlík, brusinkový terč",
             "cena": 195
         },
         {
-            "nazev": "Vepřová panenka na grilu, pepřová omáčka, šťouchané brambory s konfitovanou cibulkou a slaninou",
+            "nazev": "Vepřová panenka na grilu",
+            "popis": "pepřová omáčka, šťouchané brambory s konfitovanou cibulkou a slaninou",
             "cena": 229
         }
         
@@ -292,7 +301,7 @@
             "typ": "destiláty"
         },
         {
-            "nazev": "Jelzin / různé druhy /",
+            "nazev": "Jelzin / různé druhy",
             "cena": 40, 
             "mnozstvi": 0.04,
             "jednotka": "l",
