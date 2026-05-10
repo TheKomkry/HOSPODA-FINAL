@@ -412,43 +412,37 @@
             "nazev": "Brambůrky",
             "cena": 38, 
             "mnozstvi": 1,
-            "jednotka": "ks",
-            "typ": "deserty"
+            "jednotka": "ks"
         },
         {
             "nazev": "Tyčinky",
             "cena": 38, 
             "mnozstvi": 1,
-            "jednotka": "ks",
-            "typ": "deserty"
+            "jednotka": "ks"
         },
         {
             "nazev": "Oříšky",
             "cena": 38, 
             "mnozstvi": 1,
-            "jednotka": "ks",
-            "typ": "deserty"
+            "jednotka": "ks"
         },
         {
             "nazev": "Křupky",
             "cena": 35, 
             "mnozstvi": 1,
-            "jednotka": "ks",
-            "typ": "deserty"
+            "jednotka": "ks"
         },
         {
             "nazev": "Mandle",
             "cena": 43, 
             "mnozstvi": 1,
-            "jednotka": "ks",
-            "typ": "deserty"
+            "jednotka": "ks"
         },
         {
             "nazev": "Tatranka",
             "cena": 15, 
             "mnozstvi": 1,
-            "jednotka": "ks",
-            "typ": "deserty"
+            "jednotka": "ks"
         }
     ]
 }

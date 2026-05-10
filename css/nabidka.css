@@ -103,9 +103,10 @@ small-date{
 }
 .container div > h2{
     grid-column: 1 / -1;
+    width: 100%;
     margin-bottom: 1rem;
     color:#ae941f;
-    /* text-align: center; */
+    text-align: center;
 }
 .price-no-wrap{
     white-space: nowrap;
