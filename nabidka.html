@@ -84,7 +84,35 @@
     <script src="js/header.js"></script>
     <script src="js/positionLogo.js"></script>
     <script src="js/redirect.js"></script>
-    <script src="js/loadFoodAndBeverage.js" onload="loadMenu()"></script>
+    <script>
+        const NABIDKA_DATA_LOADING = false; // true | false
+        const NABIDKA_STATUS_TEXT = "Připravuje se";
+
+        (function initNabidkaData() {
+            if (NABIDKA_DATA_LOADING) {
+                const script = document.createElement("script");
+                script.src = "js/loadFoodAndBeverage.js";
+                script.onload = function () {
+                    if (typeof loadMenu === "function") {
+                        loadMenu();
+                    }
+                };
+                document.body.appendChild(script);
+                return;
+            }
+
+            ["vikend-container", "napoje-container", "deserty-container"].forEach(function (id) {
+                const container = document.getElementById(id);
+                if (!container) {
+                    return;
+                }
+
+                const statusText = document.createElement("p");
+                statusText.textContent = NABIDKA_STATUS_TEXT;
+                container.appendChild(statusText);
+            });
+        })();
+    </script>
     <!-- <script src="js/openIMG.js"></script> -->
     <script src="js/alertUser.js"></script>
 </body>
