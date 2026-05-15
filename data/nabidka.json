@@ -7,52 +7,53 @@
     ],
     "Vikend": [
         {
-            "nazev": "Polévka - Fazolová",
-            "popis": "s domácí slaninou",
-            "cena": 55
+            "typ": "Polévka",
+            "nazev": "Masový vývar se zeleninou a tarhoňou",
+            "popis": "",
+            "cena": 59
         },
         {
-            "nazev": "Masová směs se zeleninou",
-            "popis": "jasmínová rýže",
-            "cena": 169
+            "typ": "Hlavní jídla",
+            "nazev": "Jemně pikantní masová směs",
+            "popis": "jasmínová rýže (200 g)",
+            "cena": 249
         },
         {
-            "nazev": "Česnekový vepřový řízek",
-            "popis": "vařené brambory s máslem, okurek",
-            "cena": 179
+            "typ": "Hlavní jídla",
+            "nazev": "Vepřová kotleta na grilu",
+            "popis": "pepřová omáčka, šťouchané brambory, salát coleslaw (220 g)",
+            "cena": 289
         },
         {
-            "nazev": "Kuřecí řízek v cornflakes",
-            "popis": "mačkané brambory",
-            "cena": 179
-        },
-        {
-            "nazev": "Pečená krkovička",
-            "popis": "listový špenát, bramborový knedlík",
-            "cena": 179
-        },
-        {
-            "nazev": "Smažený sýr gouda",
-            "popis": "hranolky, domácí tatarka",
-            "cena": 179
-        },
-        {
-            "nazev": "Smažený hermelín",
-            "popis": "hranolky, domácí tatarka",
-            "cena": 179
-        },
-        {
-            "nazev": "Hovězí svíčková na smetaně",
-            "popis": "houskový knedlík, brusinkový terč",
-            "cena": 195
-        },
-        {
-            "nazev": "Vepřová panenka na grilu",
-            "popis": "pepřová omáčka, šťouchané brambory s konfitovanou cibulkou a slaninou",
+            "typ": "Hlavní jídla",
+            "nazev": "Kuřecí stripsy",
+            "popis": "hranolky, dip (180 g)",
             "cena": 229
+        },
+        {
+            "typ": "Hlavní jídla",
+            "nazev": "Svíčková na smetaně",
+            "popis": "houskový knedlík, brusinkový terč (200 g)",
+            "cena": 329
+        },
+        {
+            "typ": "Hlavní jídla",
+            "nazev": "Smažená gouda",
+            "popis": "vařené brambory s máslem, domácí tatarka",
+            "cena": 229
+        },
+        {
+            "typ": "Hlavní jídla",
+            "nazev": "Kynuté ovocné knedlíky",
+            "popis": "3 ks (zakysaná smetana, skořice, máslo)",
+            "cena": 219
+        },
+        {
+            "typ": "Hlavní jídla",
+            "nazev": "Caesar salát s kuřecím masem a slaninou",
+            "popis": "",
+            "cena": 239
         }
-        
-        
     ],
     "Napoje": [
         {

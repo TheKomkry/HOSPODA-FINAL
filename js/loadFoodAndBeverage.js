@@ -1,21 +1,34 @@
 
-function loadMenu(){
+function loadMenu(sectionsToLoad){
     fetch(`./data/nabidka.json`)
     .then(response => {
         return response.json();
     })
     .then(data => {
-        writeMenu(data);
+        writeMenu(data, sectionsToLoad);
     })
     .catch(err => {
         console.error(err);
     });
 }
-function writeMenu(data){
-    // load(data.Jidla, "jidla");
-    load(data.Vikend, "vikend");
-    load(data.Napoje, "napoje");
-    load(data.Deserty, "deserty");
+function writeMenu(data, sectionsToLoad){
+    const defaultSections = ["jidla", "vikend", "napoje", "deserty"];
+    const sections = Array.isArray(sectionsToLoad) && sectionsToLoad.length > 0
+        ? sectionsToLoad
+        : defaultSections;
+
+    if (sections.includes("jidla") && data.Jidla) {
+        // load(data.Jidla, "jidla");
+    }
+    if (sections.includes("vikend") && data.Vikend) {
+        load(data.Vikend, "vikend");
+    }
+    if (sections.includes("napoje") && data.Napoje) {
+        load(data.Napoje, "napoje");
+    }
+    if (sections.includes("deserty") && data.Deserty) {
+        load(data.Deserty, "deserty");
+    }
 
 }
 function load(data, type){

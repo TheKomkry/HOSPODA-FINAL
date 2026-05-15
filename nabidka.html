@@ -85,8 +85,9 @@
     <script src="js/positionLogo.js"></script>
     <script src="js/redirect.js"></script>
     <script>
-        const NABIDKA_DATA_LOADING = false; // true | false
+        const NABIDKA_DATA_LOADING = true; // true | false
         const NABIDKA_STATUS_TEXT = "Připravuje se";
+        const NABIDKA_SECTIONS_TO_LOAD = ["vikend"];
 
         (function initNabidkaData() {
             if (NABIDKA_DATA_LOADING) {
@@ -94,14 +95,17 @@
                 script.src = "js/loadFoodAndBeverage.js";
                 script.onload = function () {
                     if (typeof loadMenu === "function") {
-                        loadMenu();
+                        loadMenu(NABIDKA_SECTIONS_TO_LOAD);
                     }
                 };
                 document.body.appendChild(script);
-                return;
             }
 
-            ["vikend-container", "napoje-container", "deserty-container"].forEach(function (id) {
+            const statusContainers = NABIDKA_DATA_LOADING
+                ? ["napoje-container", "deserty-container"]
+                : ["vikend-container", "napoje-container", "deserty-container"];
+
+            statusContainers.forEach(function (id) {
                 const container = document.getElementById(id);
                 if (!container) {
                     return;
