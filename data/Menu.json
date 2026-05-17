@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 11,
+        "den": 18,
         "mesic": 5,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - kmínová s vejcem"
+                "nazev": "Polévka - žampionová s bylinkovým pestem"
             },
             {
-                "nazev": "Bramborový guláš s domácí klobásou",
-                "popis": " cibulka, pečivo",
+                "nazev": "Čočka na kyselo",
+                "popis": " pečená klobása, okurek, cibule, chléb",
                 "cena": 185
             },
             {
-                "nazev": "Masová směs se zeleninou",
+                "nazev": "Chalupářské vepřové nudličky",
                 "popis": " jasmínová rýže",
                 "cena": 185
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - zabíjačková s kroupami"
+                "nazev": "Polévka - thajská kuřecí"
             },
             {
-                "nazev": "Makarony po milánsku",
-                "popis": " sypané parmezánem",
+                "nazev": "Špagety carbonara",
+                "popis": " parmezán",
                 "cena": 185
             },
             {
-                "nazev": "Moravský vrabec",
-                "popis": " smetanový špenát, bramborový knedlík",
+                "nazev": "Křenová omáčka",
+                "popis": " uzené maso, houskový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát coleslaw, rozpečený bylinkový chléb",
+                "nazev": "Caesar salát s kuřecím masem",
+                "popis": " parmezán",
                 "cena": 235
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - dršťková z hlívy ústřičné"
+                "nazev": "Polévka - krémová cibulačka s krutony"
             },
             {
-                "nazev": "Francouzské brambory s kuřecím masem",
-                "popis": " sterilovaný okurek",
+                "nazev": "Smažené kuřecí stehno v cornflakes",
+                "popis": " grenaille, máslová omáčka",
                 "cena": 185
             },
             {
-                "nazev": "Plněný paprikový lusk",
-                "popis": " rajská omáčka, houskový knedlík",
+                "nazev": "Švédské masové koule",
+                "popis": " bramborová kaše, zelný salát s koprem",
                 "cena": 185
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát coleslaw, rozpečený bylinkový chléb",
+                "nazev": "Caesar salát s kuřecím masem",
+                "popis": " parmezán",
                 "cena": 235
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - valašská kyselice"
+                "nazev": "Polévka - špenátová s vejcem a bramborem"
             },
             {
-                "nazev": "Halušky s brynzou",
-                "popis": " slaninou a restovaným špekem",
+                "nazev": "Maďarský kuřecí perkelt",
+                "popis": " tarhoňa",
                 "cena": 185
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " slaninová omáčka, sázené vejce, pečené brambory",
+                "nazev": "Vepřový steak zapečený šunkou a sýrem",
+                "popis": " krokety, česnekový dip",
                 "cena": 185
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát coleslaw, rozpečený bylinkový chléb",
+                "nazev": "Caesar salát s kuřecím masem",
+                "popis": " parmezán",
                 "cena": 235
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - čočková s párkem"
+                "nazev": "Polévka - pórkovo-bramborový krém"
             },
             {
-                "nazev": "Plněné ovocné knedle",
-                "popis": " zakysaná smetana, máslo, skořice",
+                "nazev": "Domácí žemlovka s tvarohem a jablky",
+                "popis": "",
                 "cena": 185
             },
             {
-                "nazev": "Smažený kuřecí řízek",
-                "popis": " bramborová kaše, červená řepa",
+                "nazev": "Vepřový řízek v pařížském těstíčku",
+                "popis": " šťouchané brambory s česnekem a cibulí",
                 "cena": 185
             },
             {
-                "nazev": "Smažené žampiony",
-                "popis": " vařené brambory s máslem, domácí tatarka",
+                "nazev": "Smažený uzený sýr",
+                "popis": " hranolky, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " salát coleslaw, rozpečený bylinkový chléb",
+                "nazev": "Caesar salát s kuřecím masem",
+                "popis": " parmezán",
                 "cena": 235
             }
         ]
