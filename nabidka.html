@@ -101,9 +101,17 @@
                 document.body.appendChild(script);
             }
 
+            const allContainers = ["vikend-container", "napoje-container", "deserty-container"];
+            const loadedContainers = NABIDKA_DATA_LOADING
+                ? NABIDKA_SECTIONS_TO_LOAD.map(function (section) {
+                    return section + "-container";
+                })
+                : [];
             const statusContainers = NABIDKA_DATA_LOADING
-                ? ["napoje-container", "deserty-container"]
-                : ["vikend-container", "napoje-container", "deserty-container"];
+                ? allContainers.filter(function (id) {
+                    return !loadedContainers.includes(id);
+                })
+                : allContainers;
 
             statusContainers.forEach(function (id) {
                 const container = document.getElementById(id);
