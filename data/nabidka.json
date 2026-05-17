@@ -58,35 +58,35 @@
     "Napoje": [
         {
             "nazev": "Bernard 11°",
-            "cena": 38,
-            "mnozstvi": "0.5",
+            "cena": 43,
+            "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Bernard 11°",
-            "cena": 23,
+            "cena": 26,
             "mnozstvi": 0.3,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Bernard 10°",
-            "cena": 33,
+            "cena": 38,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Bernard 10°",
-            "cena": 20,
+            "cena": 23,
             "mnozstvi": 0.3,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Nealko pivo",
-            "cena": 45,
+            "cena": 40,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "pivo"
@@ -99,105 +99,84 @@
             "typ": "pivo"
         },
         {
-            "nazev": "Kingswood",
-            "cena": 50,
-            "mnozstvi": 0.4,
-            "jednotka": "l",
-            "typ": "pivo"
-        },
-        {
             "nazev": "Točená limonáda",
             "cena": 35,
             "mnozstvi": 0.5,
             "jednotka": "l",
-            "typ": "limonády"
+            "typ": "limo"
         },
         {
             "nazev": "Točená limonáda",
             "cena": 25,
             "mnozstvi": 0.3,
             "jednotka": "l",
-            "typ": "limonády"
+            "typ": "limo"
         },
         {
-            "nazev": "Coca-Cola",
+            "nazev": "Coca cola",
             "cena": 45,
             "mnozstvi": 0.33,
             "jednotka": "l",
-            "typ": "nealko"
+            "typ": "nealko nápoje"
         },
         {
             "nazev": "Sprite",
             "cena": 45,
             "mnozstvi": 0.33,
             "jednotka": "l",
-            "typ": "nealko"
+            "typ": "nealko nápoje"
         },
         {
             "nazev": "Fanta",
             "cena": 45,
             "mnozstvi": 0.33,
             "jednotka": "l",
-            "typ": "nealko"
+            "typ": "nealko nápoje"
         },
         {
             "nazev": "Cappy",
             "cena": 45,
             "mnozstvi": 0.25,
             "jednotka": "l",
-            "typ": "nealko"
+            "typ": "nealko nápoje"
         },
         {
             "nazev": "Tonic",
             "cena": 45,
             "mnozstvi": 0.25,
             "jednotka": "l",
-            "typ": "nealko"
+            "typ": "nealko nápoje"
         },
         {
             "nazev": "Tonic ginger",
             "cena": 45,
             "mnozstvi": 0.25,
             "jednotka": "l",
-            "typ": "nealko"
+            "typ": "nealko nápoje"
         },
         {
             "nazev": "Ice tea",
             "cena": 45,
             "mnozstvi": 0.25,
             "jednotka": "l",
-            "typ": "nealko"
+            "typ": "nealko nápoje"
         },
         {
             "nazev": "Bonaqua",
             "cena": 35,
             "mnozstvi": 0.25,
             "jednotka": "l",
-            "typ": "nealko"
+            "typ": "nealko nápoje"
         },
         {
             "nazev": "Džbán s vodou",
             "cena": 30,
             "mnozstvi": 1,
             "jednotka": "l",
-            "typ": "nealko"
+            "typ": "nealko nápoje"
         },
         {
-            "nazev": "Monster energy",
-            "cena": 60,
-            "mnozstvi": 0.5,
-            "jednotka": "l",
-            "typ": "nealko"
-        },
-        {
-            "nazev": "Domácí limonáda",
-            "cena": 75,
-            "mnozstvi": 0.5,
-            "jednotka": "l",
-            "typ": "nealko"
-        },
-        {
-            "nazev": "Čaj, citrón",
+            "nazev": "Čaj, citron",
             "cena": 45,
             "mnozstvi": 1,
             "jednotka": "ks",
@@ -205,7 +184,7 @@
         },
         {
             "nazev": "Espresso",
-            "cena":45,
+            "cena": 45,
             "mnozstvi": 1,
             "jednotka": "ks",
             "typ": "teplé nápoje"
@@ -240,7 +219,7 @@
         },
         {
             "nazev": "Svařené víno",
-            "cena": 50,
+            "cena": 60,
             "mnozstvi": 0.2,
             "jednotka": "l",
             "typ": "teplé nápoje"
@@ -250,20 +229,6 @@
             "cena": 50,
             "mnozstvi": 0.2,
             "jednotka": "l",
-            "typ": "teplé nápoje"
-        },
-        {
-            "nazev": "Smetana",
-            "cena": 5,
-            "mnozstvi": 1,
-            "jednotka": "ks",
-            "typ": "teplé nápoje"
-        },
-        {
-            "nazev": "Med",
-            "cena": 5,
-            "mnozstvi": 1,
-            "jednotka": "ks",
             "typ": "teplé nápoje"
         },
         {
@@ -288,6 +253,13 @@
             "typ": "vína"
         },
         {
+            "nazev": "Metropol",
+            "cena": 65,
+            "mnozstvi": 0.1,
+            "jednotka": "l",
+            "typ": "vína"
+        },
+        {
             "nazev": "Zelená",
             "cena": 35, 
             "mnozstvi": 0.04,
@@ -302,7 +274,7 @@
             "typ": "destiláty"
         },
         {
-            "nazev": "Jelzin / různé druhy",
+            "nazev": "Jelzin / různé druhy /",
             "cena": 40, 
             "mnozstvi": 0.04,
             "jednotka": "l",
@@ -330,7 +302,7 @@
             "typ": "destiláty"
         },
         {
-            "nazev": "Fernet, citrus",
+            "nazev": "Fernet , citrus",
             "cena": 45, 
             "mnozstvi": 0.04,
             "jednotka": "l",
@@ -400,7 +372,28 @@
             "typ": "destiláty"
         },
         {
-            "nazev": "Aperroll Spritz",
+            "nazev": "Professore",
+            "cena": 60, 
+            "mnozstvi": 0.04,
+            "jednotka": "l",
+            "typ": "destiláty"
+        },
+        {
+            "nazev": "Diplomatico",
+            "cena": 85, 
+            "mnozstvi": 0.04,
+            "jednotka": "l",
+            "typ": "destiláty"
+        },
+        {
+            "nazev": "Bucanero",
+            "cena": 85, 
+            "mnozstvi": 0.04,
+            "jednotka": "l",
+            "typ": "destiláty"
+        },
+        {
+            "nazev": "Aperoll spritze",
             "cena": 90, 
             "mnozstvi": 1,
             "jednotka": "ks",
@@ -413,37 +406,50 @@
             "nazev": "Brambůrky",
             "cena": 38, 
             "mnozstvi": 1,
-            "jednotka": "ks"
+            "jednotka": "ks",
+            "typ": "pochutiny a doplňky"
         },
         {
             "nazev": "Tyčinky",
             "cena": 38, 
             "mnozstvi": 1,
-            "jednotka": "ks"
+            "jednotka": "ks",
+            "typ": "pochutiny a doplňky"
         },
         {
             "nazev": "Oříšky",
             "cena": 38, 
             "mnozstvi": 1,
-            "jednotka": "ks"
+            "jednotka": "ks",
+            "typ": "pochutiny a doplňky"
         },
         {
             "nazev": "Křupky",
             "cena": 35, 
             "mnozstvi": 1,
-            "jednotka": "ks"
+            "jednotka": "ks",
+            "typ": "pochutiny a doplňky"
         },
         {
             "nazev": "Mandle",
             "cena": 43, 
             "mnozstvi": 1,
-            "jednotka": "ks"
+            "jednotka": "ks",
+            "typ": "pochutiny a doplňky"
         },
         {
-            "nazev": "Tatranka",
-            "cena": 15, 
+            "nazev": "Smetana",
+            "cena": 5, 
             "mnozstvi": 1,
-            "jednotka": "ks"
+            "jednotka": "ks",
+            "typ": "pochutiny a doplňky"
+        },
+        {
+            "nazev": "Med",
+            "cena": 5, 
+            "mnozstvi": 1,
+            "jednotka": "ks",
+            "typ": "pochutiny a doplňky"
         }
     ]
 }
