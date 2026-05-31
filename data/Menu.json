@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 25,
-        "mesic": 5,
+        "den": 1,
+        "mesic": 6,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - bramboračka"
+                "nazev": "Polévka - italská s těstovinou"
             },
             {
-                "nazev": "Rizoto s kuřecím masem a zeleninou",
-                "popis": " strouhaná gouda, okurek",
+                "nazev": "Farmářské fazole s domácí klobásou",
+                "popis": " cibulka, chléb",
                 "cena": 185
             },
             {
-                "nazev": "Pečená krkovička na česneku a rozmarýnu",
-                "popis": " šťouchané brambory",
+                "nazev": "Masové nudličky s žampiony, kukuřicí a smetanou",
+                "popis": " jasmínová rýže",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska",
-                "popis": " máslové brambory s pažitkou, dip",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, BBQ majonéza",
                 "cena": 185
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - francouzská"
+                "nazev": "Polévka - uzená s kroupami"
             },
             {
-                "nazev": "Filované kuřecí prso",
-                "popis": " sýrová omáčka, noky, rukola",
+                "nazev": "Koprová omáčka",
+                "popis": " vařené vejce, houskový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Cmunda po kaplicku",
-                "popis": " vídeňská cibulka",
+                "nazev": "Vepřový gyros",
+                "popis": " tzatziki, bramborové plátky",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska",
-                "popis": " máslové brambory s pažitkou, dip",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, BBQ majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": " šťouchané brambory s cibulkou, pepřová omáčka, coleslaw",
+                "nazev": "Pečené kachní stehno",
+                "popis": " červené zelí se špekem, bramborový knedlík",
                 "cena": 235
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - dýňový krém s chilli"
+                "nazev": "Polévka - dršťková"
             },
             {
-                "nazev": "Kuřecí steak",
-                "popis": " teriyaki omáčka, čínské nudle",
+                "nazev": "Vepřové ragú po burgundsku",
+                "popis": " fusilli, parmezán",
                 "cena": 185
             },
             {
-                "nazev": "Vepřová kýta po frankfurtsku",
-                "popis": " houskový knedlík",
+                "nazev": "Valašský špíz s klobásou a zeleninou",
+                "popis": " mačkané brambory se sádlem",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska",
-                "popis": " máslové brambory s pažitkou, dip",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, BBQ majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": " šťouchané brambory s cibulkou, pepřová omáčka, coleslaw",
+                "nazev": "Pečené kachní stehno",
+                "popis": " červené zelí se špekem, bramborový knedlík",
                 "cena": 235
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - kulajda"
+                "nazev": "Polévka - česnečka se šunkou"
             },
             {
-                "nazev": "Drůbeží játra na cibulce a majoránce",
-                "popis": " jasmínová rýže, sterilovaný okurek",
+                "nazev": "Řecký salát s olivami",
+                "popis": " bazalkové pesto, bageta",
                 "cena": 185
             },
             {
-                "nazev": "Vepřová kotleta na grilu",
-                "popis": " chorizová omáčka, pečené brambory",
+                "nazev": "Holandská sekaná",
+                "popis": " bramborová kaše, okurek",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska",
-                "popis": " máslové brambory s pažitkou, dip",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, BBQ majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": " šťouchané brambory s cibulkou, pepřová omáčka, coleslaw",
+                "nazev": "Pečené kachní stehno",
+                "popis": " červené zelí se špekem, bramborový knedlík",
                 "cena": 235
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - květáková s vejcem"
+                "nazev": "Polévka - cizrnová se zeleninou"
             },
             {
-                "nazev": "Domácí palačinky s vanilkovým cukrem",
-                "popis": " tvarohový krém",
+                "nazev": "Bramborové šišky s ořechy",
+                "popis": " restovaná strouhanka, máslo",
                 "cena": 185
             },
             {
-                "nazev": "Kuřecí cordon bleu",
-                "popis": " bramborová kaše",
+                "nazev": "Vepřový závitek se slaninou a nivou",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Smažená treska",
-                "popis": " máslové brambory s pažitkou, dip",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, BBQ majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Medailonky z vepřové panenky",
-                "popis": " šťouchané brambory s cibulkou, pepřová omáčka, coleslaw",
+                "nazev": "Pečené kachní stehno",
+                "popis": " červené zelí se špekem, bramborový knedlík",
                 "cena": 235
             }
         ]
