@@ -1,54 +1,54 @@
 {
     "zacatekTydne": {
-        "den": 8,
+        "den": 15,
         "mesic": 6,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka – zeleninový krém se smaženým hráškem"
+                "nazev": "Polévka - jarní polévka"
             },
             {
-                "nazev": "Špagety aglio olio e peperoncino",
-                "popis": " parmezán",
+                "nazev": "Špagety arrabbiata",
+                "popis": " baby špenát, parmezán",
                 "cena": 185
             },
             {
-                "nazev": "Pečená krkovička na šťavnato",
-                "popis": " krokety",
-                "cena": 195
+                "nazev": "Vepřový stroganoff",
+                "popis": " houskový knedlík",
+                "cena": 185
             },
             {
-                "nazev": "Uzená krkovice",
-                "popis": " máslové brambory, hořčice, křen, okurek",
-                "cena": 195
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 185
             }
         ]
     },
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka – drůbeží vývar s masem, zeleninou a nudlemi"
+                "nazev": "Polévka - hovězí vývar s masem, zeleninou a nudlemi"
             },
             {
-                "nazev": "Segedínský guláš",
-                "popis": " houskový knedlík",
+                "nazev": "Zeleninové lečo s domácí klobáskou",
+                "popis": " pečivo",
                 "cena": 185
             },
             {
-                "nazev": "Kuřecí steak caprese",
-                "popis": " omáčka, grenaille",
-                "cena": 195
+                "nazev": "Vepřový steak na grilu",
+                "popis": " tymiánová omáčka, krupeto",
+                "cena": 185
             },
             {
-                "nazev": "Uzená krkovice",
-                "popis": " máslové brambory, hořčice, křen, okurek",
-                "cena": 195
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 185
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
+                "nazev": "Quesadilla s kuřecím masem",
+                "popis": " slanina, cheddar, jalapeños, coleslaw",
                 "cena": 235
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka – hráškový krém s krutony"
+                "nazev": "Polévka - krém z bílých fazolí, slaninový chips"
             },
             {
-                "nazev": "Vykostěné vepřové koleno",
-                "popis": " coleslaw s dijon hořčicí a křenem, pečivo",
+                "nazev": "Zapečené šunkafleky s vepřovým masem",
+                "popis": " okurek",
                 "cena": 185
             },
             {
-                "nazev": "Bavorský karbanátek",
-                "popis": " mačkané brambory s cibulkou, červená řepa",
-                "cena": 195
+                "nazev": "Kuřecí kung-pao s wok zeleninou",
+                "popis": " jasmínová rýže",
+                "cena": 185
             },
             {
-                "nazev": "Uzená krkovice",
-                "popis": " máslové brambory, hořčice, křen, okurek",
-                "cena": 195
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 185
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
+                "nazev": "Quesadilla s kuřecím masem",
+                "popis": " slanina, cheddar, jalapeños, coleslaw",
                 "cena": 235
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka – zelná s klobásou"
+                "nazev": "Polévka - hrstková"
             },
             {
-                "nazev": "Gnocchi s kuřecím masem",
-                "popis": " smetanová omáčka, sušená rajčata, rukola",
+                "nazev": "Pečené kuřecí stehno",
+                "popis": " máslová zelenina, šťouchané brambory",
                 "cena": 185
             },
             {
-                "nazev": "Vepřové výpečky",
-                "popis": " červené zelí, bramborový knedlík",
-                "cena": 195
+                "nazev": "Masové koule",
+                "popis": " rajská omáčka, houskový knedlík",
+                "cena": 185
             },
             {
-                "nazev": "Uzená krkovice",
-                "popis": " máslové brambory, hořčice, křen, okurek",
-                "cena": 195
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 185
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
+                "nazev": "Quesadilla s kuřecím masem",
+                "popis": " slanina, cheddar, jalapeños, coleslaw",
                 "cena": 235
             }
         ]
@@ -110,26 +110,25 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka – krupicová s vejcem a bramborem"
+                "nazev": "Polévka - kmínová s krutony"
             },
             {
-                "nazev": "Taštičky plněné povidlím",
-                "popis": " citronový tvaroh, cukr, máslo",
+                "nazev": "Dukátové buchtičky s vanilkovým krémem",
                 "cena": 185
             },
             {
-                "nazev": "Smažené řízkové duo",
-                "popis": " bramborová kaše",
-                "cena": 195
+                "nazev": "Kuřecí rarášci",
+                "popis": " bramborová kaše, okurkový salát",
+                "cena": 185
             },
             {
-                "nazev": "Uzená krkovice",
-                "popis": " máslové brambory, hořčice, křen, okurek",
-                "cena": 195
+                "nazev": "Smažená gouda",
+                "popis": " hranolky, domácí tatarka",
+                "cena": 185
             },
             {
-                "nazev": "Smažená vepřová játra",
-                "popis": " tradiční bramborový salát",
+                "nazev": "Quesadilla s kuřecím masem",
+                "popis": " slanina, cheddar, jalapeños, coleslaw",
                 "cena": 235
             }
         ]
