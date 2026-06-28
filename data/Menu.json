@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 22,
+        "den": 29,
         "mesic": 6,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - kapustová s bramborem"
+                "nazev": "Polévka - mrkvový krém s chilli"
             },
             {
-                "nazev": "Hrachová kaše",
-                "popis": "uzené maso, okurek, chléb",
+                "nazev": "Bramborový guláš s domácí klobásou",
+                "popis": " cibulka, pečivo",
                 "cena": 185
             },
             {
-                "nazev": "Chalupářská masová směs",
-                "popis": "dušená rýže",
+                "nazev": "Kuřecí kari soté se zeleninou",
+                "popis": " jasmínová rýže",
                 "cena": 185
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": "krokety, domácí tatarka",
+                "nazev": "Smažená treska tmavá",
+                "popis": " máslové brambory, citrusová majonéza",
                 "cena": 185
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - mexická fazolová"
+                "nazev": "Polévka - kuřecí kaldoun"
             },
             {
-                "nazev": "Vepřový guláš",
-                "popis": "houskový knedlík",
+                "nazev": "Fusilli bolognese",
+                "popis": " parmezán",
                 "cena": 185
             },
             {
-                "nazev": "Kuřecí steak",
-                "popis": "omáčka z modrého sýra, šťouchané brambory",
+                "nazev": "Pečené kuřecí paličky",
+                "popis": " sweet chilli, červený coleslaw, bageta",
                 "cena": 185
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": "krokety, domácí tatarka",
+                "nazev": "Smažená treska tmavá",
+                "popis": " máslové brambory, citrusová majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Caesar salát s kuřecím masem",
-                "popis": "slanina, parmezán",
+                "nazev": "Pečená vepřová žebra BBQ",
+                "popis": " jablka s křenem, bylinkový chléb",
                 "cena": 235
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - dršťková z hlívy ústřičné"
+                "nazev": "Polévka - pórková s vejcem"
             },
             {
-                "nazev": "Špagety pomodoro",
-                "popis": "mozzarella",
+                "nazev": "Strapačky se zelím a uzeným masem",
+                "popis": " restovaný špek",
                 "cena": 185
             },
             {
-                "nazev": "Pštrosí vejce",
-                "popis": "bramborová kaše",
+                "nazev": "Sekaná svíčková",
+                "popis": " houskový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": "krokety, domácí tatarka",
+                "nazev": "Smažená treska tmavá",
+                "popis": " máslové brambory, citrusová majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Caesar salát s kuřecím masem",
-                "popis": "slanina, parmezán",
+                "nazev": "Pečená vepřová žebra BBQ",
+                "popis": " jablka s křenem, bylinkový chléb",
                 "cena": 235
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - celerový krém"
+                "nazev": "Polévka - krém z červené čočky"
             },
             {
-                "nazev": "Chilli con carne",
-                "popis": "bylinková bageta",
+                "nazev": "Italské dýňové rizoto",
+                "popis": " filované kuřecí prso",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová plec",
-                "popis": "kedlubnové zelí, bramborový knedlík",
+                "nazev": "Uzená krkovice",
+                "popis": " smetanový špenát, bramborový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": "krokety, domácí tatarka",
+                "nazev": "Smažená treska tmavá",
+                "popis": " máslové brambory, citrusová majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Caesar salát s kuřecím masem",
-                "popis": "slanina, parmezán",
+                "nazev": "Pečená vepřová žebra BBQ",
+                "popis": " jablka s křenem, bylinkový chléb",
                 "cena": 235
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - valašská kyselica"
+                "nazev": "Polévka - květáková"
             },
             {
-                "nazev": "Kynuté knedlíky plněné povidly",
-                "popis": "zakysaná smetana, máslo, skořice, cukr",
+                "nazev": "Šulánky s mákem",
+                "popis": " cukr, máslo",
                 "cena": 185
             },
             {
-                "nazev": "Obrácený vepřový řízek",
-                "popis": "vídeňský bramborový salát",
+                "nazev": "Smažený vepřový řízek s česnekem",
+                "popis": " šťouchané brambory, okurka",
                 "cena": 185
             },
             {
-                "nazev": "Smažený hermelín",
-                "popis": "krokety, domácí tatarka",
+                "nazev": "Smažená treska tmavá",
+                "popis": " máslové brambory, citrusová majonéza",
                 "cena": 185
             },
             {
-                "nazev": "Caesar salát s kuřecím masem",
-                "popis": "slanina, parmezán",
+                "nazev": "Pečená vepřová žebra BBQ",
+                "popis": " jablka s křenem, bylinkový chléb",
                 "cena": 235
             }
         ]
