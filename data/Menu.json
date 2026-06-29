@@ -11,17 +11,17 @@
             },
             {
                 "nazev": "Bramborový guláš s domácí klobásou",
-                "popis": " cibulka, pečivo",
+                "popis": "cibulka, pečivo",
                 "cena": 185
             },
             {
                 "nazev": "Kuřecí kari soté se zeleninou",
-                "popis": " jasmínová rýže",
+                "popis": "jasmínová rýže",
                 "cena": 195
             },
             {
                 "nazev": "Smažená treska tmavá",
-                "popis": " máslové brambory, citrusová majonéza",
+                "popis": "máslové brambory, citrusová majonéza",
                 "cena": 195
             }
         ]
@@ -33,22 +33,22 @@
             },
             {
                 "nazev": "Fusilli bolognese",
-                "popis": " parmezán",
+                "popis": "parmezán",
                 "cena": 185
             },
             {
                 "nazev": "Pečené kuřecí paličky",
-                "popis": " sweet chilli, červený coleslaw, bageta",
+                "popis": "sweet chilli, červený coleslaw, bageta",
                 "cena": 195
             },
             {
                 "nazev": "Smažená treska tmavá",
-                "popis": " máslové brambory, citrusová majonéza",
+                "popis": "máslové brambory, citrusová majonéza",
                 "cena": 195
             },
             {
-                "nazev": "Pečená vepřová žebra BBQ",
-                "popis": " jablka s křenem, bylinkový chléb",
+                "nazev": "Kotleta na grilu",
+                "popis": "pepřová omáčka, pečená brambora, coleslaw",
                 "cena": 235
             }
         ]
@@ -60,22 +60,22 @@
             },
             {
                 "nazev": "Strapačky se zelím a uzeným masem",
-                "popis": " restovaný špek",
+                "popis": "restovaný špek",
                 "cena": 185
             },
             {
                 "nazev": "Sekaná svíčková",
-                "popis": " houskový knedlík",
+                "popis": "houskový knedlík",
                 "cena": 195
             },
             {
                 "nazev": "Smažená treska tmavá",
-                "popis": " máslové brambory, citrusová majonéza",
+                "popis": "máslové brambory, citrusová majonéza",
                 "cena": 195
             },
             {
-                "nazev": "Pečená vepřová žebra BBQ",
-                "popis": " jablka s křenem, bylinkový chléb",
+                "nazev": "Kotleta na grilu",
+                "popis": "pepřová omáčka, pečená brambora, coleslaw",
                 "cena": 235
             }
         ]
@@ -87,22 +87,22 @@
             },
             {
                 "nazev": "Italské dýňové rizoto",
-                "popis": " filované kuřecí prso",
+                "popis": "filované kuřecí prso",
                 "cena": 185
             },
             {
                 "nazev": "Uzená krkovice",
-                "popis": " smetanový špenát, bramborový knedlík",
+                "popis": "smetanový špenát, bramborový knedlík",
                 "cena": 195
             },
             {
                 "nazev": "Smažená treska tmavá",
-                "popis": " máslové brambory, citrusová majonéza",
+                "popis": "máslové brambory, citrusová majonéza",
                 "cena": 195
             },
             {
-                "nazev": "Pečená vepřová žebra BBQ",
-                "popis": " jablka s křenem, bylinkový chléb",
+                "nazev": "Kotleta na grilu",
+                "popis": "pepřová omáčka, pečená brambora, coleslaw",
                 "cena": 235
             }
         ]
@@ -114,22 +114,22 @@
             },
             {
                 "nazev": "Šulánky s mákem",
-                "popis": " cukr, máslo",
+                "popis": "cukr, máslo",
                 "cena": 185
             },
             {
                 "nazev": "Smažený vepřový řízek s česnekem",
-                "popis": " šťouchané brambory, okurka",
+                "popis": "šťouchané brambory, okurka",
                 "cena": 195
             },
             {
                 "nazev": "Smažená treska tmavá",
-                "popis": " máslové brambory, citrusová majonéza",
+                "popis": "máslové brambory, citrusová majonéza",
                 "cena": 195
             },
             {
-                "nazev": "Pečená vepřová žebra BBQ",
-                "popis": " jablka s křenem, bylinkový chléb",
+                "nazev": "Kotleta na grilu",
+                "popis": "pepřová omáčka, pečená brambora, coleslaw",
                 "cena": 235
             }
         ]
