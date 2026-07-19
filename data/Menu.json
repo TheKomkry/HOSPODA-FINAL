@@ -1,27 +1,27 @@
 {
     "zacatekTydne": {
-        "den": 13,
+        "den": 20,
         "mesic": 7,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - česnečka s vejcem"
+                "nazev": "Polévka - italská s těstovinou"
             },
             {
-                "nazev": "Čočka na kyselo",
-                "popis": " trampské cigáro, okurka, chléb",
+                "nazev": "Hrachová kaše",
+                "popis": " uzené maso, konfitovaná cibulka, okurek, chléb",
                 "cena": 185
             },
             {
-                "nazev": "Masový mix flamendr",
-                "popis": " krokety",
+                "nazev": "Chalupářská masová směs",
+                "popis": " jasmínová rýže",
                 "cena": 185
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " brambory s máslem, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
             }
         ]
@@ -29,26 +29,26 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - kuřecí kaldoun"
+                "nazev": "Polévka - uzená s kroupami"
             },
             {
-                "nazev": "Drůbeží rizoto po srbsku",
-                "popis": " strouhaný sýr, okurka",
+                "nazev": "Špagety po uhlířsku",
+                "popis": "",
                 "cena": 185
             },
             {
-                "nazev": "Kotleta na grilu",
-                "popis": " slaninová omáčka, šťouchané brambory",
+                "nazev": "Kuřecí steak caprese",
+                "popis": " šťouchané brambory",
                 "cena": 185
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " brambory s máslem, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " jablka s křenem, rozpečený chléb",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, cibulka",
                 "cena": 235
             }
         ]
@@ -56,26 +56,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - moravská cibulačka"
+                "nazev": "Polévka - kulajda"
             },
             {
-                "nazev": "Noky s kuřecím masem a špenátem",
-                "popis": "",
+                "nazev": "Francouzské brambory s vepřovým masem",
+                "popis": " okurek",
                 "cena": 185
             },
             {
-                "nazev": "Vepřový stroganoff",
-                "popis": " houskový knedlík",
+                "nazev": "Pečené kuřecí stehno na zelenině",
+                "popis": " těstovinová rýže",
                 "cena": 185
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " brambory s máslem, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " jablka s křenem, rozpečený chléb",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, cibulka",
                 "cena": 235
             }
         ]
@@ -83,26 +83,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - bramboračka"
+                "nazev": "Polévka - selská s bramborem"
             },
             {
-                "nazev": "Špagety aglio olio e peperoncino",
+                "nazev": "Halušky s brynzou a restovaným špekem",
                 "popis": "",
                 "cena": 185
             },
             {
-                "nazev": "Holandská sekaná",
-                "popis": " bramborová kaše, červená řepa",
+                "nazev": "Pečená krkovička",
+                "popis": " dušená kapusta, bramborový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " brambory s máslem, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " jablka s křenem, rozpečený chléb",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, cibulka",
                 "cena": 235
             }
         ]
@@ -110,26 +110,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - brokolicový krém se smaženým hráškem"
+                "nazev": "Polévka - hrstková"
             },
             {
-                "nazev": "Domácí lívance",
-                "popis": " omáčka z lesního ovoce, zakysaná smetana",
+                "nazev": "Široké nudle s mákem",
+                "popis": " cukr, máslo",
                 "cena": 185
             },
             {
-                "nazev": "Kuřecí řízek",
-                "popis": " lehký bramborový salát",
+                "nazev": "Soukenický řízek",
+                "popis": " bramborová kaše",
                 "cena": 185
             },
             {
-                "nazev": "Smažený květák",
-                "popis": " brambory s máslem, domácí tatarka",
+                "nazev": "Smažené sýrové duo",
+                "popis": " vařené brambory, domácí tatarka",
                 "cena": 185
             },
             {
-                "nazev": "Pečená vepřová žebra",
-                "popis": " jablka s křenem, rozpečený chléb",
+                "nazev": "Španělský ptáček",
+                "popis": " jasmínová rýže, cibulka",
                 "cena": 235
             }
         ]
