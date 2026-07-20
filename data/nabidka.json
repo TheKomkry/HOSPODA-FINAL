@@ -11,28 +11,28 @@
     "Napoje": [
         {
             "nazev": "Bernard 11°",
-            "cena": 43,
+            "cena": 46,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Bernard 11°",
-            "cena": 26,
+            "cena": 28,
             "mnozstvi": 0.3,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Bernard 10°",
-            "cena": 38,
+            "cena": 41,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "pivo"
         },
         {
             "nazev": "Bernard 10°",
-            "cena": 23,
+            "cena": 25,
             "mnozstvi": 0.3,
             "jednotka": "l",
             "typ": "pivo"
@@ -53,7 +53,7 @@
         },
         {
             "nazev": "Točená limonáda",
-            "cena": 35,
+            "cena": 40,
             "mnozstvi": 0.5,
             "jednotka": "l",
             "typ": "limo"
