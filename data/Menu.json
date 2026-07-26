@@ -1,27 +1,26 @@
 {
     "zacatekTydne": {
-        "den": 20,
+        "den": 27,
         "mesic": 7,
         "rok": 2026
     },
     "Pondeli": {
         "jidla": [
             {
-                "nazev": "Polévka - italská s těstovinou"
+                "nazev": "Polévka - květáková s bramborem"
             },
             {
-                "nazev": "Hrachová kaše",
-                "popis": " uzené maso, konfitovaná cibulka, okurek, chléb",
+                "nazev": "Špagety pomodoro s olivami a cuketou",
                 "cena": 185
             },
             {
-                "nazev": "Chalupářská masová směs",
+                "nazev": "Kuřecí nudličky teriyaki",
                 "popis": " jasmínová rýže",
                 "cena": 185
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, bylinkovo-česnekový dip",
                 "cena": 185
             }
         ]
@@ -29,26 +28,25 @@
     "Utery": {
         "jidla": [
             {
-                "nazev": "Polévka - uzená s kroupami"
+                "nazev": "Polévka - masový vývar se zeleninou a nudlemi"
             },
             {
-                "nazev": "Špagety po uhlířsku",
-                "popis": "",
+                "nazev": "Mac and cheese s trhaným vepřovým masem",
                 "cena": 185
             },
             {
-                "nazev": "Kuřecí steak caprese",
-                "popis": " šťouchané brambory",
+                "nazev": "Vepřová kýta na houbách",
+                "popis": " houskový knedlík",
                 "cena": 185
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, bylinkovo-česnekový dip",
                 "cena": 185
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulka",
+                "nazev": "Anglický roastbeef",
+                "popis": " pečené grenaille, domácí tatarka",
                 "cena": 235
             }
         ]
@@ -56,26 +54,26 @@
     "Streda": {
         "jidla": [
             {
-                "nazev": "Polévka - kulajda"
+                "nazev": "Polévka - krupicová"
             },
             {
-                "nazev": "Francouzské brambory s vepřovým masem",
-                "popis": " okurek",
+                "nazev": "Pečená kuřecí křídla",
+                "popis": " zelný salát s koprem, pečivo",
                 "cena": 185
             },
             {
-                "nazev": "Pečené kuřecí stehno na zelenině",
-                "popis": " těstovinová rýže",
+                "nazev": "Smažený řecký bifteček",
+                "popis": " šťouchané brambory s konfitovanou cibulkou",
                 "cena": 185
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, bylinkovo-česnekový dip",
                 "cena": 185
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulka",
+                "nazev": "Anglický roastbeef",
+                "popis": " pečené grenaille, domácí tatarka",
                 "cena": 235
             }
         ]
@@ -83,26 +81,26 @@
     "Ctvrtek": {
         "jidla": [
             {
-                "nazev": "Polévka - selská s bramborem"
+                "nazev": "Polévka - francouzská"
             },
             {
-                "nazev": "Halušky s brynzou a restovaným špekem",
-                "popis": "",
+                "nazev": "Těstovinový salát se zeleninou",
+                "popis": " filované kuřecí prso",
                 "cena": 185
             },
             {
-                "nazev": "Pečená krkovička",
-                "popis": " dušená kapusta, bramborový knedlík",
+                "nazev": "Vepřová kotleta zapečená poličanem a nivou",
+                "popis": " bramborová kaše",
                 "cena": 185
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, bylinkovo-česnekový dip",
                 "cena": 185
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulka",
+                "nazev": "Anglický roastbeef",
+                "popis": " pečené grenaille, domácí tatarka",
                 "cena": 235
             }
         ]
@@ -110,26 +108,26 @@
     "Patek": {
         "jidla": [
             {
-                "nazev": "Polévka - hrstková"
+                "nazev": "Polévka - pórková s krutony"
             },
             {
-                "nazev": "Široké nudle s mákem",
-                "popis": " cukr, máslo",
+                "nazev": "Bramborové taštičky plněné povidlím",
+                "popis": " strouhaný tvaroh, máslo, skořice",
                 "cena": 185
             },
             {
-                "nazev": "Soukenický řízek",
-                "popis": " bramborová kaše",
+                "nazev": "Smažený vepřový řízek",
+                "popis": " tradiční bramborový salát",
                 "cena": 185
             },
             {
-                "nazev": "Smažené sýrové duo",
-                "popis": " vařené brambory, domácí tatarka",
+                "nazev": "Kuřecí stripsy",
+                "popis": " hranolky, bylinkovo-česnekový dip",
                 "cena": 185
             },
             {
-                "nazev": "Španělský ptáček",
-                "popis": " jasmínová rýže, cibulka",
+                "nazev": "Anglický roastbeef",
+                "popis": " pečené grenaille, domácí tatarka",
                 "cena": 235
             }
         ]
