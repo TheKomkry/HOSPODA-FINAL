@@ -1,5 +1,5 @@
 let alertText = "Víkendová nabídka\n\nOd 16. 5. 2026 opět vaříme víkendové obědy. Více informací najdete v sekci 'Jídelní a Nápojový lístek' na našem webu.";
-let allowAlerts = true;
+let allowAlerts = false;
 let alertCode = 'VIKEND_VARIME';
 function alertUser() {
     let hasBeenAlerted = localStorage['hasBeenAlerted'] || 'false';
