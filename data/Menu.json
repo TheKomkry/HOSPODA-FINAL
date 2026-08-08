@@ -1,137 +1,132 @@
 {
-    "zacatekTydne": {
-        "den": 3,
-        "mesic": 8,
-        "rok": 2026
-    },
-    "Pondeli": {
-        "jidla": [
-            {
-                "nazev": "Polévka - česnekový krém se zeleninou"
-            },
-            {
-                "nazev": "Farmářské fazole s uzeninou",
-                "popis": " cibulka, chléb",
-                "cena": 185
-            },
-            {
-                "nazev": "Kuřecí steak",
-                "popis": " sýrová omáčka, krokety",
-                "cena": 195
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 195
-            }
-        ]
-    },
-    "Utery": {
-        "jidla": [
-            {
-                "nazev": "Polévka - thajská kuřecí"
-            },
-            {
-                "nazev": "Znojemská pečeně",
-                "popis": " jasmínová rýže",
-                "cena": 185
-            },
-            {
-                "nazev": "Vykostěné kuřecí stehno na grilu",
-                "popis": " medovo-hořčičná omáčka, pečené brambory",
-                "cena": 195
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 195
-            },
-            {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč",
-                "cena": 249
-            }
-        ]
-    },
-    "Streda": {
-        "jidla": [
-            {
-                "nazev": "Polévka - mrkvový krém s chilli"
-            },
-            {
-                "nazev": "Šunkafleky s kuřecím masem",
-                "popis": " okurek",
-                "cena": 185
-            },
-            {
-                "nazev": "Vepřové výpečky",
-                "popis": " červené zelí, bramborový knedlík",
-                "cena": 195
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 195
-            },
-            {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč",
-                "cena": 249
-            }
-        ]
-    },
-    "Ctvrtek": {
-        "jidla": [
-            {
-                "nazev": "Polévka - dršťková"
-            },
-            {
-                "nazev": "Čevapčiči",
-                "popis": " cibule, hořčice, vařené brambory",
-                "cena": 185
-            },
-            {
-                "nazev": "Vepřová kýta po frankfurtsku",
-                "popis": " houskový knedlík",
-                "cena": 195
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 195
-            },
-            {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč",
-                "cena": 249
-            }
-        ]
-    },
-    "Patek": {
-        "jidla": [
-            {
-                "nazev": "Polévka - mexická fazolová"
-            },
-            {
-                "nazev": "Kynuté knedle plněné povidlím",
-                "popis": " zakysaná smetana, máslo, skořice, cukr",
-                "cena": 185
-            },
-            {
-                "nazev": "Cordon bleu",
-                "popis": " šťouchané brambory s cibulkou",
-                "cena": 195
-            },
-            {
-                "nazev": "Smažený gothaj",
-                "popis": " vařené brambory s máslem, domácí tatarka",
-                "cena": 195
-            },
-            {
-                "nazev": "Hovězí svíčková na smetaně",
-                "popis": " houskový knedlík, brusinkový terč",
-                "cena": 249
-            }
-        ]
-    }
+"zacatekTydne": {
+"den": 10,
+"mesic": 8,
+"rok": 2026
+},
+"Pondeli": {
+"jidla": [
+{
+"nazev": "Polévka - celerový krém se smaženým hráškem"
+},
+{
+"nazev": "Zeleninové lečo s domácí klobásou",
+"popis": " pečivo",
+"cena": 185
+},
+{
+"nazev": "Vepřová kotleta na grilu",
+"popis": " bylinková omáčka, grenaille",
+"cena": 195
+},
+{
+"nazev": "Smažené žampiony",
+"popis": " vařené brambory s máslem, domácí tatarka",
+"cena": 195
+}
+]
+},
+"Utery": {
+"jidla": [
+{
+"nazev": "Polévka - bramboračka"
+},
+{
+"nazev": "Fusilli s vepřovým ragú po burgundsku",
+"cena": 185
+},
+{
+"nazev": "Kuřecí ražniči na plech",
+"popis": " šťouchané brambory",
+"cena": 195
+},
+{
+"nazev": "Smažené žampiony",
+"popis": " vařené brambory s máslem, domácí tatarka",
+"cena": 195
+},
+{
+"nazev": "Caesar salát s kuřecím masem",
+"cena": 235
+}
+]
+},
+"Streda": {
+"jidla": [
+{
+"nazev": "Polévka - valašská kyselica"
+},
+{
+"nazev": "Uzené maso",
+"popis": " křenová omáčka, houskový knedlík",
+"cena": 185
+},
+{
+"nazev": "Vepřová krkovice ala stroganoff",
+"popis": " hranolky",
+"cena": 195
+},
+{
+"nazev": "Smažené žampiony",
+"popis": " vařené brambory s máslem, domácí tatarka",
+"cena": 195
+},
+{
+"nazev": "Caesar salát s kuřecím masem",
+"cena": 235
+}
+]
+},
+"Ctvrtek": {
+"jidla": [
+{
+"nazev": "Polévka - gulášová"
+},
+{
+"nazev": "Drůbeží játra na cibulce",
+"popis": " dušená rýže, okurek",
+"cena": 185
+},
+{
+"nazev": "Pečený bůček na česneku",
+"popis": " listový špenát, bramborový knedlík, cibulka",
+"cena": 195
+},
+{
+"nazev": "Smažené žampiony",
+"popis": " vařené brambory s máslem, domácí tatarka",
+"cena": 195
+},
+{
+"nazev": "Caesar salát s kuřecím masem",
+"cena": 235
+}
+]
+},
+"Patek": {
+"jidla": [
+{
+"nazev": "Polévka - boršč"
+},
+{
+"nazev": "Palačinky s tvarohem a povidly",
+"popis": " vanilkový cukr",
+"cena": 185
+},
+{
+"nazev": "Kuřecí řízek v hráškovém těstíčku",
+"popis": " mačkané brambory s konfitovanou cibulí",
+"cena": 195
+},
+{
+"nazev": "Smažené žampiony",
+"popis": " vařené brambory s máslem, domácí tatarka",
+"cena": 195
+},
+{
+"nazev": "Caesar salát s kuřecím masem",
+"cena": 235
+}
+]
+}
 }
