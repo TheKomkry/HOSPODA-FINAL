@@ -1,26 +1,27 @@
 {
   "zacatekTydne": {
-    "den": 31,
-    "mesic": 8,
+    "den": 7,
+    "mesic": 9,
     "rok": 2026
   },
   "Pondeli": {
     "jidla": [
       {
-        "nazev": "Polévka - špenátová s vejcem a bramborem"
+        "nazev": "Polévka - zeleninová s krupicí a vejcem"
       },
       {
-        "nazev": "Špagety aglio olio e peperoncino",
+        "nazev": "Špagety pomodoro",
+        "popis": " s mozzarellou a baby špenátem",
         "cena": 185
       },
       {
-        "nazev": "Chalupářská masová směs",
-        "popis": " krokety",
+        "nazev": "Kuřecí nudličky na čerstvé paprice",
+        "popis": " kynuté knedlíky",
         "cena": 195
       },
       {
-        "nazev": "Smažená treska tmavá",
-        "popis": " vařené brambory s máslem, citrusová majonéza",
+        "nazev": "Smažené sýrové duo",
+        "popis": " vařené brambory, domácí tatarka",
         "cena": 195
       }
     ]
@@ -28,26 +29,26 @@
   "Utery": {
     "jidla": [
       {
-        "nazev": "Polévka - drůbeží vývar s masem a zeleninou, tarhoňa"
+        "nazev": "Polévka - mrkvový krém s kokosovým mlékem a zázvorem"
       },
       {
-        "nazev": "Chilli con carne",
-        "popis": " cibulka, chléb",
+        "nazev": "Vepřová plec na mrkvi a hrášku",
+        "popis": " mačkané brambory",
         "cena": 185
       },
       {
-        "nazev": "Segedínský guláš",
+        "nazev": "Halušky s brynzou",
+        "popis": " anglickou slaninou a restovaným špekem",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené sýrové duo",
+        "popis": " vařené brambory, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Hovězí stroganof",
         "popis": " houskový knedlík",
-        "cena": 195
-      },
-      {
-        "nazev": "Smažená treska tmavá",
-        "popis": " vařené brambory s máslem, citrusová majonéza",
-        "cena": 195
-      },
-      {
-        "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-        "popis": " pečené brambory ve slupce",
         "cena": 235
       }
     ]
@@ -55,26 +56,26 @@
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka - hráškový krém"
+        "nazev": "Polévka - bramboračka s žampiony"
       },
       {
-        "nazev": "Kuře à la kachna",
-        "popis": " červené zelí se špekem, bramborový knedlík",
+        "nazev": "Těstovinový salát se zeleninou",
+        "popis": " filované kuřecí prso",
         "cena": 185
       },
       {
-        "nazev": "Vepřová plec na houbách",
-        "popis": " bramborová kaše",
+        "nazev": "Vepřová kotleta na grilu",
+        "popis": " fazolové lusky, grenaille, pepřová omáčka",
         "cena": 195
       },
       {
-        "nazev": "Smažená treska tmavá",
-        "popis": " vařené brambory s máslem, citrusová majonéza",
+        "nazev": "Smažené sýrové duo",
+        "popis": " vařené brambory, domácí tatarka",
         "cena": 195
       },
       {
-        "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-        "popis": " pečené brambory ve slupce",
+        "nazev": "Hovězí stroganof",
+        "popis": " houskový knedlík",
         "cena": 235
       }
     ]
@@ -82,26 +83,26 @@
   "Ctvrtek": {
     "jidla": [
       {
-        "nazev": "Polévka - zelňačka s uzeninou"
+        "nazev": "Polévka - moravská cibulačka"
       },
       {
-        "nazev": "Bavorský karbanátek",
-        "popis": " šťouchané brambory, vídeňská cibulka",
+        "nazev": "Vepřové kostky po znojemsku",
+        "popis": " jasmínová rýže",
         "cena": 185
       },
       {
-        "nazev": "Kuřecí kung-pao s wok zeleninou",
-        "popis": " jasmínová rýže",
+        "nazev": "Kuřecí gyros",
+        "popis": " hranolky, tzatziki",
         "cena": 195
       },
       {
-        "nazev": "Smažená treska tmavá",
-        "popis": " vařené brambory s máslem, citrusová majonéza",
+        "nazev": "Smažené sýrové duo",
+        "popis": " vařené brambory, domácí tatarka",
         "cena": 195
       },
       {
-        "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-        "popis": " pečené brambory ve slupce",
+        "nazev": "Hovězí stroganof",
+        "popis": " houskový knedlík",
         "cena": 235
       }
     ]
@@ -109,26 +110,25 @@
   "Patek": {
     "jidla": [
       {
-        "nazev": "Polévka - frankfurtská"
+        "nazev": "Polévka - celerový krém se smaženým hráškem"
       },
       {
-        "nazev": "Domácí šišky plněné mákem",
-        "popis": " cukr, máslo",
+        "nazev": "Bavorské vdolky s tvarohem a povidly",
         "cena": 185
       },
       {
-        "nazev": "Obrácený vepřový řízek",
-        "popis": " vídeňský bramborový salát",
+        "nazev": "Mix smažených řízků",
+        "popis": " farmářské brambory",
         "cena": 195
       },
       {
-        "nazev": "Smažená treska tmavá",
-        "popis": " vařené brambory s máslem, citrusová majonéza",
+        "nazev": "Smažené sýrové duo",
+        "popis": " vařené brambory, domácí tatarka",
         "cena": 195
       },
       {
-        "nazev": "Vepřová líčka na červeném víně a kořenové zelenině",
-        "popis": " pečené brambory ve slupce",
+        "nazev": "Hovězí stroganof",
+        "popis": " houskový knedlík",
         "cena": 235
       }
     ]
