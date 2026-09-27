@@ -1,135 +1,96 @@
 {
   "zacatekTydne": {
-    "den": 21,
+    "den": 28,
     "mesic": 9,
     "rok": 2026
   },
   "Pondeli": {
-    "jidla": [
-      {
-        "nazev": "Polévka – brokolicový krém se smaženým hráškem"
-      },
-      {
-        "nazev": "Zeleninové lečo s domácí klobásou",
-        "popis": " pečivo",
-        "cena": 185
-      },
-      {
-        "nazev": "Masové nudličky teriyaki",
-        "popis": " jasmínová rýže",
-        "cena": 195
-      },
-      {
-        "nazev": "Kuřecí stripsy",
-        "popis": " hranolky, jogurtovo-česnekový dip",
-        "cena": 195
-      }
-    ]
+    "jidla": []
   },
   "Utery": {
     "jidla": [
       {
-        "nazev": "Polévka – thajská kuřecí"
+        "nazev": "Polévka - gulášová s bramborem"
       },
       {
-        "nazev": "Strapačky s tuřanským kyselým zelím a uzeným masem",
-        "popis": " vídeňská cibulka",
+        "nazev": "Italské houbové rizoto",
         "cena": 185
       },
       {
-        "nazev": "Kladenská pečeně s křenovou omáčkou",
-        "popis": " houskový knedlík",
+        "nazev": "Kuřecí steak",
+        "popis": " medovo-hořčičná omáčka, pečené bramborové plátky",
         "cena": 195
       },
       {
-        "nazev": "Kuřecí stripsy",
-        "popis": " hranolky, jogurtovo-česnekový dip",
+        "nazev": "Smažený květák",
+        "popis": " vařené brambory s máslem, domácí tatarka",
         "cena": 195
-      },
-      {
-        "nazev": "Vykostěné vepřové koleno",
-        "popis": " jablka s křenem, rozpečený chléb",
-        "cena": 235
       }
     ]
   },
   "Streda": {
     "jidla": [
       {
-        "nazev": "Polévka – mexická fazolová"
+        "nazev": "Polévka - zeleninová krémová"
       },
       {
-        "nazev": "Pečená kuřecí křídla",
-        "popis": " zelný salát s koprem, bageta",
+        "nazev": "Maďarský kuřecí perkelt",
+        "popis": " tarhoňa",
         "cena": 185
       },
       {
-        "nazev": "Vepřová játra na roštu",
-        "popis": " pečené brambory ve slupce, domácí tatarka",
+        "nazev": "Soukenický řízek",
+        "popis": " bramborová kaše",
         "cena": 195
       },
       {
-        "nazev": "Kuřecí stripsy",
-        "popis": " hranolky, jogurtovo-česnekový dip",
+        "nazev": "Smažený květák",
+        "popis": " vařené brambory s máslem, domácí tatarka",
         "cena": 195
-      },
-      {
-        "nazev": "Vykostěné vepřové koleno",
-        "popis": " jablka s křenem, rozpečený chléb",
-        "cena": 235
       }
     ]
   },
   "Ctvrtek": {
     "jidla": [
       {
-        "nazev": "Polévka – minestrone"
+        "nazev": "Polévka - francouzská s těstovinou"
       },
       {
-        "nazev": "Špagety po milánsku sypané sýrem",
+        "nazev": "Jitrnicový prejt",
+        "popis": " kysané zelí, brambory",
         "cena": 185
       },
       {
-        "nazev": "Pečená vepřová kýta na česneku a slanině",
-        "popis": " kapusta, bramborový knedlík",
+        "nazev": "Vepřový guláš „Kovář“",
+        "popis": " houskový knedlík",
         "cena": 195
       },
       {
-        "nazev": "Kuřecí stripsy",
-        "popis": " hranolky, jogurtovo-česnekový dip",
+        "nazev": "Smažený květák",
+        "popis": " vařené brambory s máslem, domácí tatarka",
         "cena": 195
-      },
-      {
-        "nazev": "Vykostěné vepřové koleno",
-        "popis": " jablka s křenem, rozpečený chléb",
-        "cena": 235
       }
     ]
   },
   "Patek": {
     "jidla": [
       {
-        "nazev": "Polévka – selská"
+        "nazev": "Polévka - dýňová"
       },
       {
-        "nazev": "Kynuté knedle plněné povidlím",
-        "popis": " zakysaná smetana, skořice, máslo",
+        "nazev": "Palačinky s ovocnou marmeládou",
+        "popis": " citronový tvaroh",
         "cena": 185
       },
       {
-        "nazev": "Vepřový závitek plněný špenátem a sušenými rajčaty",
-        "popis": " šťouchané brambory",
+        "nazev": "Cordon bleu",
+        "popis": " mačkané brambory, sterilovaný okurek",
         "cena": 195
       },
       {
-        "nazev": "Kuřecí stripsy",
-        "popis": " hranolky, jogurtovo-česnekový dip",
+        "nazev": "Smažený květák",
+        "popis": " vařené brambory s máslem, domácí tatarka",
         "cena": 195
-      },
-      {
-        "nazev": "Vykostěné vepřové koleno",
-        "popis": " jablka s křenem, rozpečený chléb",
-        "cena": 235
       }
     ]
   }
