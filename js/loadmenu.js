@@ -51,7 +51,11 @@ function loadDay(data, day){
     let listJidel = data.jidla;
     if (listJidel.length == 0){
         let noFood = document.createElement("p");
-        noFood.innerHTML = "Na tento den nejsou žádná jídla, pro více informací klikněte zde <a href='/info'>INFO & AKCE</a>";
+        if (data.poznamka != undefined && data.poznamka != ""){
+            noFood.innerHTML = data.poznamka;
+        } else {
+            noFood.innerHTML = "Na tento den nejsou žádná jídla, pro více informací klikněte zde <a href='/info'>INFO & AKCE</a>";
+        }
         containerForDay.appendChild(noFood);
     }
     listJidel.forEach(element => {
