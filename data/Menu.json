@@ -26,6 +26,11 @@
         "nazev": "Smažený květák",
         "popis": " vařené brambory s máslem, domácí tatarka",
         "cena": 195
+      },
+      {
+        "nazev": "Hovězí guláš",
+        "popis": " houskový knedlík",
+        "cena": 249
       }
     ]
   },
