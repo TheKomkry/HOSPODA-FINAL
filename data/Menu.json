@@ -53,6 +53,11 @@
         "nazev": "Smažený květák",
         "popis": " vařené brambory s máslem, domácí tatarka",
         "cena": 195
+      },
+      {
+        "nazev": "Španělský ptáček",
+        "popis": " jasmínová rýže",
+        "cena": 249
       }
     ]
   },
@@ -75,6 +80,11 @@
         "nazev": "Smažený květák",
         "popis": " vařené brambory s máslem, domácí tatarka",
         "cena": 195
+      },
+      {
+        "nazev": "Španělský ptáček",
+        "popis": " jasmínová rýže",
+        "cena": 249
       }
     ]
   },
@@ -97,6 +107,11 @@
         "nazev": "Smažený květák",
         "popis": " vařené brambory s máslem, domácí tatarka",
         "cena": 195
+      },
+      {
+        "nazev": "Španělský ptáček",
+        "popis": " jasmínová rýže",
+        "cena": 249
       }
     ]
   }
