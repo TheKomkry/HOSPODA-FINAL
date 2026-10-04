@@ -7,7 +7,8 @@ name: Šablona týdenního menu
 #   pondělí–čtvrtek -> pondělí tohoto týdne
 #   pátek–neděle    -> pondělí příštího týdne (sobotní automatické spuštění)
 #
-# Pokud už je v Menu.json pondělí příštího týdne (nebo pozdější), nic se nepřepíše.
+# Automatický (sobotní) běh nic nepřepíše, pokud už je v Menu.json pondělí
+# příštího týdne (nebo pozdější). Ruční spuštění přepíše vždy.
 
 on:
   schedule:
@@ -77,7 +78,8 @@ jobs:
               current = None
 
           print(f"Dnes: {today}, cílové pondělí: {target}, v Menu.json: {current}")
-          if current is not None and current >= next_monday:
+          manual = os.environ["GITHUB_EVENT_NAME"] == "workflow_dispatch"
+          if not manual and current is not None and current >= next_monday:
               print("Menu na příští týden už je nahrané, nic nepřepisuji.")
               raise SystemExit(0)
 

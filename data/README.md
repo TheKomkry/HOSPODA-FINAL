@@ -49,6 +49,6 @@ Pokud chceš místo toho vlastní text (svátek, zavřeno, vaří se jen z líst
 
 Každou sobotu ráno (cca 4:30–6:30) GitHub Action `.github/workflows/menu-template.yml` přepíše `Menu.json` šablonou s textem „menu se připravuje“ a doplní datum příštího pondělí.
 
-- Pokud už je v `Menu.json` menu na příští týden (pondělí příštího týdne), nic se nepřepíše.
+- Pokud už je v `Menu.json` menu na příští týden (pondělí příštího týdne), automatika nic nepřepíše.
 - Text šablony se upravuje přímo v tom workflow (`MENU_TEMPLATE`).
-- Dá se spustit i ručně (Actions → Šablona týdenního menu → Run workflow): po–čt doplní pondělí tohoto týdne, pá–ne pondělí příštího týdne.
+- Dá se spustit i ručně (Actions → Šablona týdenního menu → Run workflow): po–čt doplní pondělí tohoto týdne, pá–ne pondělí příštího týdne. Ruční spuštění přepíše menu **vždy**, i když už je nahrané.
