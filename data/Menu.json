@@ -5,23 +5,128 @@
     "rok": 2026
   },
   "Pondeli": {
-    "jidla": [],
-    "poznamka": "Kovář právě rozdmýchává výheň a kuje plány na obědy. Dejte nám chviličku, než dnešní nabídku pořádně upečeme."
+    "jidla": [
+      {
+        "nazev": "Polévka - krupicová s vejcem"
+      },
+      {
+        "nazev": "Hrachová kaše s párkem",
+        "popis": " smažená cibulka, okurek, chléb",
+        "cena": 185
+      },
+      {
+        "nazev": "Přírodní vepřový plátek",
+        "popis": " sázené vejce, šťouchačky",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené rybí filé",
+        "popis": " vařené brambory, tatarka",
+        "cena": 195
+      }
+    ]
   },
   "Utery": {
-    "jidla": [],
-    "poznamka": "Nové recepty zrovna brousíme na kovadlině. Než začnou létat jiskry a menu bude hotové, můžete vybírat z našeho stálého lístku."
+    "jidla": [
+      {
+        "nazev": "Polévka - uzená s kroupami"
+      },
+      {
+        "nazev": "Zapečené šunkafleky s kuřecím masem",
+        "popis": " brokolicí a sýrem",
+        "cena": 185
+      },
+      {
+        "nazev": "Holandská sekaná",
+        "popis": " bramborová kaše, červená řepa",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené rybí filé",
+        "popis": " vařené brambory, tatarka",
+        "cena": 195
+      }
+    ]
   },
   "Streda": {
-    "jidla": [],
-    "poznamka": "V kuchyni to dnes duní, jak šéfkuchař vymýšlí ty nejlepší kombinace chutí. Polední menu už dostává jasné obrysy, brzy ho tu najdete!"
+    "jidla": [
+      {
+        "nazev": "Polévka - hrstková"
+      },
+      {
+        "nazev": "Drůbeží játra na cibulce a slanině",
+        "popis": " dušená rýže, sterilovaný okurek",
+        "cena": 185
+      },
+      {
+        "nazev": "Trhané vepřové maso BBQ",
+        "popis": " steakové hranolky, coleslaw",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené rybí filé",
+        "popis": " vařené brambory, tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Medailonky z vepřové panenky",
+        "popis": " pepřová omáčka, krokety, coleslaw",
+        "cena": 235
+      }
+    ]
   },
   "Ctvrtek": {
-    "jidla": [],
-    "poznamka": "Tvoříme pro vás poctivé jídlo, a to chce svůj čas u rozpálené pece. Hned jak srovnáme suroviny, nabídku sem doplníme."
+    "jidla": [
+      {
+        "nazev": "Polévka - selská s uzeninou"
+      },
+      {
+        "nazev": "Chalupářská masová směs",
+        "popis": " domácí bramboráčky",
+        "cena": 185
+      },
+      {
+        "nazev": "Pečená vepřová krkovice",
+        "popis": " hříbková omáčka, houskový knedlík",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené rybí filé",
+        "popis": " vařené brambory, tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Medailonky z vepřové panenky",
+        "popis": " pepřová omáčka, krokety, coleslaw",
+        "cena": 235
+      }
+    ]
   },
   "Patek": {
-    "jidla": [],
-    "poznamka": "Konec týdne si žádá něco speciálního, takže právě ladíme ty nejlepší kousky. Zastavte se za moment, páteční lístek se už chystá!"
+    "jidla": [
+      {
+        "nazev": "Polévka - zeleninový boršč"
+      },
+      {
+        "nazev": "Bramborové taštičky plněné povidlím",
+        "popis": " smažená strouhanka, máslo",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřový řízek v pivním těstíčku",
+        "popis": " mačkané brambory s pórkem",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené rybí filé",
+        "popis": " vařené brambory, tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Medailonky z vepřové panenky",
+        "popis": " pepřová omáčka, krokety, coleslaw",
+        "cena": 235
+      }
+    ]
   }
 }
