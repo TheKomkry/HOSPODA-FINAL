@@ -1,118 +1,27 @@
 {
   "zacatekTydne": {
-    "den": 28,
-    "mesic": 9,
+    "den": 5,
+    "mesic": 10,
     "rok": 2026
   },
   "Pondeli": {
     "jidla": [],
-    "poznamka": "Tento den není polední menu, ale normálně se vaří – vybrat si můžete z našeho <a href='/nabidka'>JÍDELNÍHO LÍSTKU</a>."
+    "poznamka": "Kovář právě rozdmýchává výheň a kuje plány na obědy. Dejte nám chviličku, než dnešní nabídku pořádně upečeme."
   },
   "Utery": {
-    "jidla": [
-      {
-        "nazev": "Polévka - gulášová s bramborem"
-      },
-      {
-        "nazev": "Italské houbové rizoto",
-        "cena": 185
-      },
-      {
-        "nazev": "Kuřecí steak",
-        "popis": " medovo-hořčičná omáčka, pečené bramborové plátky",
-        "cena": 195
-      },
-      {
-        "nazev": "Smažený květák",
-        "popis": " vařené brambory s máslem, domácí tatarka",
-        "cena": 195
-      },
-      {
-        "nazev": "Hovězí guláš",
-        "popis": " houskový knedlík",
-        "cena": 249
-      }
-    ]
+    "jidla": [],
+    "poznamka": "Nové recepty zrovna brousíme na kovadlině. Než začnou létat jiskry a menu bude hotové, můžete vybírat z našeho stálého lístku."
   },
   "Streda": {
-    "jidla": [
-      {
-        "nazev": "Polévka - zeleninová krémová"
-      },
-      {
-        "nazev": "Maďarský kuřecí perkelt",
-        "popis": " tarhoňa",
-        "cena": 185
-      },
-      {
-        "nazev": "Soukenický řízek",
-        "popis": " bramborová kaše",
-        "cena": 195
-      },
-      {
-        "nazev": "Smažený květák",
-        "popis": " vařené brambory s máslem, domácí tatarka",
-        "cena": 195
-      },
-      {
-        "nazev": "Španělský ptáček",
-        "popis": " jasmínová rýže",
-        "cena": 249
-      }
-    ]
+    "jidla": [],
+    "poznamka": "V kuchyni to dnes duní, jak šéfkuchař vymýšlí ty nejlepší kombinace chutí. Polední menu už dostává jasné obrysy, brzy ho tu najdete!"
   },
   "Ctvrtek": {
-    "jidla": [
-      {
-        "nazev": "Polévka - francouzská s těstovinou"
-      },
-      {
-        "nazev": "Jitrnicový prejt",
-        "popis": " kysané zelí, brambory",
-        "cena": 185
-      },
-      {
-        "nazev": "Vepřový guláš „Kovář“",
-        "popis": " houskový knedlík",
-        "cena": 195
-      },
-      {
-        "nazev": "Smažený květák",
-        "popis": " vařené brambory s máslem, domácí tatarka",
-        "cena": 195
-      },
-      {
-        "nazev": "Španělský ptáček",
-        "popis": " jasmínová rýže",
-        "cena": 249
-      }
-    ]
+    "jidla": [],
+    "poznamka": "Tvoříme pro vás poctivé jídlo, a to chce svůj čas u rozpálené pece. Hned jak srovnáme suroviny, nabídku sem doplníme."
   },
   "Patek": {
-    "jidla": [
-      {
-        "nazev": "Polévka - dýňová"
-      },
-      {
-        "nazev": "Palačinky s ovocnou marmeládou",
-        "popis": " citronový tvaroh",
-        "cena": 185
-      },
-      {
-        "nazev": "Cordon bleu",
-        "popis": " mačkané brambory, sterilovaný okurek",
-        "cena": 195
-      },
-      {
-        "nazev": "Smažený květák",
-        "popis": " vařené brambory s máslem, domácí tatarka",
-        "cena": 195
-      },
-      {
-        "nazev": "Španělský ptáček",
-        "popis": " jasmínová rýže",
-        "cena": 249
-      }
-    ]
+    "jidla": [],
+    "poznamka": "Konec týdne si žádá něco speciálního, takže právě ladíme ty nejlepší kousky. Zastavte se za moment, páteční lístek se už chystá!"
   }
 }
