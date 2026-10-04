@@ -1,111 +1,118 @@
 {
-  "restaurant": "Restaurace U tlustýho kováře s.r.o.",
-  "document_reference": "1-5.10. - 9.10. na plac.docx",
-  "dates": "5.10.- 9.10.",
-  "time": "11:00-14:00",
-  "note": "POLÉVKA V CENĚ MENU",
-  "menu": [
-    {
-      "day": "Pondělí",
-      "soup": "Polévka – krupicová s vejcem",
-      "dishes": [
-        {
-          "description": "Hrachová kaše s párkem, smažená cibulka, okurek, chléb",
-          "price": 185
-        },
-        {
-          "description": "Přírodní vepřový plátek, sázené vejce, šťouchačky",
-          "price": 195
-        },
-        {
-          "description": "Smažené rybí filé, vařené brambory, tatarka",
-          "price": 195
-        }
-      ]
-    },
-    {
-      "day": "Úterý",
-      "soup": "Polévka – uzená s kroupami",
-      "dishes": [
-        {
-          "description": "Zapečené šunkafleky s kuřecím masem, brokolicí a sýrem",
-          "price": 185
-        },
-        {
-          "description": "Holandská sekaná, bramborová kaše, červená řepa",
-          "price": 195
-        },
-        {
-          "description": "Smažené rybí filé, vařené brambory, tatarka",
-          "price": 195
-        }
-      ]
-    },
-    {
-      "day": "Středa",
-      "soup": "Polévka – hrstková",
-      "dishes": [
-        {
-          "description": "Drůbeží játra na cibulce a slanině, dušená rýže, sterilovaný okurek",
-          "price": 185
-        },
-        {
-          "description": "Trhané vepřové maso BBQ, steakové hranolky, coleslaw",
-          "price": 195
-        },
-        {
-          "description": "Smažené rybí filé, vařené brambory, tatarka",
-          "price": 195
-        },
-        {
-          "description": "Medailonky z vepřové panenky, pepřová omáčka, krokety, coleslaw",
-          "price": 235
-        }
-      ]
-    },
-    {
-      "day": "Čtvrtek",
-      "soup": "Polévka – selská s uzeninou",
-      "dishes": [
-        {
-          "description": "Chalupářská masová směs, domácí bramboráčky",
-          "price": 185
-        },
-        {
-          "description": "Pečená vepřová krkovice, hříbková omáčka, houskový knedlík",
-          "price": 195
-        },
-        {
-          "description": "Smažené rybí filé, vařené brambory, tatarka",
-          "price": 195
-        },
-        {
-          "description": "Medailonky z vepřové panenky, pepřová omáčka, krokety, coleslaw",
-          "price": 235
-        }
-      ]
-    },
-    {
-      "day": "Pátek",
-      "soup": "Polévka – zeleninový boršč",
-      "dishes": [
-        {
-          "description": "Bramborové taštičky plněné povidlím, smažená strouhanka, máslo",
-          "price": 185
-        },
-        {
-          "description": "Vepřový řízek v pivním těstíčku, mačkané brambory s pórkem",
-          "price": 195
-        },
-        {
-          "description": "Smažené rybí filé, vařené brambory, tatarka",
-          "price": 195
-        },
-        {
-          "description": "Medailonky z vepřové panenky, pepřová omáčka, krokety, coleslaw",
-          "price": 235
-        }
-      ]
-    }
-  ]
+  "zacatekTydne": {
+    "den": 28,
+    "mesic": 9,
+    "rok": 2026
+  },
+  "Pondeli": {
+    "jidla": [],
+    "poznamka": "Tento den není polední menu, ale normálně se vaří – vybrat si můžete z našeho <a href='/nabidka'>JÍDELNÍHO LÍSTKU</a>."
+  },
+  "Utery": {
+    "jidla": [
+      {
+        "nazev": "Polévka - gulášová s bramborem"
+      },
+      {
+        "nazev": "Italské houbové rizoto",
+        "cena": 185
+      },
+      {
+        "nazev": "Kuřecí steak",
+        "popis": " medovo-hořčičná omáčka, pečené bramborové plátky",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený květák",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Hovězí guláš",
+        "popis": " houskový knedlík",
+        "cena": 249
+      }
+    ]
+  },
+  "Streda": {
+    "jidla": [
+      {
+        "nazev": "Polévka - zeleninová krémová"
+      },
+      {
+        "nazev": "Maďarský kuřecí perkelt",
+        "popis": " tarhoňa",
+        "cena": 185
+      },
+      {
+        "nazev": "Soukenický řízek",
+        "popis": " bramborová kaše",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený květák",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Španělský ptáček",
+        "popis": " jasmínová rýže",
+        "cena": 249
+      }
+    ]
+  },
+  "Ctvrtek": {
+    "jidla": [
+      {
+        "nazev": "Polévka - francouzská s těstovinou"
+      },
+      {
+        "nazev": "Jitrnicový prejt",
+        "popis": " kysané zelí, brambory",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřový guláš „Kovář“",
+        "popis": " houskový knedlík",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený květák",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Španělský ptáček",
+        "popis": " jasmínová rýže",
+        "cena": 249
+      }
+    ]
+  },
+  "Patek": {
+    "jidla": [
+      {
+        "nazev": "Polévka - dýňová"
+      },
+      {
+        "nazev": "Palačinky s ovocnou marmeládou",
+        "popis": " citronový tvaroh",
+        "cena": 185
+      },
+      {
+        "nazev": "Cordon bleu",
+        "popis": " mačkané brambory, sterilovaný okurek",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený květák",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Španělský ptáček",
+        "popis": " jasmínová rýže",
+        "cena": 249
+      }
+    ]
+  }
 }
