@@ -44,3 +44,11 @@ Pokud chceš místo toho vlastní text (svátek, zavřeno, vaří se jen z líst
 - Můžeš v ní použít HTML, např. odkaz `<a href='/info'>INFO & AKCE</a>` (uvnitř textu používej jednoduché uvozovky `'`).
 - Poznámka platí, dokud je v souboru. Při zápisu dalšího týdne ji **smaž**, jinak zůstane (u dne, který bude zase prázdný).
 - Pozor na čárky: mezi `"jidla": []` a `"poznamka"` čárka být musí, za poslední položkou být nesmí – jinak se menu nenačte.
+
+## Automatická šablona v sobotu
+
+Každou sobotu ráno (cca 4:30–6:30) GitHub Action `.github/workflows/menu-template.yml` přepíše `Menu.json` šablonou s textem „menu se připravuje“ a doplní datum příštího pondělí.
+
+- Pokud už je v `Menu.json` menu na příští týden (pondělí příštího týdne), nic se nepřepíše.
+- Text šablony se upravuje přímo v tom workflow (`MENU_TEMPLATE`).
+- Dá se spustit i ručně (Actions → Šablona týdenního menu → Run workflow): po–čt doplní pondělí tohoto týdne, pá–ne pondělí příštího týdne.

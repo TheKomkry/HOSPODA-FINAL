@@ -1,0 +1,100 @@
+name: Šablona týdenního menu
+
+# Každou sobotu ráno přepíše data/Menu.json šablonou níže a doplní do ní
+# datum pondělí, od kterého menu platí.
+#
+# Které pondělí (podle českého času):
+#   pondělí–čtvrtek -> pondělí tohoto týdne
+#   pátek–neděle    -> pondělí příštího týdne (sobotní automatické spuštění)
+#
+# Pokud už je v Menu.json pondělí příštího týdne (nebo pozdější), nic se nepřepíše.
+
+on:
+  schedule:
+    # Cron běží v UTC: 03:37 UTC = 4:37 v zimě / 5:37 v létě našeho času.
+    # Rezerva pro zpoždění, se kterým GitHub plánované běhy spouští.
+    - cron: '37 3 * * 6'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  reset-menu:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Přepsat Menu.json šablonou
+        env:
+          # Šablona menu. Datum "zacatekTydne" se doplní automaticky, sem ho nepiš.
+          MENU_TEMPLATE: |
+            {
+              "Pondeli": {
+                "jidla": [],
+                "poznamka": "Kovář právě rozdmýchává výheň a kuje plány na obědy. Dejte nám chviličku, než dnešní nabídku pořádně upečeme."
+              },
+              "Utery": {
+                "jidla": [],
+                "poznamka": "Nové recepty zrovna brousíme na kovadlině. Než začnou létat jiskry a menu bude hotové, můžete vybírat z našeho stálého lístku."
+              },
+              "Streda": {
+                "jidla": [],
+                "poznamka": "V kuchyni to dnes duní, jak šéfkuchař vymýšlí ty nejlepší kombinace chutí. Polední menu už dostává jasné obrysy, brzy ho tu najdete!"
+              },
+              "Ctvrtek": {
+                "jidla": [],
+                "poznamka": "Tvoříme pro vás poctivé jídlo, a to chce svůj čas u rozpálené pece. Hned jak srovnáme suroviny, nabídku sem doplníme."
+              },
+              "Patek": {
+                "jidla": [],
+                "poznamka": "Konec týdne si žádá něco speciálního, takže právě ladíme ty nejlepší kousky. Zastavte se za moment, páteční lístek se už chystá!"
+              }
+            }
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from datetime import date, datetime, timedelta
+          from zoneinfo import ZoneInfo
+
+          MENU = "data/Menu.json"
+
+          today = datetime.now(ZoneInfo("Europe/Prague")).date()
+          this_monday = today - timedelta(days=today.weekday())
+          next_monday = this_monday + timedelta(days=7)
+          # weekday(): 0 = pondělí ... 3 = čtvrtek, 4 = pátek ... 6 = neděle
+          target = this_monday if today.weekday() <= 3 else next_monday
+
+          try:
+              with open(MENU, encoding="utf-8") as f:
+                  w = json.load(f)["zacatekTydne"]
+              current = date(w["rok"], w["mesic"], w["den"])
+          except Exception as e:
+              print(f"Menu.json nejde přečíst ({e}), přepisuji šablonou.")
+              current = None
+
+          print(f"Dnes: {today}, cílové pondělí: {target}, v Menu.json: {current}")
+          if current is not None and current >= next_monday:
+              print("Menu na příští týden už je nahrané, nic nepřepisuji.")
+              raise SystemExit(0)
+
+          menu = {"zacatekTydne": {"den": target.day, "mesic": target.month, "rok": target.year}}
+          menu.update(json.loads(os.environ["MENU_TEMPLATE"]))
+          with open(MENU, "w", encoding="utf-8") as f:
+              json.dump(menu, f, ensure_ascii=False, indent=2)
+              f.write("\n")
+          PY
+
+      - name: Commit a push
+        run: |
+          if git diff --quiet; then
+            echo "Žádná změna."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Menu: šablona na nový týden"
+          git push origin HEAD:main
