@@ -5,23 +5,133 @@
     "rok": 2026
   },
   "Pondeli": {
-    "jidla": [],
-    "poznamka": "Kovář právě rozdmýchává výheň a kuje plány na obědy. Dejte nám chviličku, než dnešní nabídku pořádně upečeme."
+    "jidla": [
+      {
+        "nazev": "Polévka - hráškový krém"
+      },
+      {
+        "nazev": "Bramborový guláš s domácí klobásou",
+        "popis": " cibulka, chléb",
+        "cena": 185
+      },
+      {
+        "nazev": "Pečená šťavnatá krkovice",
+        "popis": " jasmínová rýže",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené žampiony",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      }
+    ]
   },
   "Utery": {
-    "jidla": [],
-    "poznamka": "Nové recepty zrovna brousíme na kovadlině. Než začnou létat jiskry a menu bude hotové, můžete vybírat z našeho stálého lístku."
+    "jidla": [
+      {
+        "nazev": "Polévka - masový vývar se zeleninou, fritátové nudle"
+      },
+      {
+        "nazev": "Zadělávané fazolové lusky",
+        "popis": " 2 ks vejce, houskový knedlík",
+        "cena": 185
+      },
+      {
+        "nazev": "Kuřecí steak s poličanem a hermelínem",
+        "popis": " pečené brambory",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené žampiony",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Club sandwich s kuřecím masem",
+        "popis": " čedar, slanina, vejce, hranolky",
+        "cena": 235
+      }
+    ]
   },
   "Streda": {
-    "jidla": [],
-    "poznamka": "V kuchyni to dnes duní, jak šéfkuchař vymýšlí ty nejlepší kombinace chutí. Polední menu už dostává jasné obrysy, brzy ho tu najdete!"
+    "jidla": [
+      {
+        "nazev": "Polévka - krkonošské kyselo"
+      },
+      {
+        "nazev": "Lasagne se špenátem a kuřecím masem",
+        "popis": " parmezán",
+        "cena": 185
+      },
+      {
+        "nazev": "Řecké biftečky",
+        "popis": " bramborová kaše, sterilovaná okurka",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené žampiony",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Club sandwich s kuřecím masem",
+        "popis": " čedar, slanina, vejce, hranolky",
+        "cena": 235
+      }
+    ]
   },
   "Ctvrtek": {
-    "jidla": [],
-    "poznamka": "Tvoříme pro vás poctivé jídlo, a to chce svůj čas u rozpálené pece. Hned jak srovnáme suroviny, nabídku sem doplníme."
+    "jidla": [
+      {
+        "nazev": "Polévka - pórková s bramborem"
+      },
+      {
+        "nazev": "Pečené kuřecí stehno po myslivecku",
+        "popis": " dušená rýže",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřová kýta na pivu",
+        "popis": " červené zelí se špekem, bramborový knedlík",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené žampiony",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Club sandwich s kuřecím masem",
+        "popis": " čedar, slanina, vejce, hranolky",
+        "cena": 235
+      }
+    ]
   },
   "Patek": {
-    "jidla": [],
-    "poznamka": "Konec týdne si žádá něco speciálního, takže právě ladíme ty nejlepší kousky. Zastavte se za moment, páteční lístek se už chystá!"
+    "jidla": [
+      {
+        "nazev": "Polévka - dršťková z hlívy ústřičné"
+      },
+      {
+        "nazev": "Šulánky plněné mákem",
+        "popis": " máslo, cukr",
+        "cena": 185
+      },
+      {
+        "nazev": "Kuřecí řízek v cornflakes",
+        "popis": " vídeňský bramborový salát",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažené žampiony",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Club sandwich s kuřecím masem",
+        "popis": " čedar, slanina, vejce, hranolky",
+        "cena": 235
+      }
+    ]
   }
 }
