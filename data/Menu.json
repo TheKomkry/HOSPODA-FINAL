@@ -5,23 +5,132 @@
     "rok": 2026
   },
   "Pondeli": {
-    "jidla": [],
-    "poznamka": "Kovář právě rozdmýchává výheň a kuje plány na obědy. Dejte nám chviličku, než dnešní nabídku pořádně upečeme."
+    "jidla": [
+      {
+        "nazev": "Polévka - bramborovo-česnekový krém"
+      },
+      {
+        "nazev": "Vepřové rizoto po srbsku",
+        "popis": " strouhaný sýr, sterilovaný okurek",
+        "cena": 185
+      },
+      {
+        "nazev": "Kuřecí steak na grilu",
+        "popis": " nivová omáčka, krokety",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": " hranolky, domácí tatarka",
+        "cena": 195
+      }
+    ]
   },
   "Utery": {
-    "jidla": [],
-    "poznamka": "Nové recepty zrovna brousíme na kovadlině. Než začnou létat jiskry a menu bude hotové, můžete vybírat z našeho stálého lístku."
+    "jidla": [
+      {
+        "nazev": "Polévka - kuřecí kaldoun"
+      },
+      {
+        "nazev": "Trhané králičí maso na smetaně",
+        "popis": " těstoviny penne",
+        "cena": 185
+      },
+      {
+        "nazev": "Uzená krkovička",
+        "popis": " bramborová kaše, křen, rajčatový salát",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": " hranolky, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Jelení guláš",
+        "popis": " domácí bramboráčky, Vídeňská cibulka",
+        "cena": 235
+      }
+    ]
   },
   "Streda": {
-    "jidla": [],
-    "poznamka": "V kuchyni to dnes duní, jak šéfkuchař vymýšlí ty nejlepší kombinace chutí. Polední menu už dostává jasné obrysy, brzy ho tu najdete!"
+    "jidla": [
+      {
+        "nazev": "Polévka - mexická fazolová"
+      },
+      {
+        "nazev": "Špagety s filovaným kuřecím masem a dýňovou omáčkou",
+        "popis": " rukola",
+        "cena": 185
+      },
+      {
+        "nazev": "Plněný vepřový závitek",
+        "popis": " šťouchané brambory se smetanou",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": " hranolky, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Jelení guláš",
+        "popis": " domácí bramboráčky, Vídeňská cibulka",
+        "cena": 235
+      }
+    ]
   },
   "Ctvrtek": {
-    "jidla": [],
-    "poznamka": "Tvoříme pro vás poctivé jídlo, a to chce svůj čas u rozpálené pece. Hned jak srovnáme suroviny, nabídku sem doplníme."
+    "jidla": [
+      {
+        "nazev": "Polévka - cibulačka s chlebovými krutony"
+      },
+      {
+        "nazev": "Bramborové knedlíky s uzeným masem",
+        "popis": " tuřanské zelí, konfitovaná cibulka",
+        "cena": 185
+      },
+      {
+        "nazev": "Paprikový lusk",
+        "popis": " rajská omáčka, houskový knedlík",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": " hranolky, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Jelení guláš",
+        "popis": " domácí bramboráčky, Vídeňská cibulka",
+        "cena": 235
+      }
+    ]
   },
   "Patek": {
-    "jidla": [],
-    "poznamka": "Konec týdne si žádá něco speciálního, takže právě ladíme ty nejlepší kousky. Zastavte se za moment, páteční lístek se už chystá!"
+    "jidla": [
+      {
+        "nazev": "Polévka - brokolicový krém se smaženým hráškem"
+      },
+      {
+        "nazev": "Domácí žemlovka s jablky a tvarohem",
+        "cena": 185
+      },
+      {
+        "nazev": "Řízkové duo (kuřecí, vepřový)",
+        "popis": " tradiční bramborový salát",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený sýr gouda se šunkou",
+        "popis": " hranolky, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Jelení guláš",
+        "popis": " domácí bramboráčky, Vídeňská cibulka",
+        "cena": 235
+      }
+    ]
   }
 }
