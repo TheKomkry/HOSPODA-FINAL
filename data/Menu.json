@@ -5,23 +5,132 @@
     "rok": 2026
   },
   "Pondeli": {
-    "jidla": [],
-    "poznamka": "Kovář právě rozdmýchává výheň a kuje plány na obědy. Dejte nám chviličku, než dnešní nabídku pořádně upečeme."
+    "jidla": [
+      {
+        "nazev": "Polévka - rajská s těstovinou"
+      },
+      {
+        "nazev": "Špagety po uhlířsku",
+        "popis": " parmezán",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřový stroganoff",
+        "popis": " jasmínová rýže",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený lunchmeat",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      }
+    ]
   },
   "Utery": {
-    "jidla": [],
-    "poznamka": "Nové recepty zrovna brousíme na kovadlině. Než začnou létat jiskry a menu bude hotové, můžete vybírat z našeho stálého lístku."
+    "jidla": [
+      {
+        "nazev": "Polévka - thajská"
+      },
+      {
+        "nazev": "Bulgurové rizoto s kuřecím masem",
+        "popis": " rajčaty a zeleninou",
+        "cena": 185
+      },
+      {
+        "nazev": "Pštrosí vejce (vejce v mletém mase v trojobalu)",
+        "popis": " bramborová kaše, okurek",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený lunchmeat",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Gnocchi s vepřovou panenkou",
+        "popis": " medovo-hořčičná omáčka, sušená rajčata, rukola",
+        "cena": 249
+      }
+    ]
   },
   "Streda": {
-    "jidla": [],
-    "poznamka": "V kuchyni to dnes duní, jak šéfkuchař vymýšlí ty nejlepší kombinace chutí. Polední menu už dostává jasné obrysy, brzy ho tu najdete!"
+    "jidla": [
+      {
+        "nazev": "Polévka - žampionový krém s krutony"
+      },
+      {
+        "nazev": "Kuřecí steak na grilu",
+        "popis": " čedarová omáčka, pečené bramborové plátky",
+        "cena": 185
+      },
+      {
+        "nazev": "Vepřová kýta po hambursku",
+        "popis": " houskový knedlík",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený lunchmeat",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Gnocchi s vepřovou panenkou",
+        "popis": " medovo-hořčičná omáčka, sušená rajčata, rukola",
+        "cena": 249
+      }
+    ]
   },
   "Ctvrtek": {
-    "jidla": [],
-    "poznamka": "Tvoříme pro vás poctivé jídlo, a to chce svůj čas u rozpálené pece. Hned jak srovnáme suroviny, nabídku sem doplníme."
+    "jidla": [
+      {
+        "nazev": "Polévka - kapustová s bramborem"
+      },
+      {
+        "nazev": "Vykostěné vepřové koleno",
+        "popis": " nakládaná zelenina, hořčice, křen, pečivo",
+        "cena": 185
+      },
+      {
+        "nazev": "Pomalu pečená krkovička na slanině a hřibech",
+        "popis": " krupeto",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený lunchmeat",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Gnocchi s vepřovou panenkou",
+        "popis": " medovo-hořčičná omáčka, sušená rajčata, rukola",
+        "cena": 249
+      }
+    ]
   },
   "Patek": {
-    "jidla": [],
-    "poznamka": "Konec týdne si žádá něco speciálního, takže právě ladíme ty nejlepší kousky. Zastavte se za moment, páteční lístek se už chystá!"
+    "jidla": [
+      {
+        "nazev": "Polévka - koprová s bramborem"
+      },
+      {
+        "nazev": "Dukátové buchtičky s vanilkovým krémem",
+        "cena": 185
+      },
+      {
+        "nazev": "Holandský řízek",
+        "popis": " šťouchané brambory s cibulkou",
+        "cena": 195
+      },
+      {
+        "nazev": "Smažený lunchmeat",
+        "popis": " vařené brambory s máslem, domácí tatarka",
+        "cena": 195
+      },
+      {
+        "nazev": "Gnocchi s vepřovou panenkou",
+        "popis": " medovo-hořčičná omáčka, sušená rajčata, rukola",
+        "cena": 249
+      }
+    ]
   }
 }
