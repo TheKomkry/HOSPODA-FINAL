@@ -1,132 +1,27 @@
 {
-"zacatekTydne": {
-"den": 16,
-"mesic": 11,
-"rok": 2026
-},
-"Pondeli": {
-"jidla": [
-{
-"nazev": "Polévka - bílá fazolová"
-},
-{
-"nazev": "Špagety bolognese",
-"popis": " parmezán",
-"cena": 185
-},
-{
-"nazev": "Masový mix flamendr",
-"popis": " jasmínová rýže",
-"cena": 195
-},
-{
-"nazev": "Smažené tvarůžky",
-"popis": " vařené brambory s máslem, domácí tatarka",
-"cena": 195
-}
-]
-},
-"Utery": {
-"jidla": [
-{
-"nazev": "Polévka - kuřecí vývar s masem a zeleninou, tarhoňa"
-},
-{
-"nazev": "Koprová omáčka",
-"popis": " 2 ks vařené vejce, houskový knedlík",
-"cena": 185
-},
-{
-"nazev": "Záhorácký závitek",
-"popis": " bramborová kaše",
-"cena": 195
-},
-{
-"nazev": "Smažené tvarůžky",
-"popis": " vařené brambory s máslem, domácí tatarka",
-"cena": 195
-},
-{
-"nazev": "Lasagne bolognese sypané parmezánem",
-"cena": 239
-}
-]
-},
-"Streda": {
-"jidla": [
-{
-"nazev": "Polévka - dýňový krém s kokosovým mlékem a chilli"
-},
-{
-"nazev": "Drůbeží játra na cibulce",
-"popis": " dušená rýže, sterilovaný okurek",
-"cena": 185
-},
-{
-"nazev": "Cmunda po kaplicku",
-"popis": " vídeňská cibulka",
-"cena": 195
-},
-{
-"nazev": "Smažené tvarůžky",
-"popis": " vařené brambory s máslem, domácí tatarka",
-"cena": 195
-},
-{
-"nazev": "Lasagne bolognese sypané parmezánem",
-"cena": 239
-}
-]
-},
-"Ctvrtek": {
-"jidla": [
-{
-"nazev": "Polévka - zelná s uzeninou"
-},
-{
-"nazev": "Čevapčiči",
-"popis": " pečené brambory, hořčice, cibule",
-"cena": 185
-},
-{
-"nazev": "Pomalu pečená krkovička na pivě",
-"popis": " listový špenát, noky",
-"cena": 195
-},
-{
-"nazev": "Smažené tvarůžky",
-"popis": " vařené brambory s máslem, domácí tatarka",
-"cena": 195
-},
-{
-"nazev": "Lasagne bolognese sypané parmezánem",
-"cena": 239
-}
-]
-},
-"Patek": {
-"jidla": [
-{
-"nazev": "Polévka - gulášová"
-},
-{
-"nazev": "Široké nudle s mákem, máslem a cukrem",
-"cena": 185
-},
-{
-"nazev": "Obrácený vepřový řízek",
-"popis": " vídeňský bramborový salát",
-"cena": 195
-},
-{
-"nazev": "Smažené tvarůžky",
-"popis": " vařené brambory s máslem, domácí tatarka",
-"cena": 195
-},
-{
-"nazev": "Lasagne bolognese sypané parmezánem",
-"cena": 239
-}
-]
-}
+  "zacatekTydne": {
+    "den": 23,
+    "mesic": 11,
+    "rok": 2026
+  },
+  "Pondeli": {
+    "jidla": [],
+    "poznamka": "Kovář právě rozdmýchává výheň a kuje plány na obědy. Dejte nám chviličku, než dnešní nabídku pořádně upečeme."
+  },
+  "Utery": {
+    "jidla": [],
+    "poznamka": "Nové recepty zrovna brousíme na kovadlině. Než začnou létat jiskry a menu bude hotové, můžete vybírat z našeho stálého lístku."
+  },
+  "Streda": {
+    "jidla": [],
+    "poznamka": "V kuchyni to dnes duní, jak šéfkuchař vymýšlí ty nejlepší kombinace chutí. Polední menu už dostává jasné obrysy, brzy ho tu najdete!"
+  },
+  "Ctvrtek": {
+    "jidla": [],
+    "poznamka": "Tvoříme pro vás poctivé jídlo, a to chce svůj čas u rozpálené pece. Hned jak srovnáme suroviny, nabídku sem doplníme."
+  },
+  "Patek": {
+    "jidla": [],
+    "poznamka": "Konec týdne si žádá něco speciálního, takže právě ladíme ty nejlepší kousky. Zastavte se za moment, páteční lístek se už chystá!"
+  }
 }
